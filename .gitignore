@@ -1,0 +1,15 @@
+# Медиафайлы
+/media/
+
+# Временные файлы
+*.tmp
+*.log
+
+# Системные файлы Windows
+Thumbs.db
+Desktop.ini
+
+# Секреты
+.env
+.env.*
+!.env.example
