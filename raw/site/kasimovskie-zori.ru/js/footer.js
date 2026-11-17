@@ -1,0 +1,34 @@
+document.write('<footer class="footer">');
+document.write('<div class="container">');
+document.write('<div class="row">');
+document.write('<div class="col">');
+document.write('<div class="footer_content d-flex flex-md-row flex-column align-items-center align-items-start justify-content-start">');
+document.write('<div class="copyright">Copyright &copy;<script>document.write(new Date().getFullYear());</script> Все права защищены | ООО "КАСИМОВСКИЕ ЗОРИ"  <a href="" target="_blank"></a>');
+
+document.writeln('<div style="width:300px; margin-top:10px;">');
+document.writeln('<ul class="aside-social">');
+document.writeln('<li><a href="https://vk.com/kasimovskie.zori" target="_blank"><img src="images/social/vk_footer_1.png" alt="" width="38px" onMouseOver="this.src=\'images/social/vk_footer_2.png\'" onMouseOut="this.src=\'images/social/vk_footer_1.png\'" style="float:left;margin-right:3px;"></a></li>');
+document.writeln('<li><a href="https://ok.ru/group/57064308998336" target="_blank"><img src="images/social/ok_footer_1.png" alt="" width="38px" onMouseOver="this.src=\'images/social/ok_footer_2.png\'" onMouseOut="this.src=\'images/social/ok_footer_1.png\'" style="float:left; margin-right:3px;"></a></li>');
+document.writeln('<li><a href="https://t.me/kasimovskie_zori" target="_blank"><img src="images/social/tg_footer_1.png" alt="" width="38px" onMouseOver="this.src=\'images/social/tg_footer_2.png\'" onMouseOut="this.src=\'images/social/tg_footer_1.png\'" style="float:left; margin-right:3px;"></a></li>');
+document.writeln('<li><a href="javascript:void(0)"><img src="images/social/ws_footer_1.png" alt="" width="38px" onMouseOver="this.src=\'images/social/ws_footer_2.png\'" onMouseOut="this.src=\'images/social/ws_footer_1.png\'" onclick="alert(\'Номер для контакта: +79106100192\');" style="float:left; margin-right:3px;"></a></li>');
+document.writeln('</ul>');
+document.writeln('</div>');
+
+document.write('</div>');
+document.write('<div class="footer_logo">');
+document.write('<div class="logo">');
+document.write('<div class="logo" style="float: left; left: 50px;">');
+document.write('<div class="logo" style="float: left;"><img src="images/logo.png" width="100px"></div>');	
+document.write('<a href="#">');
+document.write('<div style="margin-top: 10px; margin-left: 50px;" ><font size="5px"><font color="#BDBDBD">санаторий</font><br>Касимовские<br>Зори</font></div>');
+document.write('<div>&nbsp;</div>');
+document.write('</a>');
+document.write('</div>');
+document.write('</div>');
+document.write('</div>');
+document.write('<div class="button footer_button ml-md-auto"><a href="booking.html">Забронировать</a></div>');
+document.write('</div>');
+document.write('</div>');
+document.write('</div>');
+document.write('</div>');
+document.write('</footer>');

@@ -1,0 +1,23 @@
+#back-top {
+	position: fixed;
+	bottom: 20px;
+	margin-left: 75%;
+}
+
+/* arrow icon (span tag) */
+#back-top a span {
+	width: 110px;
+	height: 110px;
+	display: block;
+	margin-bottom: 7px;
+	background-color: rgba(255, 255, 255, 0.7) ;
+	background-image: url(images/arrows18.png);
+	background-position: 5px 5px;
+	background-repeat: no-repeat;
+	/* rounded corners */
+	-webkit-border-radius: 55px;
+	-moz-border-radius: 55px;
+	border-radius: 55px;
+	border: #333 solid 3px;
+
+}

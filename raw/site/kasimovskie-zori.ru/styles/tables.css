@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+table.greytable tr td { 
+	background: #EEEEEE;
+	vertical-align:top;
+	}
+table.greytable th { 
+	background: #1068B1;
+	vertical-align:central;
+	color: #FFFFFF;
+	font-weight:bold;
+}
+
+table.stripetable th { 
+	background: #1080A8;
+	vertical-align:central;
+	color: #FFFFFF;
+	font-weight:bold;
+	padding: 4px;
+}
+table.stripetable td { 
+	vertical-align:central;
+	padding: 4px;
+}
+table.stripetable tr:nth-child(even) td{
+	background: #FFFFFF;
+	vertical-align:top;
+	color:#111;
+}
+table.stripetable tr:nth-child(odd) td{
+	background: #EEEEEE;
+	vertical-align:top;
+	color:#111;
+}
+.stripetable tr {
+	height:45px;
+		
+}
+

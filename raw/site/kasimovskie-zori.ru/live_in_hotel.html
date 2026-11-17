@@ -1,0 +1,943 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Санаторий Касимовские Зори</title>
+<meta charset="windows-1251">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="Санаторий Касимовские Зори">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="styles/bootstrap-4.1.2/bootstrap.min.css">
+<link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="plugins/colorbox/colorbox.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="styles/rooms.css">
+<link rel="stylesheet" type="text/css" href="styles/rooms_responsive.css">
+<link rel="stylesheet" type="text/css" href="styles/style.css">
+<link rel="stylesheet" type="text/css" href="styles/tables.css">
+<link rel="stylesheet" type="text/css" href="styles/top_nav.css">
+<link rel="stylesheet" type="text/css" href="styles/submenu.css">
+<link rel="stylesheet" type="text/css" href="styles/side-panel.css">
+	
+<script src="js/price_programs.js"></script> <!-- цены на программы-->		
+<script src="js/activemenu.js"></script> <!-- активный пункт меню-->	
+<script src="js/changeprice.js"></script> <!-- смена цен-->	
+<script src="js/jquery-1.11.1.min.js"></script> 
+<script src="js/top_nav.js"></script> <!-- шапка с примагничиванием-->		
+	
+	
+	
+</head>
+<body onLoad="changeprice_withfader(0);">
+
+<div class="super_container" >
+	
+	<!-- Header -->
+	<script type="text/javascript" src="js/header.js"></script>
+	<script>setActiveMenu('menu3');</script>
+	
+	
+	<!-- Menu -->
+	<script type="text/javascript" src="js/menu.js"></script>
+	
+
+
+	<!-- Home -->
+	<script type="text/javascript" src="js/home.js"></script>	
+
+	
+	<!-- Search Box -->
+	<script type="text/javascript" src="js/frontdesk.js"></script>	
+	<!-- Rooms -->
+
+	
+	
+<style>
+.button-left-right {
+	background-color: #FFF; 
+	/*background-image: url(images/arrows19.png);*/
+	background-position: 10px 10px;
+	background-repeat: no-repeat;
+	height: 70px; 
+	width: 90%;
+	padding-top: 25px; 
+	cursor: pointer;   
+	user-select: none;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	border: #333 solid 3px;
+}
+</style>
+	
+
+	
+	<div class="rooms" id="mainmenu">
+		<div class="container">
+			<div class="section_title" style="margin-top:-20px; text-align: center;"> 
+				<span class="fabrge-regular" style="margin-top: -40px; margin-bottom: 40px;">Проживание в гостинице и санатории </span>
+		 	</div>	
+			<div class="row">
+  				<div class="col" style="text-align: center;">
+					
+	
+					
+	<div id="ntphone" class="text-center" style="margin-top:60px; margin-bottom: 30px;">				
+	<font size="+1">      
+  		<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+   			<tr>
+     			<td align="center"><strong><font size="+2" color="#003399">ПРЕЙСКУРАНТ<br />СТОИМОСТИ ПРОЖИВАНИЯ<br />В ГОСТИНИЦЕ И САНАТОРИИ<br />с 13.01.2026 г.<br /><br /><font color="#0033CC">С ПОЛНЫМ ПИТАНИЕМ<br />(включая бассейн и тренажерный зал в спорткомплексе в рабочее время)<br /><br /></font></strong></td>
+   			</tr>
+		</table>			
+		
+		
+	<div id="top_nav" class="menu-block" style="margin-bottom: 40px;">		
+  		<table id="table_nav" class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+   			<tr height="100px">
+	     		<th width="60%"><font size="+1">Период / Категория номера</th>
+		 		<th width="10%" align="right" style="min-width: 60px;">
+			 		<div id="button-left" class="button-left-right" style="background-image: url(images/arrows19-left.png);" onClick="changeprice_withfader(-1);"></div></th>
+	     		<th width="10%" align="right"><span id="pricefader0">-</span></th>
+    	 		<th width="10%" align="right" style="min-width: 60px;">
+			 		<div id="button-right" class="button-left-right" style="background-image: url(images/arrows19-right.png); background-position: top+10px right+10px;" onClick="changeprice_withfader(1);"></div></th>	   
+   			</tr>
+		</table>	  
+	</div>
+		
+	
+ 	<!-- Подстава вместо меню --> 
+	<div id="podstava" style="width:100%; height:100px; float:left; margin-top:0; border: #B34445 solid 0px;"></div>    
+		
+<script>	
+	var w = document.getElementById('ntphone').offsetWidth;
+	document.getElementById('table_nav').setAttribute('width', String(w)+'px');
+	document.getElementById('top_nav').setAttribute('width', String(w)+'px');
+	//var positionPodstava = document.getElementById('podstava').getBoundingClientRect();
+	positionPodstava = $('#podstava').offset();
+	document.getElementById('top_nav').setAttribute('top', String(positionPodstava.top+76)+'px');	 
+	h_hght = positionPodstava.top + 76;	
+//alert(String(positionPodstava.top)+'px');	
+</script>		
+		
+		<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" >		
+   			<tr height="50px" style="border-top: #666 solid 2px;">
+	 			<td width="10%" style="background-color:#50B9DF; cursor: pointer;" onClick="opentr('stnd');"><img id="imgstnd" src="images/minus.png" /></td>  
+  		   		<td colspan="2" align="left" style="background-color:#50B9DF; cursor: pointer;" onClick="opentr('stnd');">
+					<strong>СТАНДАРТ одноместный</strong>
+				</td>	
+  		   		<td  width="10%"  align="left" style="background-color:#50B9DF;">
+				
+    						<input type="checkbox" id="side-checkbox" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox">+</label>    
+    							<div class="side-title">
+									<strong>СТАНДАРТ одноместный</strong>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									<script>meduslugishow(1);</script>
+								</div>	
+							</div>					
+							<div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox">
+        							<div class="side-b side-open">ФОТО</div>
+        							<div class="side-b side-close">ФОТО</div>
+    							</label>
+							</div> 					
+				</td>	
+   			</tr>
+  		</table>
+	
+		<div id="stnd" class="articlesb">				
+ 			<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" >	
+   				<tr>
+	 				<td align="left" width="60%">Одноместное размещение</strong></td>
+	 				<td align="center" width="10%"> </td>
+	 				<td align="center" width="10%"><span id="pricefader1">-</span></td>
+	 				<td align="center" width="10%"> </td>	
+				</tr>
+			</table>
+		</div>
+		
+ 		<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" >	
+  			<tr height="50px" style="border-top: #666 solid 2px;">
+	 			<td  width="10%" style="background-color:#50B9DF; cursor: pointer;" onClick="opentr('stnd2');"><img id="imgstnd2" src="images/minus.png" /></td>  	  
+     			<td colspan="2" align="left" style="background-color:#50B9DF;  cursor: pointer;" onClick="opentr('stnd2');"><strong>СТАНДАРТ 2-местный однокомнатный</strong></td>
+  		   		<td  width="10%"  align="left" style="background-color:#50B9DF;">
+				
+    						<input type="checkbox" id="side-checkbox3" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox3">+</label>    
+    							<div class="side-title">
+									<strong>СТАНДАРТ 2-местный однокомнатный</strong>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									<script>meduslugishow(1);</script>
+								</div>	
+							</div>					
+							<div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox3">
+        							<div class="side-b side-open">ФОТО</div>
+        							<div class="side-b side-close">ФОТО</div>
+    							</label>
+							</div> 					
+				</td>					
+   			</tr>
+		</table>
+						
+						
+		<div id="stnd2" class="articles2">				
+ 			<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" >
+   				<tr>	   
+	 				<td align="left" width="60%">Одноместное размещение</td>
+	 				<td align="center" width="10%"> </td>	   
+	 				<td align="center" width="10%"><span id="pricefader2">-</span></td>
+	 				<td align="center" width="10%"> </td>	   
+   				</tr>
+   				<tr>
+	     			<td align="left">Двухместное размещение</td>
+					<td align="center"> </td>	   
+					<td align="center"><span id="pricefader3">-</span></</td>
+	 				<td align="center"> </td>		 
+   				</tr>
+  				<tr>
+     				<td align="left">Осн. место для ребенка (3-14 лет)</td>
+	 				<td align="center"> </td>
+	 				<td align="center"><span id="pricefader4">-</span></td>
+     				<td align="center"> </td>
+   				</tr>						
+   				<tr>
+     				<td align="left">Доп. место (3-14 лет)</td>
+	 				<td align="center"> </td>	   
+	 				<td align="center"><span id="pricefader5">-</span></td>
+	 				<td align="center"> </td>	
+   				</tr>
+			</table>	 
+	    </div>
+	   
+	   
+ 
+ 		<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" >
+			<tr height="50px" style="border-top: #666 solid 2px;">
+	 			<td width="10%" style="background-color:#50B9DF; cursor: pointer;" onClick="opentr('stnd2Oka');"><img id="imgstnd2Oka" src="images/plus.png" /></td>  	 
+     			<td colspan="2" align="left" style="background-color:#50B9DF; cursor: pointer;" onClick="opentr('stnd2Oka');"><strong>СТАНДАРТ 2-местный однокомнатный (с видом на Оку)</strong></td>
+  		   		<td  width="10%"  align="left" style="background-color:#50B9DF;">
+				
+    						<input type="checkbox" id="side-checkbox4" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox4">+</label>    
+    							<div class="side-title">
+									<strong>СТАНДАРТ 2-местный однокомнатный (с видом на Оку)</strong>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									<script>meduslugishow(1);</script>
+								</div>	
+							</div>					
+							<div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox4">
+        							<div class="side-b side-open">ФОТО</div>
+        							<div class="side-b side-close">ФОТО</div>
+    							</label>
+							</div> 					
+				</td>					
+   			</tr>
+		</table>
+				
+  		<div id="stnd2Oka" class="articles">	
+ 			<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" >	 
+   				<tr>
+	 				<td align="left" width="60%">Одноместное размещение</td>
+	 				<td align="center" width="10%"> </td>	   
+	 				<td align="center" width="10%"><span id="pricefader6">-</span></td>
+	 				<td align="center" width="10%"> </td>	
+   				</tr>
+   				<tr>
+     				<td align="left">Двухместное размещение</td>
+	 				<td align="center"> </td>	   
+	 				<td align="center"><span id="pricefader7">-</span></td>
+	 				<td align="center"> </td>	
+   				</tr>
+   				<tr>
+     				<td align="left">Осн. место для ребенка (3-14 лет)</td>
+	 				<td align="center"> </td>	   
+	 				<td align="center"><span id="pricefader8">-</span></td>
+	 				<td align="center"> </td>	
+   				</tr>
+   				<tr>
+     				<td align="left">Доп. место (3-14 лет)</td>
+	 				<td align="center"> </td>	   
+	 				<td align="center"><span id="pricefader9">-</span></td>
+	 				<td align="center"> </td>	
+   				</tr>
+	  		</table>
+		</div>
+					
+	 
+ 		<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" >	 
+   			<tr height="50px" style="border-top: #666 solid 2px;">
+	 			<td width="10%" style="background-color:#50B9DF; cursor: pointer;" onClick="opentr('stnd3');"><img id="imgstnd3" src="images/plus.png" /></td>  	   
+     			<td colspan="2" align="left" style="background-color:#50B9DF; cursor: pointer;" onClick="opentr('stnd3');"><strong>СТАНДАРТ 3-местный однокомнатный</strong></td>
+  		   		<td  width="10%"  align="left" style="background-color:#50B9DF;">
+				
+    						<input type="checkbox" id="side-checkbox5" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox5">+</label>    
+    							<div class="side-title">
+									<strong>СТАНДАРТ 3-местный однокомнатный</strong>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									<script>meduslugishow(1);</script>
+								</div>	
+							</div>					
+							<div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox5">
+        							<div class="side-b side-open">ФОТО</div>
+        							<div class="side-b side-close">ФОТО</div>
+    							</label>
+							</div> 					
+				</td>				
+   			</tr>
+	  	</table>
+					
+		<div id="stnd3" class="articles">	
+ 			<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" >						
+	   			<tr>
+		 			<td align="left" width="60%">Двухместное размещение</td>
+	 				<td align="center" width="10%"> </td>	   
+	 				<td align="center" width="10%"><span id="pricefader10">-</span></td>
+	 				<td align="center" width="10%"> </td>	
+	   			</tr>
+   				<tr>
+     				<td align="left">Трёхместное размещение</td>
+	 				<td align="center"> </td>	   
+	 				<td align="center"><span id="pricefader11">-</span></td>
+		 			<td align="center"> </td>	
+   				</tr>
+   				<tr>
+     				<td align="left">Осн. место для ребенка (3-14 лет)</td>
+	 				<td align="center"> </td>	   
+	 				<td align="center"><span id="pricefader12">-</span></td>
+		 			<td align="center"> </td>	
+   				</tr>
+   				<tr>
+     				<td align="left">Доп. место (3-14 лет)</td>
+	 				<td align="center"> </td>	   
+		 			<td align="center"><span id="pricefader13">-</span></td>
+		 			<td align="center"> </td>	
+   				</tr>
+			</table>
+		</div>
+
+					
+		<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" >
+   			<tr height="50px" style="border-top: #666 solid 2px;">
+	 			<td width="10%" style="background-color:#50B9DF; cursor: pointer;"  onClick="opentr('half');"><img id="imghalf" src="images/plus.png" /></td>  	   
+     			<td colspan="2" align="left" style="background-color:#50B9DF;cursor: pointer;" onClick="opentr('half');"><strong>ПОЛУЛЮКС однокомнатный</strong></td>
+  		   		<td  width="10%"  align="left" style="background-color:#50B9DF;">
+				
+    						<input type="checkbox" id="side-checkbox6" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox6">+</label>    
+    							<div class="side-title">
+									<strong>ПОЛУЛЮКС однокомнатный</strong>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									<script>meduslugishow(1);</script>
+								</div>	
+							</div>					
+							<div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox6">
+        							<div class="side-b side-open">ФОТО</div>
+        							<div class="side-b side-close">ФОТО</div>
+    							</label>
+							</div> 					
+				</td>				
+   			</tr>
+  		</table>
+		
+		<div id="half" class="articles">						
+ 			<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" >				
+   				<tr>
+	 				<td align="left" width="60%">Одноместное размещение</td>
+	 				<td align="center" width="10%"> </td>	   
+	 				<td align="center" width="10%"><span id="pricefader14">-</span></td>
+	 				<td align="center" width="10%"> </td>	
+   				</tr>
+   				<tr>
+     				<td align="left">Двухместное размещение</td>
+	 				<td align="center"> </td>	   
+	 				<td align="center"><span id="pricefader15">-</span></td>
+	 				<td align="center"> </td>	
+   				</tr>
+   				<tr>
+     				<td align="left">Доп. место (3-14 лет)</td>
+	 				<td align="center"> </td>	   
+	 				<td align="center"><span id="pricefader16">-</span></td>
+	 				<td align="center"> </td>	
+   				</tr>
+			</table>
+		</div>
+	
+		<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" >						
+   			<tr height="50px" style="border-top: #666 solid 2px;">
+	 			<td width="10%" style="background-color:#50B9DF; cursor: pointer;" onClick="opentr('lux');"><img id="imglux" src="images/plus.png" /></td>  	   
+     			<td colspan="2" align="left" style="background-color:#50B9DF;cursor: pointer;" onClick="opentr('lux');"><strong>ЛЮКС однокомнатный</strong></td>
+  		   		<td  width="10%"  align="left" style="background-color:#50B9DF;">
+				
+    						<input type="checkbox" id="side-checkbox7" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox7">+</label>    
+    							<div class="side-title">
+									<strong>ЛЮКС однокомнатный</strong>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									<script>meduslugishow(1);</script>
+								</div>	
+							</div>					
+							<div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox7">
+        							<div class="side-b side-open">ФОТО</div>
+        							<div class="side-b side-close">ФОТО</div>
+    							</label>
+							</div> 					
+				</td>				
+	 		</tr>
+		</table>
+					
+  		<div id="lux" class="articles">						
+ 			<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" >	 
+   				<tr>
+	 				<td align="left" width="60%">Одноместное размещение</td>
+	 				<td align="center" width="10%"> </td>	   
+	 				<td align="center" width="10%"><span id="pricefader17">-</span></td>
+	 				<td align="center" width="10%"> </td>	
+   				</tr>
+   				<tr>
+     				<td align="left">Двухместное размещение</td>
+	 				<td align="center"> </td>	   
+	 				<td align="center"><span id="pricefader18">-</span></td>
+	 				<td align="center"> </td>	
+   				</tr>
+   				<tr>
+     				<td align="left">Доп. место (3-14 лет)</td>
+	 				<td align="center"> </td>	   
+	 				<td align="center"><span id="pricefader19">-</span></td>
+	 				<td align="center"> </td>	
+   				</tr>
+			</table>
+		</div>
+
+		<div id="endOfTable" style="width: 100%; height: 10px; border: #BF1619 solid 0px;">						
+		</div>
+					
+	</font>
+	</div>
+					
+			
+					
+					
+					
+					<!--div id="newtableforcomputer" class="text-center" style="margin-top:60px; ">			
+						<embed src="live_in_hotel-embed.html" width="110%" height="3100" bgcolor="#6699CC" style="border: 0px solid white; box-shadow: 0 0 5px white; transform:scale(1.0); margin-top:-40px;" />						
+		   			</div-->
+
+<style>			
+
+.buttonwap {
+	margin:10px;
+	text-align:center;
+	background:#1C69F0;
+	border-radius:10px;
+	float:left;
+	padding:5px 0;
+	cursor:pointer;
+	font-weight: bold;
+}
+
+.buttonwap:hover {
+	margin:10px;
+	text-align:center;
+	background:#36C;
+	border-radius:10px;
+	float:left;
+	padding:5px 0;
+	cursor:pointer;
+}
+.buttonwap p {
+	color:#FFF;
+	margin-top: 3%;
+}	
+</style>
+			
+			
+				
+	<div id="ntcomputer" class="text-center" style="margin-top:60px; ">			
+<font size="+1">      
+	
+  <div style="width: 100%; float: left;">		
+  <table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+   <tr>
+     <td colspan="2" align="center"><strong><font size="+2" color="#003399">ПРЕЙСКУРАНТ<br />СТОИМОСТИ ПРОЖИВАНИЯ<br />В ГОСТИНИЦЕ И САНАТОРИИ<br />с 01.02.2026 г.<br />С ЗАВТРАКОМ</strong></font>
+	 </td>
+   </tr>
+  </table>
+  </div>	  
+	  
+	  
+  <div id="top_nav2" style="width: 80%; float: left;">		
+  <table id="table_nav2" class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+   <tr>
+     <td width="50%" align="center">
+		 <!--div id="button0" class="buttonwap" style="width: 45%; margin-left: 50%;" onClick="witheat(0);"><font color="#FFFFFF">БЕЗ ПИТАНИЯ</font></div-->
+	 </td>
+     <td width="50%" align="center">
+		 <!--div id="button1" class="buttonwap" style="width: 65%; background-color: #CBCBCB;" onClick="witheat(1);"><font color="#FFFFFF">ПО ПРОГРАММЕ «КЛИМАТОТЕРАПИЯ»</font></div>
+		 <div id="button2" class="buttonwap" style="width: 5%; background-color: #CBCBCB;" onClick='document.location.href ="programms_treatment.html#klimatoterapia"'><font color="#FFFFFF">?</font></div-->
+	 </td>
+   </tr>	  
+  </table>
+  <table id="table_nav22" class="stripetable" cellspacing="2px" cellpadding="4px" border="1" width="100%" style="padding-top: 4px;">
+   <tr height="80px">
+     <th width="30%"><font size="+1">Период / Категория номера</th>
+     <th width="10%" style="text-align:center;"><script>show_periodEat(0);</script></th>
+     <th width="10%" style="text-align:center;"><script>show_periodEat(1);</script></th>
+     <th width="10%" style="text-align:center;"><script>show_periodEat(2);</script></th>
+     <th width="10%" style="text-align:center;"><script>show_periodEat(3);</script></th>
+     <th width="10%" style="text-align:center;"><script>show_periodEat(4);</script></th>
+     <th width="10%" style="text-align:center;"><script>show_periodEat(5);</script></th>
+     <th width="10%" style="text-align:center;"><script>show_periodEat(6);</script></th>
+   </tr> 
+  </table>
+</div>	  
+	
+<!-- Подстава вместо меню --> 
+	<div id="podstava2" style="width:100%; height:158px; float:left; margin-top:0; border: #B34445 solid 0px;"></div>	
+	
+<script>	
+	var w2 = document.getElementById('ntcomputer').offsetWidth;
+	document.getElementById('table_nav2').setAttribute('width', String(w2)+'px');
+	document.getElementById('table_nav22').setAttribute('width', String(w2)+'px');
+	document.getElementById('top_nav2').setAttribute('width', String(w2)+'px');
+	//var positionPodstava = document.getElementById('podstava').getBoundingClientRect();
+	positionPodstava2 = $('#podstava2').offset();
+	document.getElementById('top_nav2').setAttribute('top', String(positionPodstava2.top+16)+'px');	 
+	h_hght = positionPodstava2.top + 16;	
+//alert(String(positionPodstava.top)+'px');	
+</script>		
+   
+	
+  <div  style="width: 100%; float: left;">		
+  <table class="stripetable" cellspacing="2px" cellpadding="4px" border="1" width="100%" style="padding-top: 4px;">
+
+   <tr height="50px">
+     <td colspan="8" align="left" style="background-color:#50B9DF;">&nbsp;<strong><div style="float: left;">СТАНДАРТ одноместный </div></strong>
+  		   		<!--td  width="10%"  align="left" style="background-color:#50B9DF;"-->
+				
+		 <div style="float: right;">
+    						<input type="checkbox" id="side-checkbox0" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox0">+</label>    
+    							<div class="side-title">
+									<strong>СТАНДАРТ одноместный</strong>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									<script>meduslugishow(1);</script>
+								</div>	
+							</div>					
+							<div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox0">
+        							<div class="side-b side-open">ФОТО</div>
+        							<div class="side-b side-close">ФОТО</div>
+    							</label>
+							</div> 		
+		 </div>
+	</td>		 
+				<!--/td-->		   
+   </tr>
+   <tr>
+	 <td width="30%" align="left">Одноместное размещение</strong></td>
+	 <td width="10%" align="center"><span id="s00e00">-</span><!--script>show_priceInperiod(0, 0)</script--></td>
+	 <td width="10%" align="center"><span id="s00e01">-</span><!--script>show_priceInperiod(0, 1)</script--></td>
+	 <td width="10%" align="center"><span id="s00e02">-</span><!--script>show_priceInperiod(0, 2)</script--></td>
+	 <td width="10%" align="center"><span id="s00e03">-</span><!--script>show_priceInperiod(0, 3)</script--></td>
+     <td width="10%" align="center"><span id="s00e04">-</span><!--script>show_priceInperiod(0, 4)</script--></td>
+     <td width="10%" align="center"><span id="s00e05">-</span><!--script>show_priceInperiod(0, 5)</script--></td>
+     <td width="10%" align="center"><span id="s00e06">-</span><!--script>show_priceInperiod(0, 6)</script--></td>
+   </tr>
+
+   <tr height="50px">
+     <td colspan="8" align="left" style="background-color:#50B9DF;">&nbsp;<strong>СТАНДАРТ 2-местный однокомнатный</strong></td>
+  		   		<!--td  width="10%"  align="left" style="background-color:#50B9DF;">
+				
+    						<input type="checkbox" id="side-checkbox8" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox8">+</label>    
+    							<div class="side-title">
+									<strong>СТАНДАРТ 2-местный однокомнатный</strong>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									<script>meduslugishow(1);</script>
+								</div>	
+							</div>					
+							<div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox8">
+        							<div class="side-b side-open">ФОТО</div>
+        							<div class="side-b side-close">ФОТО</div>
+    							</label>
+							</div--> 					
+				</td>		   
+   </tr>
+   <tr>
+	 <td align="left">Одноместное размещение</td>
+	 <td align="center"><span id="s01e00">-</span><!--script>show_priceInperiod(1, 0)</script--></td>
+	 <td align="center"><span id="s01e01">-</span><!--script>show_priceInperiod(1, 1)</script--></td>
+	 <td align="center"><span id="s01e02">-</span><!--script>show_priceInperiod(1, 2)</script--></td>
+	 <td align="center"><span id="s01e03">-</span><!--script>show_priceInperiod(1, 3)</script--></td>
+     <td align="center"><span id="s01e04">-</span><!--script>show_priceInperiod(1, 4)</script--></td>
+     <td align="center"><span id="s01e05">-</span><!--script>show_priceInperiod(1, 5)</script--></td>
+     <td align="center"><span id="s01e06">-</span><!--script>show_priceInperiod(1, 6)</script--></td>
+   </tr>
+   <tr>
+     <td align="left">Двухместное размещение</td>
+	 <td align="center"><span id="s02e00">-</span><!--script>show_priceInperiod(2, 0)</script--></td>
+	 <td align="center"><span id="s02e01">-</span><!--script>show_priceInperiod(2, 1)</script--></td>
+	 <td align="center"><span id="s02e02">-</span><!--script>show_priceInperiod(2, 2)</script--></td>
+	 <td align="center"><span id="s02e03">-</span><!--script>show_priceInperiod(2, 3)</script--></td>
+     <td align="center"><span id="s02e04">-</span><!--script>show_priceInperiod(2, 4)</script--></td>
+     <td align="center"><span id="s02e05">-</span><!--script>show_priceInperiod(2, 5)</script--></td>
+     <td align="center"><span id="s02e06">-</span><!--script>show_priceInperiod(2, 6)</script--></td>
+   </tr>
+   <tr>
+     <td align="left">Осн. место для ребенка (3-14 лет)</td>
+	 <td align="center"><span id="s03e00">-</span><!--script>show_priceInperiod(3, 0)</script--></td>
+	 <td align="center"><span id="s03e01">-</span><!--script>show_priceInperiod(3, 1)</script--></td>
+	 <td align="center"><span id="s03e02">-</span><!--script>show_priceInperiod(3, 2)</script--></td>
+	 <td align="center"><span id="s03e03">-</span><!--script>show_priceInperiod(3, 3)</script--></td>
+     <td align="center"><span id="s03e04">-</span><!--script>show_priceInperiod(3, 4)</script--></td>
+     <td align="center"><span id="s03e05">-</span><!--script>show_priceInperiod(3, 5)</script--></td>
+     <td align="center"><span id="s03e06">-</span><!--script>show_priceInperiod(3, 6)</script--></td>
+   </tr>
+   <tr>
+     <td align="left">Доп. место (3-14 лет)</td>
+	 <td align="center"><span id="s04e00">-</span><!--script>show_priceInperiod(4, 0)</script--></td>
+	 <td align="center"><span id="s04e01">-</span><!--script>show_priceInperiod(4, 1)</script--></td>
+	 <td align="center"><span id="s04e02">-</span><!--script>show_priceInperiod(4, 2)</script--></td>
+	 <td align="center"><span id="s04e03">-</span><!--script>show_priceInperiod(4, 3)</script--></td>
+     <td align="center"><span id="s04e04">-</span><!--script>show_priceInperiod(4, 4)</script--></td>
+     <td align="center"><span id="s04e05">-</span><!--script>show_priceInperiod(4, 5)</script--></td>
+     <td align="center"><span id="s04e06">-</span><!--script>show_priceInperiod(4, 6)</script--></td>
+   </tr>
+
+   <tr height="50px">
+     <td colspan="8" align="left" style="background-color:#50B9DF;">&nbsp;<strong>СТАНДАРТ 2-местный однокомнатный (с видом на Оку)</strong></td>
+  		   		<!--td  width="10%"  align="left" style="background-color:#50B9DF;">
+				
+    						<input type="checkbox" id="side-checkbox9" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox9">+</label>    
+    							<div class="side-title">
+									<strong>СТАНДАРТ 2-местный однокомнатный (с видом на Оку)</strong>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									<script>meduslugishow(1);</script>
+								</div>	
+							</div>					
+							<div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox9">
+        							<div class="side-b side-open">ФОТО</div>
+        							<div class="side-b side-close">ФОТО</div>
+    							</label>
+							</div> 					
+				</td-->	   
+   </tr>
+   <tr>
+	 <td align="left">Одноместное размещение</td>
+	 <td align="center"><span id="s05e00">-</span><!--script>show_priceInperiod(5, 0)</script--></td>
+	 <td align="center"><span id="s05e01">-</span><!--script>show_priceInperiod(5, 1)</script--></td>
+	 <td align="center"><span id="s05e02">-</span><!--script>show_priceInperiod(5, 2)</script--></td>
+	 <td align="center"><span id="s05e03">-</span><!--script>show_priceInperiod(5, 3)</script--></td>
+     <td align="center"><span id="s05e04">-</span><!--script>show_priceInperiod(5, 4)</script--></td>
+     <td align="center"><span id="s05e05">-</span><!--script>show_priceInperiod(5, 5)</script--></td>
+     <td align="center"><span id="s05e06">-</span><!--script>show_priceInperiod(5, 6)</script--></td>
+   </tr>
+   <tr>
+     <td align="left">Двухместное размещение</td>
+	 <td align="center"><span id="s06e00">-</span><!--script>show_priceInperiod(6, 0)</script--></td>
+	 <td align="center"><span id="s06e01">-</span><!--script>show_priceInperiod(6, 1)</script--></td>
+	 <td align="center"><span id="s06e02">-</span><!--script>show_priceInperiod(6, 2)</script--></td>
+	 <td align="center"><span id="s06e03">-</span><!--script>show_priceInperiod(6, 3)</script--></td>
+     <td align="center"><span id="s06e04">-</span><!--script>show_priceInperiod(6, 4)</script--></td>
+     <td align="center"><span id="s06e05">-</span><!--script>show_priceInperiod(6, 5)</script--></td>
+     <td align="center"><span id="s06e06">-</span><!--script>show_priceInperiod(6, 6)</script--></td>
+   </tr>
+   <tr>
+     <td align="left">Осн. место для ребенка (3-14 лет)</td>
+	 <td align="center"><span id="s07e00">-</span><!--script>show_priceInperiod(7, 0)</script--></td>
+	 <td align="center"><span id="s07e01">-</span><!--script>show_priceInperiod(7, 1)</script--></td>
+	 <td align="center"><span id="s07e02">-</span><!--script>show_priceInperiod(7, 2)</script--></td>
+	 <td align="center"><span id="s07e03">-</span><!--script>show_priceInperiod(7, 3)</script--></td>
+     <td align="center"><span id="s07e04">-</span><!--script>show_priceInperiod(7, 4)</script--></td>
+     <td align="center"><span id="s07e05">-</span><!--script>show_priceInperiod(7, 5)</script--></td>
+     <td align="center"><span id="s07e06">-</span><!--script>show_priceInperiod(7, 6)</script--></td>
+   </tr>
+   <tr>
+     <td align="left">Доп. место (3-14 лет)</td>
+	 <td align="center"><span id="s08e00">-</span><!--script>show_priceInperiod(8, 0)</script--></td>
+	 <td align="center"><span id="s08e01">-</span><!--script>show_priceInperiod(8, 1)</script--></td>
+	 <td align="center"><span id="s08e02">-</span><!--script>show_priceInperiod(8, 2)</script--></td>
+	 <td align="center"><span id="s08e03">-</span><!--script>show_priceInperiod(8, 3)</script--></td>
+     <td align="center"><span id="s08e04">-</span><!--script>show_priceInperiod(8, 4)</script--></td>
+     <td align="center"><span id="s08e05">-</span><!--script>show_priceInperiod(8, 5)</script--></td>
+     <td align="center"><span id="s08e06">-</span><!--script>show_priceInperiod(8, 6)</script--></td>
+   </tr>
+
+   <tr height="50px">
+     <td colspan="8" align="left" style="background-color:#50B9DF;">&nbsp;<strong>СТАНДАРТ 3-местный однокомнатный</strong></td>
+  		   		<!--td  width="10%"  align="left" style="background-color:#50B9DF;">
+				
+    						<input type="checkbox" id="side-checkbox10" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox10">+</label>    
+    							<div class="side-title">
+									<strong>СТАНДАРТ 3-местный однокомнатный</strong>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									<script>meduslugishow(1);</script>
+								</div>	
+							</div>					
+							<div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox10">
+        							<div class="side-b side-open">ФОТО</div>
+        							<div class="side-b side-close">ФОТО</div>
+    							</label>
+							</div> 					
+				</td-->	   
+   </tr>
+   <tr>
+	 <td align="left">Двухместное размещение</td>
+	 <td align="center"><span id="s09e00">-</span><!--script>show_priceInperiod(9, 0)</script--></td>
+	 <td align="center"><span id="s09e01">-</span><!--script>show_priceInperiod(9, 1)</script--></td>
+	 <td align="center"><span id="s09e02">-</span><!--script>show_priceInperiod(9, 2)</script--></td>
+	 <td align="center"><span id="s09e03">-</span><!--script>show_priceInperiod(9, 3)</script--></td>
+     <td align="center"><span id="s09e04">-</span><!--script>show_priceInperiod(9, 4)</script--></td>
+     <td align="center"><span id="s09e05">-</span><!--script>show_priceInperiod(9, 5)</script--></td>
+     <td align="center"><span id="s09e06">-</span><!--script>show_priceInperiod(9, 6)</script--></td>
+   </tr>
+   <tr>
+     <td align="left">Трёхместное размещение</td>
+	 <td align="center"><span id="s10e00">-</span><!--script>show_priceInperiod(10, 0)</script--></td>
+	 <td align="center"><span id="s10e01">-</span><!--script>show_priceInperiod(10, 1)</script--></td>
+	 <td align="center"><span id="s10e02">-</span><!--script>show_priceInperiod(10, 2)</script--></td>
+	 <td align="center"><span id="s10e03">-</span><!--script>show_priceInperiod(10, 3)</script--></td>
+     <td align="center"><span id="s10e04">-</span><!--script>show_priceInperiod(10, 4)</script--></td>
+     <td align="center"><span id="s10e05">-</span><!--script>show_priceInperiod(10, 5)</script--></td>
+     <td align="center"><span id="s10e06">-</span><!--script>show_priceInperiod(10, 6)</script--></td>
+   </tr>
+   <tr>
+     <td align="left">Осн. место для ребенка (3-14 лет)</td>
+	 <td align="center"><span id="s11e00">-</span><!--script>show_priceInperiod(11, 0)</script--></td>
+	 <td align="center"><span id="s11e01">-</span><!--script>show_priceInperiod(11, 1)</script--></td>
+	 <td align="center"><span id="s11e02">-</span><!--script>show_priceInperiod(11, 2)</script--></td>
+	 <td align="center"><span id="s11e03">-</span><!--script>show_priceInperiod(11, 3)</script--></td>
+     <td align="center"><span id="s11e04">-</span><!--script>show_priceInperiod(11, 4)</script--></td>
+     <td align="center"><span id="s11e05">-</span><!--script>show_priceInperiod(11, 5)</script--></td>
+     <td align="center"><span id="s11e06">-</span><!--script>show_priceInperiod(11, 6)</script--></td>
+   </tr>
+   <tr>
+     <td align="left">Доп. место (3-14 лет)</td>
+	 <td align="center"><span id="s12e00">-</span><!--script>show_priceInperiod(12, 0)</script--></td>
+	 <td align="center"><span id="s12e01">-</span><!--script>show_priceInperiod(12, 1)</script--></td>
+	 <td align="center"><span id="s12e02">-</span><!--script>show_priceInperiod(12, 2)</script--></td>
+	 <td align="center"><span id="s12e03">-</span><!--script>show_priceInperiod(12, 3)</script--></td>
+     <td align="center"><span id="s12e04">-</span><!--script>show_priceInperiod(12, 4)</script--></td>
+     <td align="center"><span id="s12e05">-</span><!--script>show_priceInperiod(12, 5)</script--></td>
+     <td align="center"><span id="s12e06">-</span><!--script>show_priceInperiod(12, 6)</script--></td>
+   </tr>
+
+   <tr height="50px">
+     <td colspan="8" align="left" style="background-color:#50B9DF;">&nbsp;<strong>ПОЛУЛЮКС однокомнатный</strong></td>
+  		   		<!--td  width="10%"  align="left" style="background-color:#50B9DF;">
+				
+    						<input type="checkbox" id="side-checkbox11" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox11">+</label>    
+    							<div class="side-title">
+									<strong>ПОЛУЛЮКС однокомнатный</strong>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									<script>meduslugishow(1);</script>
+								</div>	
+							</div>					
+							<div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox11">
+        							<div class="side-b side-open">ФОТО</div>
+        							<div class="side-b side-close">ФОТО</div>
+    							</label>
+							</div> 					
+				</td-->		   
+   </tr>
+   <tr>
+	 <td align="left">Одноместное размещение</td>
+	 <td align="center"><span id="s13e00">-</span><!--script>show_priceInperiod(13, 0)</script--></td>
+	 <td align="center"><span id="s13e01">-</span><!--script>show_priceInperiod(13, 1)</script--></td>
+	 <td align="center"><span id="s13e02">-</span><!--script>show_priceInperiod(13, 2)</script--></td>
+	 <td align="center"><span id="s13e03">-</span><!--script>show_priceInperiod(13, 3)</script--></td>
+     <td align="center"><span id="s13e04">-</span><!--script>show_priceInperiod(13, 4)</script--></td>
+     <td align="center"><span id="s13e05">-</span><!--script>show_priceInperiod(13, 5)</script--></td>
+     <td align="center"><span id="s13e06">-</span><!--script>show_priceInperiod(13, 6)</script--></td>
+   </tr>
+   <tr>
+     <td align="left">Двухместное размещение</td>
+	 <td align="center"><span id="s14e00">-</span><!--script>show_priceInperiod(14, 0)</script--></td>
+	 <td align="center"><span id="s14e01">-</span><!--script>show_priceInperiod(14, 1)</script--></td>
+	 <td align="center"><span id="s14e02">-</span><!--script>show_priceInperiod(14, 2)</script--></td>
+	 <td align="center"><span id="s14e03">-</span><!--script>show_priceInperiod(14, 3)</script--></td>
+     <td align="center"><span id="s14e04">-</span><!--script>show_priceInperiod(14, 4)</script--></td>
+     <td align="center"><span id="s14e05">-</span><!--script>show_priceInperiod(14, 5)</script--></td>
+     <td align="center"><span id="s14e06">-</span><!--script>show_priceInperiod(14, 6)</script--></td>
+   </tr>
+   <tr>
+     <td align="left">Доп. место (3-14 лет)</td>
+	 <td align="center"><span id="s15e00">-</span><!--script>show_priceInperiod(15, 0)</script--></td>
+	 <td align="center"><span id="s15e01">-</span><!--script>show_priceInperiod(15, 1)</script--></td>
+	 <td align="center"><span id="s15e02">-</span><!--script>show_priceInperiod(15, 2)</script--></td>
+	 <td align="center"><span id="s15e03">-</span><!--script>show_priceInperiod(15, 3)</script--></td>
+     <td align="center"><span id="s15e04">-</span><!--script>show_priceInperiod(15, 4)</script--></td>
+     <td align="center"><span id="s15e05">-</span><!--script>show_priceInperiod(15, 5)</script--></td>
+     <td align="center"><span id="s15e06">-</span><!--script>show_priceInperiod(15, 6)</script--></td>
+   </tr>
+
+   <tr height="50px">
+     <td colspan="8" align="left" style="background-color:#50B9DF;">&nbsp;<strong>ЛЮКС однокомнатный</strong></td>
+  		   		<!--td  width="10%"  align="left" style="background-color:#50B9DF;">
+				
+    						<input type="checkbox" id="side-checkbox12" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox12">+</label>    
+    							<div class="side-title">
+									<strong>ЛЮКС однокомнатный</strong>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									<script>meduslugishow(1);</script>
+								</div>	
+							</div>					
+							<div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox12">
+        							<div class="side-b side-open">ФОТО</div>
+        							<div class="side-b side-close">ФОТО</div>
+    							</label>
+							</div> 					
+				</td-->	   
+   </tr>
+   <tr>
+	 <td align="left">Одноместное размещение</td>
+	 <td align="center"><span id="s16e00">-</span><!--script>show_priceInperiod(16, 0)</script--></td>
+	 <td align="center"><span id="s16e01">-</span><!--script>show_priceInperiod(16, 1)</script--></td>
+	 <td align="center"><span id="s16e02">-</span><!--script>show_priceInperiod(16, 2)</script--></td>
+	 <td align="center"><span id="s16e03">-</span><!--script>show_priceInperiod(16, 3)</script--></td>
+     <td align="center"><span id="s16e04">-</span><!--script>show_priceInperiod(16, 4)</script--></td>
+     <td align="center"><span id="s16e05">-</span><!--script>show_priceInperiod(16, 5)</script--></td>
+     <td align="center"><span id="s16e06">-</span><!--script>show_priceInperiod(16, 6)</script--></td>
+   </tr>
+   <tr>
+     <td align="left">Двухместное размещение</td>
+	 <td align="center"><span id="s17e00">-</span><!--script>show_priceInperiod(17, 0)</script--></td>
+	 <td align="center"><span id="s17e01">-</span><!--script>show_priceInperiod(17, 1)</script--></td>
+	 <td align="center"><span id="s17e02">-</span><!--script>show_priceInperiod(17, 2)</script--></td>
+	 <td align="center"><span id="s17e03">-</span><!--script>show_priceInperiod(17, 3)</script--></td>
+     <td align="center"><span id="s17e04">-</span><!--script>show_priceInperiod(17, 4)</script--></td>
+     <td align="center"><span id="s17e05">-</span><!--script>show_priceInperiod(17, 5)</script--></td>
+     <td align="center"><span id="s17e06">-</span><!--script>show_priceInperiod(17, 6)</script--></td>
+   </tr>
+   <tr>
+     <td align="left">Доп. место (3-14 лет)</td>
+	 <td align="center"><span id="s18e00">-</span><!--script>show_priceInperiod(18, 0)</script--></td>
+	 <td align="center"><span id="s18e01">-</span><!--script>show_priceInperiod(18, 1)</script--></td>
+	 <td align="center"><span id="s18e02">-</span><!--script>show_priceInperiod(18, 2)</script--></td>
+	 <td align="center"><span id="s18e03">-</span><!--script>show_priceInperiod(18, 3)</script--></td>
+     <td align="center"><span id="s18e04">-</span><!--script>show_priceInperiod(18, 4)</script--></td>
+     <td align="center"><span id="s18e05">-</span><!--script>show_priceInperiod(18, 5)</script--></td>
+     <td align="center"><span id="s18e06">-</span><!--script>show_priceInperiod(18, 6)</script--></td>
+   </tr>
+
+
+  <tr>
+    <td colspan="8" align="left"> </td>
+  </tr>  
+  </table>   
+</div>
+			
+	</div>
+				
+		
+		<script>witheat(0);</script>
+														
+				</div>
+			</div>
+		</div>
+	</div>
+
+			
+			
+	<!-- FACTS -->
+
+	<div class="room d-flex flex-lg-row flex-column align-items-start justify-content-start">
+		<div class="room_content">
+			<div class="container">
+				<div class="row">
+					<div class="col">
+						<div class="room_title">
+							<div class="">
+								<div class="section_title"><h1>Санаторий<br>«Касимовские Зори»</h1></div>
+							</div>
+							<div class="room_price"></div>
+						</div>
+						<div class="room_list" style="border: #FF0004 solid 0px; margin-top: 0px; padding: 10px;">
+								Поправить здоровье, отвлечься от рабочих будней, провести время с семьёй в комфорте по доступным бюджетным ценам можно в санатории в Рязани. Он расположился в экологически чистой зоне Касимовского района. Дорога из Москвы не займет много времени. Сюда можно доехать на своей машине за шесть часов.<br><br>Санаторий находится в чаще лесного массива, на берегу реки Оки. Рядом расположены знаменитые лечебные торфяные залежи. Курс лечения грязью в санатории уже помог многим восстановить двигательный аппарат, укрепить кости, исправить нарушение обменных процессов в организме.
+						</div>
+						<!--div class="button room_button trans_200"><a href="#">book now</a></div-->
+					</div>
+				</div>
+			</div>		
+		</div>
+		<div class="room_image">
+			<div class="background_image" style="background-image:url(images/room_3.jpg)"></div>
+		</div>
+	</div>
+
+
+	<!-- Contact -->
+
+
+	<!-- Footer -->
+	<script type="text/javascript" src="js/footer.js"></script>	
+	
+</div>
+	
+			
+<script>
+  if (window.innerWidth < window.innerHeight ) {
+	document.getElementById("ntcomputer").style.display = 'none';
+	document.getElementById("ntphone").style.display = 'block';	  
+
+  } else {
+
+	document.getElementById("ntcomputer").style.display = 'block';	  
+	document.getElementById("ntphone").style.display = 'none';
+    witheat(0);  
+  }	
+</script>	
+
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="styles/bootstrap-4.1.2/popper.js"></script>
+<script src="styles/bootstrap-4.1.2/bootstrap.min.js"></script>
+<script src="plugins/greensock/TweenMax.min.js"></script>
+<script src="plugins/greensock/TimelineMax.min.js"></script>
+<script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
+<script src="plugins/greensock/animation.gsap.min.js"></script>
+<script src="plugins/greensock/ScrollToPlugin.min.js"></script>
+<script src="plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+<script src="plugins/easing/easing.js"></script>
+<script src="plugins/progressbar/progressbar.min.js"></script>
+<script src="plugins/colorbox/jquery.colorbox-min.js"></script>
+<script src="plugins/parallax-js-master/parallax.min.js"></script>
+<script src="js/rooms.js"></script>
+</body>
+</html>

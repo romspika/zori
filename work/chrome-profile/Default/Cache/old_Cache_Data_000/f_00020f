@@ -1,0 +1,1319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Санаторий Касимовские Зори</title>
+<meta charset="windows-1251">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content=">Санаторий Касимовские Зори">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="styles/bootstrap-4.1.2/bootstrap.min.css">
+<link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
+<link href="plugins/colorbox/colorbox.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="styles/about.css">
+<link rel="stylesheet" type="text/css" href="styles/about_responsive.css">
+<link rel="stylesheet" type="text/css" href="styles/tables.css">
+<link rel="stylesheet" type="text/css" href="styles/style.css">
+	
+<script src="js/price_programs.js"></script> <!-- цены на программы-->	
+<script src="js/activemenu.js"></script> <!-- активный пункт меню-->		
+	
+<script src="js/meduslugi.js"></script>
+<script type="text/javascript" src="js/meduslugishow.js"></script>	
+	
+	
+<style>
+/* Оформление панели */
+#side-checkbox {
+    display: none;
+}
+#side-checkbox0 {
+    display: none;
+}
+#side-checkbox2 {
+    display: none;
+}
+#side-checkbox3 {
+    display: none;
+}
+#side-checkbox4 {
+    display: none;
+}
+#side-checkbox5 {
+    display: none;
+}
+#side-checkbox6 {
+    display: none;
+}
+#side-checkbox7 {
+    display: none;
+}
+#side-checkbox8 {
+    display: none;
+}
+#side-checkbox9 {
+    display: none;
+}
+#side-checkbox10 {
+    display: none;
+}
+#side-checkbox11 {
+    display: none;
+}
+#side-checkbox12 {
+    display: none;
+}
+#side-checkbox13 {
+    display: none;
+}
+.side-panel {
+    position: fixed;
+    z-index: 999999;
+    top: 0;
+    left: -102%; /*-740px;*/
+    background: #337AB7;
+    transition: all 0.5s;   
+    width: 98%; /*640px;*/
+    height: 100vh;
+    box-shadow: 10px 0 20px rgba(0,0,0,0.4);
+    color: #FFF;
+    padding: 40px 20px;
+	overflow: scroll;
+}
+	
+.side-panel_right {
+    position: fixed;
+    z-index: 999999;
+    top: 0;
+    left: 102%; /*-740px;*/
+    background: #337AB7;
+    transition: all 0.5s;   
+    width: 98%; /*640px;*/
+    height: 100vh;
+    box-shadow: 10px 0 20px rgba(0,0,0,0.4);
+    color: #FFF;
+    padding: 40px 20px;
+	overflow: scroll;
+}
+	
+.side-title {
+    font-size: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #BFE2FF;
+}
+/* Оформление кнопки на странице */
+.side-button-1-wr {
+    text-align: center; /* Контейнер для кнопки, чтобы было удобнее ее разместить */
+}
+.side-button-1 {
+    display: inline-block;
+}
+.side-button-1 .side-b {
+    margin: 10px;
+    text-decoration: none;
+    position: relative;
+    font-size: 20px;
+    line-height: 20px;
+    padding: 12px 30px;
+    color: #FFF;
+    font-weight: bold;
+    text-transform: uppercase; 
+    font-family: 'Roboto', Тahoma, sans-serif;
+    background: #337AB7;
+    cursor: pointer; 
+    border: 2px solid #BFE2FF;
+}
+.side-button-1 .side-b:hover,
+.side-button-1 .side-b:active,
+.side-button-1 .side-b:focus {
+    color: #FFF;
+}
+.side-button-1 .side-b:after,
+.side-button-1 .side-b:before {
+    position: absolute;
+    height: 4px;
+    left: 50%;
+    bottom: -6px;
+    content: "";
+    transition: all 280ms ease-in-out;
+    width: 0;
+}
+.side-button-1 .side-open:after,
+.side-button-1 .side-open:before {
+    background: green;
+}
+.side-button-1 .side-close:after,
+.side-button-1 .side-close:before {
+    background: red;
+}
+.side-button-1 .side-b:before {
+    top: -6px;
+}
+.side-button-1 .side-b:hover:after,
+.side-button-1 .side-b:hover:before {
+    width: 100%;
+    left: 0;
+}
+.side-button-1 .side-close {
+    display: none;
+}
+
+/* Переключатели кнопки 0 */
+#side-checkbox0:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox0:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox0:checked + .side-panel {
+    left: 0;
+}
+/* Переключатели кнопки 1 */
+#side-checkbox:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox:checked + .side-panel {
+    left: 0;
+}
+/* Переключатели кнопки 2 */
+#side-checkbox2:checked + .side-panel_right + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox2:checked + .side-panel_right + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox2:checked + .side-panel_right {
+    left: 0;
+}
+
+/* Переключатели кнопки 3 */
+#side-checkbox3:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox3:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox3:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 4 */
+#side-checkbox4:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox4:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox4:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 5 */
+#side-checkbox5:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox5:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox5:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 6 */
+#side-checkbox6:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox6:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox6:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 7 */
+#side-checkbox7:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox7:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox7:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 8 */
+#side-checkbox8:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox8:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox8:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 9 */
+#side-checkbox9:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox9:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox9:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 10 */
+#side-checkbox10:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox10:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox10:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 11 */
+#side-checkbox11:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox11:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox11:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 12 */
+#side-checkbox12:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox12:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox12:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 13 */
+#side-checkbox13:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox13:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox13:checked + .side-panel {
+    left: 0;
+}
+
+/* Оформление кнопки на панеле */
+.side-button-2 {
+    font-size: 48px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 1;
+    top: 8px;
+    right: 8px;
+    cursor: pointer;
+    transform: rotate(45deg);
+    color: #BFE2FF;    
+    transition: all 280ms ease-in-out;    
+}
+.side-button-2:hover {
+    transform: rotate(45deg) scale(1.1);    
+    color: #FFF;
+}
+</style>		
+	
+	
+</head>
+<body>
+	
+
+<div class="super_container">
+	
+	<!-- Header -->
+	<script type="text/javascript" src="js/header.js"></script>
+	<script>setActiveMenu('menu2');</script>
+	
+	
+	<!-- Menu -->
+	<script type="text/javascript" src="js/menu.js"></script>
+	
+
+
+	<!-- Home -->
+	<script type="text/javascript" src="js/home.js"></script>	
+
+	
+	<!-- Search Box -->
+	<script type="text/javascript" src="js/frontdesk.js"></script>		
+
+	
+	
+	<!-- Intro Right -->
+	<div class="intro">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<div class=" text-center">
+						<div class="section_title" style="margin-top: 30px;"> <span class="fabrge-regular">Основные медицинские услуги</span></div>
+					</div>
+				</div>	
+			</div>
+		</div>
+	</div>	
+	
+	
+	
+	
+	
+<!--   ВОДОЛЕЧЕНИЕ --------------------------------------------------------------------->
+<!--   ВОДОЛЕЧЕНИЕ --------------------------------------------------------------------->
+<!--   ВОДОЛЕЧЕНИЕ --------------------------------------------------------------------->
+<a name="vodolechenie"></a>
+	<div class="intro_right intro">
+		<div class="container">
+			<div class="row row-xl-eq-height">
+				
+				<!-- Intro Image -->
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/method-009.jpg)"></div>
+					</div>
+				</div>
+
+				<!-- Intro Right Content -->
+				<div class="col-xl-6 intro_right_col">
+					<div class="intro_right_content" >
+						<div class=" text-center"  style="margin-top: -20px;" >
+							<div class="section_title"><h1>Водолечение</h1></div>
+						</div>
+						
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">
+							<strong>Водолечение</strong> - применения воды в целях лечения, профилактики и реабилитации больных.<br />
+							<br />
+							<strong>Методики водолечения:</strong><br />
+							• водолечебница: два бассейна, лечебные ванны – пресные ароматические, минеральные, жемчужная, с различными наполнителями и комплексные, подводный душ-массаж, аппаратная вихревая ванна, аппаратная 4-камерная гальваническая ванна, пароуглекислая ванна, кедровая бочка, кафедра Вуокса - душ Шарко, циркуляционные (дождевой, струйный, восходящий, восходящий с поясничной форсункой). Имеется сауна, турецкий хамам<br>
+							• ванна подводного вытяжения - это многофункциональный комплекс, который позволяет проводить подводное вытяжение, управляемое электронно, подводный гидромассаж паравертебральных мышц.
+							
+    						<input type="checkbox" id="side-checkbox" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox">+</label>    
+    							<div class="side-title">
+									<strong>ВОДОЛЕЧЕНИЕ</strong>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									<script>meduslugishow(1);</script>
+								</div>	
+							</div>
+							
+							<div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox">
+        							<div class="side-b side-open">Подробнее</div>
+        							<div class="side-b side-close">Закрыть</div>
+    							</label>
+							</div> 							
+
+						
+						
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>	
+		
+	
+	
+<!--   ТЕПЛОЛЕЧЕНИЕ --------------------------------------------------------------------->
+<!--   ТЕПЛОЛЕЧЕНИЕ --------------------------------------------------------------------->
+<!--   ТЕПЛОЛЕЧЕНИЕ --------------------------------------------------------------------->	
+<a name="teplolechenie"></a>	
+	<div class="intro_left intro">
+		<div class="container">
+			<div class="row">
+				
+				<!-- Intro Left Content -->
+				<div class="col-xl-6 order-xl-1 order-2">
+					<div class="intro_left_content" >
+						<div class="" style="margin-top: -20px; " >
+							<div class="section_title" ><h1>Теплолечение</h1></div>
+						</div>
+						
+
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">				<strong>Теплолечение</strong> - метод физиотерапии, заключающийся в дозированном применении с лечебно-профилактической целью особых веществ, являющихся теплоносителями.<br /><br />
+							<strong>Методы теплолечения:</strong><br />
+							• лечебные грязи<br>
+							• озокерит<br>
+						</div>
+						
+
+							
+							<div class="side-button-1-wr" >
+    							<label class="side-button-1" for="side-checkbox2">
+        							<div class="side-b side-open" >Подробнее</div>
+        							<div class="side-b side-close">Закрыть</div>
+    							</label>
+							</div> 	
+						
+					</div>
+				</div>
+
+				<!-- Intro Image -->
+				<div class="col-xl-6 order-xl-2 order-1">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/method-008.jpg)"></div>
+					</div>
+				</div>
+
+    						<input type="checkbox" id="side-checkbox2" />
+							<div class="side-panel_right" >
+    							<label class="side-button-2" for="side-checkbox2">+</label>    
+    							<div class="side-title" >
+									<strong>ТЕПЛОЛЕЧЕНИЕ</strong>
+								</div>
+								<div class="" style="width: 100%;"> 
+									<script>meduslugishow(2);</script>
+								</div>	
+							</div>				
+			</div>
+		</div>
+	</div>
+		
+	
+	
+<!--   ЛЕЧЕБНО-ДИАГНОСТИЧЕСКИЕ МАНИПУЛЯЦИИ --------------------------------------------------------------------->
+<!--   ЛЕЧЕБНО-ДИАГНОСТИЧЕСКИЕ МАНИПУЛЯЦИИ --------------------------------------------------------------------->
+<!--   ЛЕЧЕБНО-ДИАГНОСТИЧЕСКИЕ МАНИПУЛЯЦИИ --------------------------------------------------------------------->
+<!--a name="lechebnodiagmanipul"></a-->
+	<div class="intro_right intro">
+		<div class="container">
+			<div class="row row-xl-eq-height">
+				
+				<!-- Intro Image -->
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/method-010.jpg)"></div>
+					</div>
+				</div>
+
+				<!-- Intro Right Content -->
+				<div class="col-xl-6 intro_right_col">
+					<div class="intro_right_content" >
+						<div class=" text-center"  style="margin-top: -20px;" >
+							<div class="section_title"><h1>Лечебно-диагностические манипуляции</h1></div>
+						</div>
+						
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">
+							<strong>Лечебно-диагностические манипуляции</strong> — это медицинские процедуры, направленные на лечение заболеваний и состояний, а также на диагностику состояния внутренних органов и тканей пациента. Такие манипуляции могут быть лечебными (устранение проявлений заболевания) или диагностическими (получение информации о состоянии пациента).<br><br>
+							Цель — устранение или облегчение проявлений заболевания, восстановление или улучшение здоровья пациента.<br><br>
+							<strong>УЗИ (ультразвуковое исследование)</strong> — это безопасный  медицинский метод диагностики, использующий ультразвуковые волны для получения изображений внутренних органов и тканей. Он позволяет оценить их размер, форму, структуру и двигательную активность, а также выявить заболевания и патологии на ранних стадиях. Процедура безболезненна и не требует лучевой нагрузки, что безопасно для частого использования.
+							
+    						<input type="checkbox" id="side-checkbox3" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox3">+</label>    
+    							<div class="side-title">
+									<strong>ЛЕЧЕБНО-ДИАГНОСТИЧЕСКИЕ МАНИПУЛЯЦИИ</strong>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									<script>meduslugishow(7);</script>
+								</div>	
+							</div>
+							
+							<div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox3">
+        							<div class="side-b side-open">Подробнее</div>
+        							<div class="side-b side-close">Закрыть</div>
+    							</label>
+							</div> 							
+
+						
+						
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>	
+		
+	
+	
+<!--   ВИБРО-МЕХАНОТЕРАПИЯ --------------------------------------------------------------------->
+<!--   ВИБРО-МЕХАНОТЕРАПИЯ --------------------------------------------------------------------->
+<!--   ВИБРО-МЕХАНОТЕРАПИЯ --------------------------------------------------------------------->	
+<a name="vibromechanoterapy"></a>	
+	<div class="intro_left intro">
+		<div class="container">
+			<div class="row">
+				
+				<!-- Intro Left Content -->
+				<div class="col-xl-6 order-xl-1 order-2">
+					<div class="intro_left_content" >
+						<div class="" style="margin-top: -20px; " >
+							<div class="section_title" ><h1>Вибро-механотерапия</h1></div>
+						</div>
+						
+
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">				<strong>Вибро-механотерапия</strong> — то использование с лечебной целью механических колебаний низкой 		частоты, которые передаются путем прямого контакта от вибратора к телу пациента.<br><br>
+						 Особое место в стационарных виброустройствах принадлежит декомпрессионному аппарату. Данный метод эффективен при реабилитации и профилактике заболеваний у пациентов с неврологическими проявлениями шейного, грудного и поясничного остеохондроза и остеоартроза. К показаниям также относят заболевания и травмы периферической нервной системы.<br>
+<br>
+<br>
+
+						</div>
+						
+1
+							
+							<div class="side-button-1-wr" >
+    							<label class="side-button-1" for="side-checkbox4">
+        							<div class="side-b side-open" >Подробнее</div>
+        							<div class="side-b side-close">Закрыть</div>
+    							</label>
+							</div> 	
+						
+					</div>
+				</div>
+
+				<!-- Intro Image -->
+				<div class="col-xl-6 order-xl-2 order-1">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/method-011.jpg)"></div>
+					</div>
+				</div>
+
+    						<input type="checkbox" id="side-checkbox4" />
+							<div class="side-panel" >
+    							<label class="side-button-2" for="side-checkbox4">+</label>    
+    							<div class="side-title" >
+									<strong>ВИБРО-МЕХАНОТЕРАПИЯ</strong>
+								</div>
+								<div class="" style="width: 100%;"> 
+									<script>meduslugishow(3);</script>
+								</div>	
+							</div>				
+			</div>
+		</div>
+	</div>
+		
+	
+	
+	
+	
+<!--   АППАРАТНАЯ ФИЗИОТЕРАПИЯ --------------------------------------------------------------------->
+<!--   АППАРАТНАЯ ФИЗИОТЕРАПИЯ --------------------------------------------------------------------->
+<!--   АППАРАТНАЯ ФИЗИОТЕРАПИЯ --------------------------------------------------------------------->
+<a name="apparatnayaphizioterapy"></a>
+	<div class="intro_right intro">
+		<div class="container">
+			<div class="row row-xl-eq-height">
+				
+				<!-- Intro Image -->
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/method-012.jpg)"></div>
+					</div>
+				</div>
+
+				<!-- Intro Right Content -->
+				<div class="col-xl-6 intro_right_col">
+					<div class="intro_right_content" >
+						<div class=" text-center"  style="margin-top: -20px;" >
+							<div class="section_title"><h1>Аппаратная физиотерапия</h1></div>
+						</div>
+						
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">
+							<strong>Аппаратная физиотерапия</strong> — группа методов лечения, восстановления и реабилитации, использующих воздействие физических факторов: тепла, вибрации, излучения, электрического поля. <br><br>
+							Процедуры проводят с помощью специального медицинского оборудования — аппаратов для физиотерапии. Каждый метод даёт свой эффект: это может быть обезболивание, улучшение кровообращения, укрепление иммунитета, нормализация работы ЦНС. <br><br>
+							Аппаратная физиотерапия используется в качестве вспомогательного средства при лечении заболеваний различных систем и органов. Процедуры назначает лечащий врач, он же оценивает результаты и может корректировать исходный план лечения. 
+							
+    						<input type="checkbox" id="side-checkbox5" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox5">+</label>    
+    							<div class="side-title">
+									<strong>АППАРАТНАЯ ФИЗИОТЕРАПИЯ</strong>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									<script>meduslugishow(5);</script>
+								</div>	
+							</div>
+							
+							<div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox5">
+        							<div class="side-b side-open">Подробнее</div>
+        							<div class="side-b side-close">Закрыть</div>
+    							</label>
+							</div> 							
+
+						
+						
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>	
+		
+	
+	
+<!--   ОБЩЕУКРЕПЛЯЮЩАЯ ТЕРАПИЯ --------------------------------------------------------------------->
+<!--   ОБЩЕУКРЕПЛЯЮЩАЯ ТЕРАПИЯ --------------------------------------------------------------------->
+<!--   ОБЩЕУКРЕПЛЯЮЩАЯ ТЕРАПИЯ --------------------------------------------------------------------->	
+<a name="commonterapy"></a>	
+	<div class="intro_left intro">
+		<div class="container">
+			<div class="row">
+				
+				<!-- Intro Left Content -->
+				<div class="col-xl-6 order-xl-1 order-2">
+					<div class="intro_left_content" >
+						<div class="" style="margin-top: -20px; " >
+							<div class="section_title" ><h1>Общеукрепляющая терапия</h1></div>
+						</div>
+						
+
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">				<strong>Общеукрепляющая терапия</strong> - данный вид терапии направлен на нормализацию процессов всех систем организма в целом.<br><br>
+						Общеукрепляющая терапия призвана восстановить заторможенные обменные процессы, нарушенные витаминный, жировой, белковый и углеводный баланс посредством проведения физиопроцедур, введения витаминов и биостимуляторов.<br><br>
+						Общеукрепляющая терапия применяется не только как способ восстановить процессы жизнедеятельности организма, но и как способ подготовки к основному лечению на первых этапах (продолжительностью от 5-10 дней до 2-3 недель), способ купирования бессонницы и нервных расстройств, депрессии, наблюдающиеся у пациентов в конце лечения (может занимать 1-2 месяца и больше).<br><br>
+						Продолжительность общеукрепляющей терапии определяется индивидуальными клиническими показателями и имеет прямую зависимость от общего состояния пациента.
+
+						</div>
+						
+
+							
+							<div class="side-button-1-wr" >
+    							<label class="side-button-1" for="side-checkbox6">
+        							<div class="side-b side-open" >Подробнее</div>
+        							<div class="side-b side-close">Закрыть</div>
+    							</label>
+							</div> 	
+						
+					</div>
+				</div>
+
+				<!-- Intro Image -->
+				<div class="col-xl-6 order-xl-2 order-1">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/method-013.jpg)"></div>
+					</div>
+				</div>
+
+    						<input type="checkbox" id="side-checkbox6" />
+							<div class="side-panel" >
+    							<label class="side-button-2" for="side-checkbox6">+</label>    
+    							<div class="side-title" >
+									<strong>ОБЩЕУКРЕПЛЯЮЩАЯ ТЕРАПИЯ</strong>
+								</div>
+								<div class="" style="width: 100%;"> 
+									<script>meduslugishow(6);</script>
+								</div>	
+							</div>				
+			</div>
+		</div>
+	</div>
+		
+	
+	
+	
+	
+<!--   ЛЕЧЕБНАЯ ГИМНАСТИКА --------------------------------------------------------------------->
+<!--   ЛЕЧЕБНАЯ ГИМНАСТИКА --------------------------------------------------------------------->
+<!--   ЛЕЧЕБНАЯ ГИМНАСТИКА --------------------------------------------------------------------->
+<a name="curegymnastic"></a>
+	<div class="intro_right intro">
+		<div class="container">
+			<div class="row row-xl-eq-height">
+				
+				<!-- Intro Image -->
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/method-015.jpg)"></div>
+					</div>
+				</div>
+
+				<!-- Intro Right Content -->
+				<div class="col-xl-6 intro_right_col">
+					<div class="intro_right_content" >
+						<div class=" text-center"  style="margin-top: -20px;" >
+							<div class="section_title"><h1>Лечебная гимнастика</h1></div>
+						</div>
+						
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">
+							<strong>Лечебная гимнастика</strong> — это вид лечебной физкультуры (ЛФК), который включает комплекс упражнений, направленных на укрепление мышц, улучшение подвижности суставов, развитие координации и повышение общего тонуса организма.<br><br>
+							<strong>Лечебная гимнастика может включать:</strong><br>
+							Общеразвивающие упражнения — для всех групп мышц, направлены на улучшение общего состояния организма.<br>
+						    Специальные упражнения — направлены на восстановление функций конкретных органов или систем.<br>
+						    Дыхательные упражнения — направлены на улучшение функции дыхательной системы.<br>
+							<br>
+							Лечебная гимнастика применяется при широком спектре заболеваний, включая заболевания опорно-двигательного аппарата, сердечно-сосудистой системы, органов дыхания и нервной системы. <br><br>
+							Перед началом занятий ЛФК необходимо проконсультироваться с врачом для определения показаний и противопоказаний, а также для разработки индивидуальной программы занятий. 
+								
+    						<input type="checkbox" id="side-checkbox7" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox7">+</label>    
+    							<div class="side-title">
+									<strong>ЛЕЧЕБНАЯ ГИМНАСТИКА</strong>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									<script>meduslugishow(9);</script>
+								</div>	
+							</div>
+							
+							<div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox7">
+        							<div class="side-b side-open">Подробнее</div>
+        							<div class="side-b side-close">Закрыть</div>
+    							</label>
+							</div> 							
+
+						
+						
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>	
+		
+	
+	
+<!--   МАССАЖ  --------------------------------------------------------------------->
+<!--   МАССАЖ --------------------------------------------------------------------->
+<!--   МАССАЖ --------------------------------------------------------------------->	
+<a name="massage"></a>	
+	<div class="intro_left intro">
+		<div class="container">
+			<div class="row">
+				
+				<!-- Intro Left Content -->
+				<div class="col-xl-6 order-xl-1 order-2">
+					<div class="intro_left_content" >
+						<div class="" style="margin-top: -20px; " >
+							<div class="section_title" ><h1>Массаж</h1></div>
+						</div>
+						
+
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">				<strong>Массаж</strong> — это комплекс приёмов механического и рефлекторного воздействия на ткани и органы с помощью рук, специальных аппаратов или других средств. Основная цель массажа — улучшение кровообращения, снятие напряжения мышц, ускорение обменных процессов в тканях и общее улучшение самочувствия.<br><br>
+						Массаж может быть лечебным, профилактическим, косметическим или релаксационным и применяется для лечения различных заболеваний, восстановления после травм, а также для снятия стресса и усталости. 
+							
+						</div>
+						
+
+							
+							<div class="side-button-1-wr" >
+    							<label class="side-button-1" for="side-checkbox8">
+        							<div class="side-b side-open" >Подробнее</div>
+        							<div class="side-b side-close">Закрыть</div>
+    							</label>
+							</div> 	
+						
+					</div>
+				</div>
+
+				<!-- Intro Image -->
+				<div class="col-xl-6 order-xl-2 order-1">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/method-016.jpg)"></div>
+					</div>
+				</div>
+
+    						<input type="checkbox" id="side-checkbox8" />
+							<div class="side-panel" >
+    							<label class="side-button-2" for="side-checkbox8">+</label>    
+    							<div class="side-title" >
+									<strong>МАССАЖ</strong>
+								</div>
+								<div class="" style="width: 100%;"> 
+									<script>meduslugishow(4);</script>
+								</div>	
+							</div>				
+			</div>
+		</div>
+	</div>
+			
+	
+	
+	
+	
+<!--   КОСМЕТОЛОГИЧЕСКИЕ УСЛУГИ  --------------------------------------------------------------------->
+<!--   КОСМЕТОЛОГИЧЕСКИЕ УСЛУГИ --------------------------------------------------------------------->
+<!--   КОСМЕТОЛОГИЧЕСКИЕ УСЛУГИ --------------------------------------------------------------------->	
+<a name="cosmeticuslugi"></a>	
+	<div class="intro_right intro">
+		<div class="container">
+			<div class="row row-xl-eq-height">
+				
+				<!-- Intro Image -->
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/method-017.jpg)"></div>
+					</div>
+				</div>
+
+				<!-- Intro Right Content -->
+				<div class="col-xl-6 intro_right_col">
+					<div class="intro_right_content" >
+						<div class=" text-center"  style="margin-top: -20px;" >
+							<div class="section_title"><h1>Косметологические услуги</h1></div>
+						</div>
+						
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">
+							<strong>Косметологические услуги</strong> — это комплекс лечебно-диагностических и реабилитационных мероприятий, направленных на улучшение состояния кожи, коррекцию возрастных изменений и профилактику кожных нарушений. Цель — не только эстетическое улучшение внешности, но и лечение или маскирование дефектов, которые являются следствием болезни, возрастных или врождённых изменений. <br><br>
+							<strong>СПА-процедуры</strong> – это комплекс услуг, направленных на оздоровление, расслабление и омоложение организма с помощью воды, тепла, массажных техник и косметических средств.<br>
+<br>
+<br>
+ 
+								
+    						<input type="checkbox" id="side-checkbox9" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox9">+</label>    
+    							<div class="side-title">
+									<strong>КОСМЕТОЛОГИЧЕСКИЕ УСЛУГИ</strong>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									<script>meduslugishow(10);</script>
+								</div>	
+							</div>
+							
+							<div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox9">
+        							<div class="side-b side-open">Подробнее</div>
+        							<div class="side-b side-close">Закрыть</div>
+    							</label>
+							</div> 							
+
+						
+						
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>	
+		
+	
+	
+	
+	
+
+	
+	<!-- Intro Left -->
+
+<!--   МЕХАНОТЕРАПИЯ  --------------------------------------------------------------------->
+<!--   МЕХАНОТЕРАПИЯ --------------------------------------------------------------------->
+<!--   МЕХАНОТЕРАПИЯ --------------------------------------------------------------------->		
+<a name="mechanoterapia"></a>
+	<div class="intro_left intro">
+		<div class="container">
+			<div class="row">
+				
+				<!-- Intro Left Content -->
+				<div class="col-xl-6 order-xl-1 order-2">
+					<div class="intro_left_content" >
+						<div class="" style="margin-top: -20px; " >
+							<div class="section_title" ><h1>Механотерапия</h1></div>
+						</div>
+						
+
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;"><strong>Механотерапия</strong> - это упражнения лечебной физкультуры, которые выполняются на специальных аппаратах-тренажерах.<br />
+						<br />
+						<strong>Кабинет вибротерапии: </strong><br>
+						• установка для вибрационного массажа позвоночника
+						• для дозированного вытяжения на наклонной плоскости<br>
+						• аппарат дозированного вытяжения позвоночника<br>
+						• аппараты для пассивной реабилитации суставов<br>
+						• аппаратный массаж стоп<br>
+
+						</div>
+					</div>
+				</div>
+
+				<!-- Intro Image -->
+				<div class="col-xl-6 order-xl-2 order-1">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/method-002.jpg)"></div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	
+	
+	<!-- Intro Right -->
+	
+<!--   ПНЕВМОКОМПРЕССИОННАЯ ТЕРАПИЯ  --------------------------------------------------------------------->
+<!--   ПНЕВМОКОМПРЕССИОННАЯ ТЕРАПИЯ --------------------------------------------------------------------->
+<!--   ПНЕВМОКОМПРЕССИОННАЯ ТЕРАПИЯ --------------------------------------------------------------------->			
+<a name="pnevmoterapia"></a>
+	<div class="intro_right intro">
+		<div class="container">
+			<div class="row row-xl-eq-height">
+				
+				<!-- Intro Image -->
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/method-003.jpg)"></div>
+					</div>
+				</div>
+
+				<!-- Intro Right Content -->
+				<div class="col-xl-6 intro_right_col">
+					<div class="intro_right_content" >
+						<div class=" text-center"  style="margin-top: -20px;" >
+							<div class="section_title"><h1>Пневмокомпрессионная терапия</h1></div>
+						</div>
+						
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;"><strong>Пневмокомпрессионная терапия</strong> - один из самых распространенных методов физиотерапевтического лечения. Главное достоинство пневмокомпрессионной терапии — стабилизация работы лимфатической системы. При помощи специального аппарата из организма выводится лишняя жидкость, из-за которой возникают отеки, особенно конечностей. Венозная недостаточность и варикоз — главные причины и самые серьезные поводы обращения к терапии.<br />
+						<br />
+						<strong>Кабинет прессотерапии:</strong><br />
+						• аппарат для прессотерапии и лимфодренажа 
+
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	
+	<!-- Intro Left -->
+
+<!--   МАГНИТОТЕРАПИЯ  --------------------------------------------------------------------->
+<!--   МАГНИТОТЕРАПИЯ --------------------------------------------------------------------->
+<!--   МАГНИТОТЕРАПИЯ --------------------------------------------------------------------->	
+<a name="magnitoterapia"></a>
+	<div class="intro_left intro">
+		<div class="container">
+			<div class="row">
+				
+				<!-- Intro Left Content -->
+				<div class="col-xl-6 order-xl-1 order-2">
+					<div class="intro_left_content" >
+						<div class="" style="margin-top: -20px; " >
+							<div class="section_title" ><h1>Магнитотерапия</h1></div>
+						</div>
+						
+
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;"><strong>Магнитотерапия</strong> - метод физиотерапевтического лечения, при котором на тело больного действуют низкочастотным переменным, постоянным и импульсным магнитным полем.<br />
+						<br />
+						<strong>Кабинет магнитотерапии:</strong><br />
+						• различные аппараты магнитотерапии
+						</div>
+					</div>
+				</div>
+
+				<!-- Intro Image -->
+				<div class="col-xl-6 order-xl-2 order-1">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/method-004.jpg)"></div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	
+	
+
+	
+	<!-- Intro Right -->
+	
+	
+<!--   СВЕТОЛЕЧЕНИЕ  --------------------------------------------------------------------->
+<!--   СВЕТОЛЕЧЕНИЕ --------------------------------------------------------------------->
+<!--   СВЕТОЛЕЧЕНИЕ --------------------------------------------------------------------->		
+<a name="svetolechenie"></a>
+	<div class="intro_right intro">
+		<div class="container">
+			<div class="row row-xl-eq-height">
+				
+				<!-- Intro Image -->
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/method-005.jpg)"></div>
+					</div>
+				</div>
+
+				<!-- Intro Right Content -->
+				<div class="col-xl-6 intro_right_col">
+					<div class="intro_right_content" >
+						<div class=" text-center"  style="margin-top: -20px;" >
+							<div class="section_title"><h1>Светолечение</h1></div>
+						</div>
+						
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;"><strong>Светолечение</strong> - направление физиотерапии, подразумевающее дозированное действие на организм инфракрасного, видимого и ультрафиолетового излучения. Каждый тип вызывает свойственные только для него процессы.<br />
+						<br />
+						<strong>Кабинет светотерапии:</strong><br />
+						• аппарат УФО<br>
+						• тубус-кварц
+							
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	
+	
+	<!-- Intro Left -->
+<!--   ИНГАЛЯЦИОННАЯ ТЕРАПИЯ  --------------------------------------------------------------------->
+<!--   ИНГАЛЯЦИОННАЯ ТЕРАПИЯ --------------------------------------------------------------------->
+<!--   ИНГАЛЯЦИОННАЯ ТЕРАПИЯ --------------------------------------------------------------------->	
+<a name="ingalyacionnyaterapia"></a>	
+	<div class="intro_left intro">
+		<div class="container">
+			<div class="row">
+				
+				<!-- Intro Left Content -->
+				<div class="col-xl-6 order-xl-1 order-2">
+					<div class="intro_left_content" >
+						<div class="" style="margin-top: -20px; " >
+							<div class="section_title" ><h1>Ингаляционная терапия</strong></h1></div>
+						</div>
+						
+
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;"><strong>Ингаляционная терапия</strong> – лечение и профилактика заболеваний путем вдыхания искусственно распыляемых лекарственных веществ или воздуха, насыщенного солями, эфирными маслами и т.п. Основной целью ингаляционной терапии является достижение максимального местного терапевтического эффекта в дыхательных путях при незначительных проявлениях системного действия.<br />
+						<br />
+						<strong>Кабинеты для ингаляционной терпаии:</strong><br />
+						• кабинет ингаляционной терапии (ингаляторы)<br>
+						• кабинет фитотерапии (аромафитогенератор)<br>
+						• соляная пещера
+						</div>
+					</div>
+				</div>
+
+				<!-- Intro Image -->
+				<div class="col-xl-6 order-xl-2 order-1">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/method-006.jpg)"></div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	
+		
+	
+	
+
+<!-- Intro Right -->
+	
+<!--   ЛАЗЕРНАЯ ТЕРАПИЯ  --------------------------------------------------------------------->
+<!--   ЛАЗЕРНАЯ ТЕРАПИЯ --------------------------------------------------------------------->
+<!--   ЛАЗЕРНАЯ ТЕРАПИЯ --------------------------------------------------------------------->		
+<a name="lasernayaterapia"></a>
+	<div class="intro_right intro">
+		<div class="container">
+			<div class="row row-xl-eq-height">
+				
+				<!-- Intro Image -->
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/method-007.jpg)"></div>
+					</div>
+				</div>
+
+				<!-- Intro Right Content -->
+				<div class="col-xl-6 intro_right_col">
+					<div class="intro_right_content" >
+						<div class=" text-center"  style="margin-top: -20px;" >
+							<div class="section_title"><h1>Лазерная терапия</h1></div>
+						</div>
+						
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">
+							<strong>Лазерная терапия</strong> – физиотерапевтический метод, в качестве лечебного фактора в котором используется электромагнитное излучение оптического диапазона – когерентный свет или низкоинтенсивное лазерное излучение, генерируемое специальными источниками – лазерами.<br />
+							<br />
+							<strong>Кабинет лазерной терапии:</strong><br />
+							• различные аппараты лазерной терапии<br>
+							• аппарат для внутривенного лазерного облучения крови <br>
+
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	
+	<!-- Intro Left -->
+<!--   ОЗОНОТЕРАПИЯ  --------------------------------------------------------------------->
+<!--   ОЗОНОТЕРАПИЯ --------------------------------------------------------------------->
+<!--   ОЗОНОТЕРАПИЯ --------------------------------------------------------------------->	
+<a name="ozonoterapia"></a>	
+	<div class="intro_left intro">
+		<div class="container">
+			<div class="row">
+				
+				<!-- Intro Left Content -->
+				<div class="col-xl-6 order-xl-1 order-2">
+					<div class="intro_left_content" >
+						<div class="" style="margin-top: -20px; " >
+							<div class="section_title" ><h1>Озонотерапия</strong></h1></div>
+						</div>
+						
+
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;"><strong>Озонотерапия</strong> – это метод лечения, основанный на введении озонокислородной смеси в организм человека с помощью инъекций, капельниц или местной обработки. Такая методика активно применяется для терапии заболеваний внутренних органов, сосудов, кожи и нервной системы.<br>
+						<br>
+						<strong>Главная особенность озона</strong> – его полезные свойства: он обладает противовоспалительным и антисептическим действием, стимулирует обмен веществ, улучшает снабжение тканей кислородной средой, способствует микроциркуляции крови. В результате повышается уровень иммунитета, снижается риск инфекционных осложнений, ускоряется восстановление после операций.<br>
+						<br>
+						<strong>Действие озонотерапии на организм</strong><br>
+						При введении озонокислородной смеси образуются особые соединения, которые:<br>
+						- улучшают работу сосудистой и нервной системы;<br>
+						- повышают активность иммунных клеток;<br>
+						- нормализуют функции сердца и сосудов;<br>
+						- оказывают выраженное противовоспалительное и обезболивающее действие;<br>
+						- помогают быстрее устранить инфекции и аллергические реакции;<br>
+						- активно борются с процессами старения тканей.<br>
+						<br>
+						Озон хорошо переносится, побочные эффекты возникают редко и обычно носят лёгкий характер.<br>
+						<br>
+						<strong>Когда назначают озонотерапию</strong><br>
+						Рекомендуется применение озонотерапии в случаях:<br>
+						- хронических болезней печени, желудка, поджелудочной железы и щитовидной железы;<br>
+						- нарушений дыхательной системы (бронхиальная астма, инфекции лёгких, заболевания дыхательных путей);<br>
+						- сосудистых и сердечных патологий (инфаркт миокарда, инсульт, артериальные нарушения);<br>
+						- заболеваний кожи (акне, рубцы, растяжки, язвенные дефекты, изменение цвета и другие кожные проблемы);<br>
+						- диабета и обменных нарушений;<br>
+						- травматологии и хирургии для ускорения заживления.<br>
+						<br>
+						<strong>Как проводится озонотерапия:</strong> вутривенные капельницы с раствором озона и физраствора.<br>
+						В среднем курс состоит из нескольких сеансов и занимает от 5 до 10 дней. Каждая процедура проводится  15 минут. <br><br>
+						<strong>Противопоказания</strong><br>
+						Несмотря на общую безопасность, озонотерапия не проводится при:
+						- острых кровотечениях;<br>
+						- гипогликемии;<br>
+						- тяжёлых инфекциях с быстрым течением;<br>
+						- алкогольном опьянении;<br>
+						- низкой свертываемости крови;<br>
+						- беременности (по особым показаниям решение принимает гинеколог).<br>
+						<br>
+
+						</div>
+					</div>
+				</div>
+
+				<!-- Intro Image -->
+				<div class="col-xl-6 order-xl-2 order-1">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/method-018.jpg)"></div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	
+		
+		
+	
+	
+	
+	
+<!-- Intro Left -->
+<!--   ЭЛЕКТРОЛЕЧЕНИЕ  --------------------------------------------------------------------->
+<!--   ЭЛЕКТРОЛЕЧЕНИЕ --------------------------------------------------------------------->
+<!--   ЭЛЕКТРОЛЕЧЕНИЕ --------------------------------------------------------------------->		
+<a name="electrolechenie"></a>
+	<div class="intro_right intro">
+		<div class="container">
+			<div class="row row-xl-eq-height">
+				
+				<!-- Intro Image -->
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/method-001.jpg)"></div>
+					</div>
+				</div>
+
+				<!-- Intro Right Content -->
+				<div class="col-xl-6 intro_right_col">
+					<div class="intro_right_content" >
+						<div class=" text-center"  style="margin-top: -10px;" >
+							<div class="section_title"><h1>Электролечение<br>(или электротерапия)</h1></div>
+						</div>
+						
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">
+							<strong>Электролечение (или электротерапия)</strong> - это применение с лечебной целью различных видов электрического тока, которое основано на свойстве определенных видов электрической энергии при терапевтических дозах, способное изменять функциональное состояние органов и систем.<br />
+							<br />
+							В санатории имеется аппаратура в зависимости от вида используемой электрической энергии, режима действия и способа применения:<br />
+							• кабинет ультра и сверхвысокочастотной терапии<br>
+							• кабинет электролечения № 1 (аппарат дарсонвализации, ультратонтерапия, аппарат электростимуляции<br>
+							• кабинет электролечения № 2 (аппараты гальванизации и электрофореза, амплипульстерапия, аппарат интерференцтерапии)<br>
+							• кабинет электросна (аппарат трансцеребральной импульсной терапии)<br>
+							• кабинет аэроионотерапии <br>
+<br>
+							
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	
+
+		
+	
+	
+<!-- Intro Right -->
+	
+	
+
+
+	
+	
+
+	<!-- Footer -->
+	<script type="text/javascript" src="js/footer.js"></script>	
+	
+	
+   <!-- Начало раздела СКРОЛЛ ВВЕРХ-ВНИЗ -->
+   <!--script type="text/javascript" src="js/updown.js"></script-->
+   <!-- Конец раздела СКРОЛЛ ВВЕРХ-ВНИЗ -->	
+	
+</div>
+
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="styles/bootstrap-4.1.2/popper.js"></script>
+<script src="styles/bootstrap-4.1.2/bootstrap.min.js"></script>
+<script src="plugins/greensock/TweenMax.min.js"></script>
+<script src="plugins/greensock/TimelineMax.min.js"></script>
+<script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
+<script src="plugins/greensock/animation.gsap.min.js"></script>
+<script src="plugins/greensock/ScrollToPlugin.min.js"></script>
+<script src="plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+<script src="plugins/easing/easing.js"></script>
+<script src="plugins/progressbar/progressbar.min.js"></script>
+<script src="plugins/colorbox/jquery.colorbox-min.js"></script>
+<script src="plugins/parallax-js-master/parallax.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF204lFZg1y4kPSIhKaHEXMLYxxuMhA"></script>
+<script src="js/about.js"></script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+document.write('<div class="menu">');
+document.write('<div class="background_image" style="background-image:url(images/menu.jpg)"></div>');
+document.write('<div class="menu_content d-flex flex-column align-items-center justify-content-center">');
+document.write('<ul class="menu_nav_list text-center">');
+document.write('<li><a href="index.html">Главная</a></li>');					
+document.write('<li><a href="programms_all.html">Лечение</a></li>');
+document.write('<li><a href="rooms.html">Проживание</a></li>');
+document.write('<li><a href="news.html">Новости</a></li>');
+document.write('<li><a href="index.html#actionactions">Акции</a></li>');
+document.write('<li><a href="contact.html">Контакты</a></li>');
+document.write('</ul>');
+document.write('<div class="menu_review"><a href="#">Book Now</a></div>');
+document.write('</div>');
+document.write('</div>');

@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Вопросы и ответы</title>
+<meta charset="windows-1251">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="Major - 5* Hotel template project">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="styles/bootstrap-4.1.2/bootstrap.min.css">
+<link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
+<link href="plugins/colorbox/colorbox.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="styles/contact.css">
+<link rel="stylesheet" type="text/css" href="styles/contact_responsive.css">
+<link rel="stylesheet" type="text/css" href="styles/style.css">
+<link rel="stylesheet" type="text/css" href="styles/slider.css">
+<link rel="stylesheet" type="text/css" href="styles/sliderQ.css">
+	
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>	
+	
+
+	
+</head>
+<body>
+
+<div class="super_container">
+	
+	<!-- Header -->
+	<script type="text/javascript" src="js/header.js"></script>
+	<script>setActiveMenu('menu3');</script>
+	
+	
+	<!-- Menu -->
+	<script type="text/javascript" src="js/menu.js"></script>
+	
+
+
+	<!-- Home -->
+	<script type="text/javascript" src="js/home.js"></script>	
+
+	
+	<!-- Search Box -->
+	<script type="text/javascript" src="js/frontdesk.js"></script>	
+
+
+	<!-- Contact -->
+
+	<div class="contact_section">
+		<div class="container">
+			<div class="row">
+			
+				
+
+			
+	<!-- ДОКУМЕНТЫ -->
+			
+<style>			
+	.slideQ-img {
+		height: 0px;
+	}
+	.slideQ-item {
+		height: 280px;
+		background: #E5E5E5;
+	}
+	.slideQ-title {
+		color: #3D3D3D;
+	}
+</style>
+
+				
+	<div class="intro">
+		<div class="container">
+			<div class="row">
+				<div class="col" >
+					<div class=" text-center" style="width: 80%;text-align: center; margin: 0 auto;">
+						
+						<div class="section_title" >
+							<span class="fabrge-regular">Вопросы и ответы</span>
+						</div>	
+				
+					
+			
+			
+
+						
+						
+     <div class="section_title" style="width:100%; text-align:center; margin-top:30px; margin-bottom: 40px; border: #FF0004 solid 0px; float: left;">  	 
+		 
+		 
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top: 18px; height:80px; cursor: pointer;" onclick="$('#question001').slideToggle('slow');">
+				<a href="javascript://"  style="line-height: 22px;">Я хочу получить в вашем санатории санаторно-курортное лечение,<br>какие могут быть противопоказания для этого?</a>
+			</div>			   
+			<div class="articles" id="question001" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">Предварительно желающие получить санаторно-курортное лечение не должны иметь противопоказаний к нему, согласно приказу Минздрава РФ от 28.09.2020 г. № 1029 Н.<br />
+<br />
+<strong>Противопоказаниями являются:</strong><br />
+• Все заболевания в острой стадии, хронические заболевания в стадии обострения и осложненные острогнойными процессами.<br />
+• Острые инфекционные заболевания до окончания срока изоляции.<br />
+• Все венерические заболевания в острой и заразной форме.<br />
+• Все болезни крови в острой стадии обострения.<br />
+• Кахексия (истощение) любого происхождения.<br />
+• Злокачественные новообразования.<br />
+	<br>
+<strong>Примечания:</strong><br />
+<br />
+• Больные после радикального лечения (хирургическое, лучевая терапия, химиотерапия) при удовлетворительном состоянии, отсутствие метастазирования, нормальных показателях крови могут получать общеукрепляющее санаторно-курортное лечение в санаториях.<br />
+<br />
+• Все заболевания, требующие стационарного лечения, хирургического вмешательства. Все заболевания при которых больные не способны к самостоятельному передвижению и самообслуживанию.<br />
+<br />
+• Эхинококк любой локализации.<br />
+<br />
+• Часто повторяющиеся обильные кровотечения.<br />
+<br />
+• Беременность во все сроки на бальнеологические и грязевые курорты, а начиная с 26-ой недели на климатические курорты.<br />
+<br />
+• Все формы туберкулеза в активной стадии (для любых санаториев и курортов нетуберкулезного профиля).</font><br /><br />
+<hr width="100%">
+<br />
+			</div>	
+		 
+		 
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top:28px; height:80px; cursor: pointer;" onclick="$('#question002').slideToggle('slow');">
+				<a href="javascript://"  style="line-height: 24px;">Какие документы нужны для пребывания в санатории?</a>
+			</div>			   
+			<div class="articles" id="question002" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">Вы обязательно должны оформить <strong>санаторно-курортную карту</strong> и иметь <strong>справку об эпидокружении</strong> – то есть об отсутствии контактов с инфекционными больными в течение 14 дней, предшествующих заезду в санаторий.</font><br /><br />
+<hr width="100%">
+<br />
+			</div>	
+
+		 
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top:28px; height:80px; cursor: pointer;" onclick="$('#question003').slideToggle('slow');">
+				<a href="javascript://"  style="line-height: 24px;">Какие документы необходимы для оформления санаторно-курортной карты?</a>
+			</div>			   
+			<div class="articles" id="question003" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">Для оформления санаторно-курортной карты Вам необходимо предоставить следующие документы:<br />
+<br />
+• Паспорт.<br />
+• СНИЛС.<br />
+• Справку МСЭ (при наличии инвалидности).<br />
+• Справку об эпидокружении – то есть об отсутствии контактов с инфекционными больными в течение 14 дней, предшествующих заезду в санаторий.<br />
+• Флюорографию, рентгенографию, либо КТ органов грудной клетки за последний год.<br />
+• Для женщин - заключение врача-гинеколога.<br />
+• По прибытию в санаторий необходим осмотр терапевта.<br />
+• Лабораторное обследование:<br />
+&nbsp;&nbsp;&nbsp;- общий анализ крови (натощак);<br />
+&nbsp;&nbsp;&nbsp;- общий анализ мочи;<br />
+&nbsp;&nbsp;&nbsp;- глюкоза крови (натощак);<br />
+&nbsp;&nbsp;&nbsp;- ЭКГ.<br />
+<br />
+Забор лабораторных исследований производится во вторник, среду и пятницу с 8:15 до 9:00.<br />
+Рекомендуем Вам заезжать в санаторий в перечисленные дни до 8:00, чтобы успеть своевременно сдать анализы.</font><br /><br />
+<hr width="100%">
+<br />
+			</div>			 
+		 
+		 
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top:18px; height:80px; cursor: pointer;" onclick="$('#question004').slideToggle('slow');">
+				<a href="javascript://"  style="line-height: 22px;">Я прибрела путевку в ваш санаторий без лечения, но в период своего отдыха хочу получить платные медицинские услуги, какие документы для этого необходимы?</a>
+			</div>			   
+			<div class="articles" id="question004" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">Вы сможете получить платные медицинские услуги, для этого Вам необходимы следующие документы:<br />
+<br />
+1. Результат флюорографического или рентгенологического обследования органов грудной клетки (действителен 12 месяцев);<br />
+2. Для женщин - заключение врача-гинеколога (действительно 6 месяцев);<br />
+3. Справка о возможности посещать бассейн;<br />
+4. Справка об эпидокружении – то есть об отсутствии контактов с инфекционными больными в течение 14 дней, предшествующих заезду в санаторий;<br />
+5. По возможности медицинские документы (анализы, выписки из медицинской карты, результаты ЭКГ и прочее).</font><br /><br />
+<hr width="100%">
+<br />
+			</div>		 
+	
+
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top:28px; height:80px; cursor: pointer;" onclick="$('#question005').slideToggle('slow');">
+				<a href="javascript://"  style="line-height: 22px;">Почему не реализуются путевки со сроком пребывания менее 7-ми дней?</a>
+			</div>			   
+			<div class="articles" id="question005" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">Санаторий является лечебно-оздоровительным учреждением. Пребывание в санатории менее 7-ми дней носит только ознакомительный характер.<br />
+<br />
+Рекомендуемый курс лечения составляет 10 дней.</font><br /><br />
+<hr width="100%">
+<br />
+			</div>			
+		 
+		 
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top:28px; height:80px; cursor: pointer; " onclick="$('#question006').slideToggle('slow');">
+				<a href="javascript://"  style="line-height: 22px;">Что такое дополнительное место?</a>
+			</div>			   
+			<div class="articles" id="question006" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">На нашем сайте стоимость проживания в санатории указана для основных и дополнительных мест в номере. Основу номерного фонда спальных корпусов составляют номера с возможностью установки дополнительного места. То есть, в просторных номерах предоставляются одно или два основных места, плюс есть возможность размещения дополнительного места – раскладную кровать-раскладушку или раскладной диван. Дополнительное место предоставляется как взрослым, так и детям.<br />
+<br />
+Также в санатории есть возможность размещения дополнительного места в номерах повышенной комфортности — категории Полулюкс и Люкс.</font><br /><br />
+<hr width="100%">
+<br />
+			</div>			 
+		 
+		 
+		 
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top:28px; height:80px; cursor: pointer;" onclick="$('#question007').slideToggle('slow');">
+				<a href="javascript://"  style="line-height: 22px;">Какие документы необходимо иметь при себе гражданам СНГ, ближнего и дальнего зарубежья?</a>
+			</div>			   
+			<div class="articles" id="question007" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">Гражданам СНГ, ближнего и дальнего зарубежья при себе необходимо иметь следующие документы:<br />
+• паспорт или документ удостоверяющий личность<br />
+• миграционную карту<br>
+•для стран с визовым режимом - визу или ее аналог (единую электронную визу, Business Travel Card)</font><br /><br />
+<hr width="100%">
+<br />
+			</div>	
+		 
+		 
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top:28px; height:80px; cursor: pointer;" onclick="$('#question008').slideToggle('slow');">
+				<a href="javascript://"  style="line-height: 22px;">Можно ли приехать в санаторий с животными (собаками, кошками и т. п.)?</a>
+			</div>			   
+			<div class="articles" id="question008" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">В связи с тем, что санаторий является лечебно-профилактическим учреждением, проживание животных в спальных корпусах санатория и в гостинице <strong>категорически запрещается</strong>.<br />
+<br />
+Вы можете заселиться с животными только <strong>в коттедж</strong>.</font><br /><br />
+<hr width="100%">
+<br />
+			</div>			 
+		 
+		 
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top:28px; height:80px; cursor: pointer;" onclick="$('#question009').slideToggle('slow');" >
+				<a href="javascript://" style="line-height: 22px;">Теряю ли я день приезда, если приеду после 14.00 часов?</a>
+			</div>			   
+			<div class="articles" id="question009" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">Да, теряете. Прием врача проходит до 16:30.<br />
+Лечебные процедуры в санатории отпускаются до 16:30.</font><br /><br />
+<hr width="100%">
+<br />
+			</div>			
+		 
+		 
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top:28px; height:80px;  cursor: pointer;" onclick="$('#question010').slideToggle('slow');">
+				<a href="javascript://"  style="line-height: 22px;">Каков процесс назначения лечебных процедур?</a>
+			</div>			   
+			<div class="articles" id="question010" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">Назначение объема диагностических исследований, видов лечения и количества процедур определяется врачом санатория с учётом показаний и противопоказаний, исходя из диагноза и степени тяжести заболевания, сопутствующей патологии, указанных в санаторно-курортной карте или выявленных при обследовании в санатории.</font><br /><br />
+<hr width="100%">
+<br />
+			</div>		
+		 
+
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top:8px; height:100px; cursor: pointer;" onclick="$('#question011').slideToggle('slow');">
+				<a href="javascript://"  style="line-height: 22px;">Какие документы нужны при оформлении справки «об оплате медицинских услуг для предоставления в налоговый орган РФ» для возмещения стоимости лечения санаторно-курортной путевки и предоставленных платных медицинских процедур, не входящих в стоимость путевки?</a>
+			</div>			   
+			<div class="articles" id="question011" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">При получении справки «об оплате медицинских услуг для предоставления в налоговый орган РФ» в отдел реализации путевок необходимо предоставить:<br />
+<br />
+1. Отрывной талон к санаторно-курортной путевке.<br />
+2. Договор купли-продажи санаторно-курортных путевок.<br />
+3. Акт выполненных работ (к договору), с указанием оказанных видов платных медицинских процедур.<br />
+4. Лицензию на осуществление медицинской деятельности (последнюю).<br />
+5. Справку об оплате медицинских услуг (бухгалтерия).</font><br /><br />
+<hr width="100%">
+<br />
+			</div>		
+		 
+		 
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top:28px; height:80px; cursor: pointer;" onclick="$('#question012').slideToggle('slow');">
+				<a href="javascript://"  style="line-height: 22px;">Когда начинаются сутки в санатории?</a>
+			</div>			   
+			<div class="articles" id="question012" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">Сутки по путевке начинаются в 8:00, заканчиваются в 20:00.<br>Сутки проживания начинаются в 13:00, заканчиваются в 12:00.<br /></font><br /><br />
+<hr width="100%">
+<br />
+			</div>			 
+		 
+		 
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top:28px; height:80px; cursor: pointer;" onclick="$('#question013').slideToggle('slow');">
+				<a href="javascript://"  style="line-height: 22px;">Подскажите, как я могу оплатить свою путевку?</a>
+			</div>			   
+			<div class="articles" id="question013" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">Вы можете произвести предоплату 30% или 100% оплату в банке при помощи операторов, через онлайн кабинет или в терминале своего банка. Для гарантированной брони настоятельно рекомендуем внести предоплату в течение трех суток после получения счета.<br />
+<br />
+Окончательный расчет производится у администратора санатория, в день приезда, как наличным путем через кассу, так и банковской картой, через терминал.<br />
+<br />
+Плательщиком и получателем услуг должен являться один человек или одна компания. Частичная оплата одной путевки от юридического лица и частичная оплата от физического лица <strong>недопустима!</strong></strong><br /><br />
+<hr width="100%">
+<br />
+			</div>				 
+		 
+		 
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top:28px; height:80px; cursor: pointer;" onclick="$('#question014').slideToggle('slow');">
+				<a href="javascript://"  style="line-height: 22px;">Я являюсь инвалидом 2 группы, каким образом могу оформить компенсацию?</a>
+			</div>			   
+			<div class="articles" id="question014" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">Если вы планируете подавать документы на компенсацию/возврат НДФЛ, т.д. обязательно производите платеж только <strong>от своего имени</strong>. Плательщиком и получателем услуг должен являться один человек. В день заезда Вам необходимо оставить информацию о необходимости обратных документов. Это можно сделать у дежурного администратора. К дню выезда вам подготовят пакет документов.<br />
+<br />
+<font color="#FF0000"><strong>ВНИМАНИЕ!</strong></font> Обязательно указывайте номер счета, по которому производится платеж.</font><br /><br />
+<hr width="100%">
+<br />
+			</div>			 
+		 
+		 
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top:28px; height:80px; cursor: pointer;" onclick="$('#question015').slideToggle('slow');">
+				<a href="javascript://"  style="line-height: 22px;">Есть ли какие-то особенности бронирования/оплаты в новогодние праздники?</a>
+			</div>			   
+			<div class="articles" id="question015" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">Обязательное бронирование путевки с предоплатой 30%<br />
+<br />
+Если ваши даты пребывания приходятся на новогодние праздники - мы настоятельно рекомендуем произвести платеж в 100% размере не позднее 15 декабря.</font><br /><br />
+<hr width="100%">
+<br />
+			</div>			 
+		 
+		 
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top:18px; height:80px; cursor: pointer;" onclick="$('#question016').slideToggle('slow');">
+				<a href="javascript://"  style="line-height: 22px;">В последнее время у меня болит поясница, врачи рекомендуют лечение в санатории,<br>как мне правильно выбрать курс?</a>
+			</div>			   
+			<div class="articles" id="question016" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">Для того чтобы подробно ответить на Ваш вопрос, нам требуется больше информации по Вашему заболеванию. Вышлите, пожалуйста, Ваши медицинские документы: заключение врача с постановкой диагноза, какие анализы сдавали, выписки и прочее - всё, что у Вас имеется на руках. Наш администратор обязательно соединит Вас с главным врачом для консультации по данному вопросу.</font><br /><br />
+<hr width="100%">
+<br />
+			</div>		 
+		 
+		 
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top:28px; height:80px;  cursor: pointer;" onclick="$('#question017').slideToggle('slow');">
+				<a href="javascript://"  style="line-height: 22px;">Какое питание предоставляет ваш санаторий?</a>
+			</div>			   
+			<div class="articles" id="question017" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">Мы предлагаем диетическое питание по системе шведский стол.<br><br>В этом питании подобраны блюда, содержащие оптимальные значения белков, жиров и углеводов. Питание 5-и разовое: завтрак, обед, полдник, ужин и поздний ужин (кефир). Всегда есть свежие фрукты и овощи с учетом сезона.</font><br /><br />
+<hr width="100%">
+<br />
+			</div>			 
+		 
+		 
+		 	<div class="button room_button trans_200" style="margin-top:10px; margin-left: 15px; float: left; width:100%; text-align: left; padding-left: 10px; padding-top:18px; height:80px; cursor: pointer; margin-bottom: 20px;" onclick="$('#question018').slideToggle('slow');">
+				<a href="javascript://"  style="line-height: 22px;">На какой период лучше приобретать путевку при заболевании опорно-двигательного аппарата?</a>
+			</div>			   
+			<div class="articles" id="question018" style="float: left; width: 100%; margin-top: 20px;text-align: left; padding-left: 20px;">
+<font size="+1" color="#3D3C3C">Рекомендуемый срок для лечения опорно-двигательного аппарата 12-14 суток.</font><br /><br />
+<hr width="100%">
+<br />
+			</div>				
+		 
+		 
+<hr width="100%" /><br /><br>
+
+<br /><font color="#555555" size="+1">
+Если вы не нашли ответа на свой вопрос,<br>задайте его администратору санатория.<br />
+Телефоны: +7 (985) 770-09-69, +7 (49131) 4-52-06, +7 (49131) 4-52-07.<br />
+Ждем от Вас новых вопросов!<br /></font>
+<br />		 
+		 
+	
+       </div>   						
+
+   
+			
+
+					
+						
+						
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>	
+	
+			
+			
+			
+
+	
+	
+			</div>
+			</div>
+		</div>
+	
+
+	<!-- Footer -->
+	<script type="text/javascript" src="js/footer.js"></script>		
+	
+</div>
+			
+
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="styles/bootstrap-4.1.2/popper.js"></script>
+<script src="styles/bootstrap-4.1.2/bootstrap.min.js"></script>
+<script src="plugins/greensock/TweenMax.min.js"></script>
+<script src="plugins/greensock/TimelineMax.min.js"></script>
+<script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
+<script src="plugins/greensock/animation.gsap.min.js"></script>
+<script src="plugins/greensock/ScrollToPlugin.min.js"></script>
+<script src="plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+<script src="plugins/easing/easing.js"></script>
+<script src="plugins/progressbar/progressbar.min.js"></script>
+<script src="plugins/colorbox/jquery.colorbox-min.js"></script>
+<script src="plugins/parallax-js-master/parallax.min.js"></script>
+<script src="js/contact.js"></script>
+</body>
+</html>

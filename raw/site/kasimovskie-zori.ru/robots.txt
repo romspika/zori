@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /virtual.html
+Disallow: /?
+
+Host: kasimovskie-zori.ru

@@ -1,0 +1,463 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Оформление панели */
+#side-checkbox {
+    display: none;
+}
+#side-checkbox0 {
+    display: none;
+}
+#side-checkbox2 {
+    display: none;
+}
+#side-checkbox3 {
+    display: none;
+}
+#side-checkbox4 {
+    display: none;
+}
+#side-checkbox5 {
+    display: none;
+}
+#side-checkbox6 {
+    display: none;
+}
+#side-checkbox7 {
+    display: none;
+}
+#side-checkbox8 {
+    display: none;
+}
+#side-checkbox9 {
+    display: none;
+}
+#side-checkbox10 {
+    display: none;
+}
+#side-checkbox11 {
+    display: none;
+}
+#side-checkbox12 {
+    display: none;
+}
+#side-checkbox13 {
+    display: none;
+}
+#side-checkbox14 {
+    display: none;
+}
+#side-checkbox15 {
+    display: none;
+}
+#side-checkbox16 {
+    display: none;
+}
+#side-checkbox17 {
+    display: none;
+}
+#side-checkbox18 {
+    display: none;
+}
+#side-checkbox19 {
+    display: none;
+}
+#side-checkbox20 {
+    display: none;
+}
+#side-checkbox21 {
+    display: none;
+}
+#side-checkbox22 {
+    display: none;
+}
+#side-checkbox23 {
+    display: none;
+}
+#side-checkbox24 {
+    display: none;
+}
+.side-panel {
+    position: fixed;
+    z-index: 999999;
+    top: 0;
+    left: -102%; /*-740px;*/
+    background: #337AB7;
+    transition: all 0.5s;   
+    width: 68%; /*640px;*/ /*98%*/
+    height: 100vh;
+    box-shadow: 10px 0 20px rgba(0,0,0,0.4);
+    color: #FFF;
+    padding: 40px 20px;
+	overflow: scroll;
+}
+	
+.side-panel_right {
+    position: fixed;
+    z-index: 999999;
+    top: 0;
+    left: 102%; /*-740px;*/
+    background: #337AB7;
+    transition: all 0.5s;   
+    width: 98%; /*640px;*/
+    height: 100vh;
+    box-shadow: 10px 0 20px rgba(0,0,0,0.4);
+    color: #FFF;
+    padding: 40px 20px;
+	overflow: scroll;
+}
+	
+.side-title {
+    font-size: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #BFE2FF;
+}
+/* Оформление кнопки на странице */
+.side-button-1-wr {
+    text-align: center; /* Контейнер для кнопки, чтобы было удобнее ее разместить */
+}
+.side-button-1 {
+    display: inline-block;
+}
+.side-button-1 .side-b {
+    margin: 2px;
+	margin-left: 10px;
+    text-decoration: none;
+    position: relative;
+    font-size: 18px;
+    line-height: 2px;
+    padding: 12px 30px;
+    color: #FFF;
+    font-weight: bold;
+    text-transform: uppercase; 
+    font-family: 'Roboto', Тahoma, sans-serif;
+    background: #337AB7;
+    cursor: pointer; 
+    border: 2px solid #BFE2FF;
+}
+.side-button-1 .side-b:hover,
+.side-button-1 .side-b:active,
+.side-button-1 .side-b:focus {
+    color: #FFF;
+}
+.side-button-1 .side-b:after,
+.side-button-1 .side-b:before {
+    position: absolute;
+    height: 4px;
+    left: 50%;
+    bottom: -6px;
+    content: "";
+    transition: all 280ms ease-in-out;
+    width: 0;
+}
+.side-button-1 .side-open:after,
+.side-button-1 .side-open:before {
+    background: green;
+}
+.side-button-1 .side-close:after,
+.side-button-1 .side-close:before {
+    background: red;
+}
+.side-button-1 .side-b:before {
+    top: -6px;
+}
+.side-button-1 .side-b:hover:after,
+.side-button-1 .side-b:hover:before {
+    width: 100%;
+    left: 0;
+}
+.side-button-1 .side-close {
+    display: none;
+}
+
+/* Переключатели кнопки 0 */
+#side-checkbox0:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox0:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox0:checked + .side-panel {
+    left: 0;
+}
+/* Переключатели кнопки 1 */
+#side-checkbox:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox:checked + .side-panel {
+    left: 0;
+}
+/* Переключатели кнопки 2 */
+#side-checkbox2:checked + .side-panel_right + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox2:checked + .side-panel_right + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox2:checked + .side-panel_right {
+    left: 0;
+}
+
+/* Переключатели кнопки 3 */
+#side-checkbox3:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox3:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox3:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 4 */
+#side-checkbox4:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox4:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox4:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 5 */
+#side-checkbox5:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox5:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox5:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 6 */
+#side-checkbox6:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox6:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox6:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 7 */
+#side-checkbox7:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox7:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox7:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 8 */
+#side-checkbox8:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox8:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox8:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 9 */
+#side-checkbox9:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox9:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox9:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 10 */
+#side-checkbox10:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox10:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox10:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 11 */
+#side-checkbox11:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox11:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox11:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 12 */
+#side-checkbox12:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox12:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox12:checked + .side-panel {
+    left: 0;
+}
+
+/* Переключатели кнопки 13 */
+#side-checkbox13:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox13:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox13:checked + .side-panel {
+    left: 0;
+}
+
+	/* Переключатели кнопки 14 */
+#side-checkbox14:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox14:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox14:checked + .side-panel {
+    left: 0;
+}
+	
+	/* Переключатели кнопки 15 */
+#side-checkbox15:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox15:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox15:checked + .side-panel {
+    left: 0;
+}
+	
+	/* Переключатели кнопки 16 */
+#side-checkbox16:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox16:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox16:checked + .side-panel {
+    left: 0;
+}
+	
+	/* Переключатели кнопки 17 */
+#side-checkbox17:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox17:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox17:checked + .side-panel {
+    left: 0;
+}
+	
+	/* Переключатели кнопки 18 */
+#side-checkbox18:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox18:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox18:checked + .side-panel {
+    left: 0;
+}
+	
+	/* Переключатели кнопки 19 */
+#side-checkbox19:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox19:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox19:checked + .side-panel {
+    left: 0;
+}
+	
+	/* Переключатели кнопки 20 */
+#side-checkbox20:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox20:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox20:checked + .side-panel {
+    left: 0;
+}
+	
+	/* Переключатели кнопки 21 */
+#side-checkbox21:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox21:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox21:checked + .side-panel {
+    left: 0;
+}
+	
+	/* Переключатели кнопки 22 */
+#side-checkbox22:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox22:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox22:checked + .side-panel {
+    left: 0;
+}
+	
+	/* Переключатели кнопки 23 */
+#side-checkbox23:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox23:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox23:checked + .side-panel {
+    left: 0;
+}
+	
+	/* Переключатели кнопки 24 */
+#side-checkbox24:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox24:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox24:checked + .side-panel {
+    left: 0;
+}
+/* Оформление кнопки на панеле */
+.side-button-2 {
+    font-size: 48px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 1;
+    top: 8px;
+    right: 8px;
+    cursor: pointer;
+    transform: rotate(45deg);
+    color: #BFE2FF;    
+    transition: all 280ms ease-in-out;    
+}
+.side-button-2:hover {
+    transform: rotate(45deg) scale(1.1);    
+    color: #FFF;
+}
+

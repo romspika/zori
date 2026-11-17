@@ -1,0 +1,171 @@
+.vidget_otziv {
+	border: #FFF solid 1px;
+	background-color: #FFF; 
+	position: fixed;
+	left: 20px;
+	z-index: 9999;
+	width: 250px;
+	height: 100px;
+	bottom: 50px;
+	border-radius: 20px;
+	box-shadow: 0 0 5px 5px rgba(0,0,0,0.2);
+	cursor: pointer;
+    font-family: Arial, Verdana, Tahoma;
+}
+
+.slider {
+  transition: transform 0.5s ease-in-out; 
+
+  width: 370px;
+  height: 96%;
+  background-color: #FFF;
+  top: 10px;
+  right: -370px;
+  position: fixed;
+  z-index: 9998;  
+  border-radius: 20px;
+  box-shadow: 0 0 5px 5px rgba(0,0,0,0.2);
+}
+
+.button-exit {
+    font-size: 36px;
+	font-family: Arial, Verdana, Tahoma;
+    top: 8px;
+    right: 8px;
+    cursor: pointer;
+    transform: rotate(45deg);
+    color: #555;    
+	border: #000 solid 0px;
+	float: left;
+	
+}
+.button-exit:hover {
+    transform: rotate(45deg) scale(1.1);    
+    color: #555;
+}
+.otziv-header {
+	float: left;
+	width: 100%;
+}
+.otziv-rating {
+	float: left;
+    font-size: 48px;
+	font-family: Arial, Verdana, Tahoma;	
+	border: #000 solid 0px;
+	margin-left: 0px;
+	margin-bottom: 20px;
+       color: #333;
+	
+}
+.otziv-stars {
+	float: left;
+    font-size: 48px;
+	border: #000 solid 0px;
+	margin-left: 10px;
+	margin-top: 0px;
+}
+.otziv-quan {
+	float: left;
+    font-size: 14px;
+	font-family: Arial, Verdana, Tahoma;	
+	border: #000 solid 0px;
+	margin-left: 20px;
+	padding-top:26px;
+	color: #777;
+	
+}
+.otziv-allcontent {
+    float: left;
+	width: 106%;
+	height: 80%;
+	padding-left: 0px;
+	padding-right: 30px;
+	overflow-y: scroll; 
+	overflow-x: hidden; 
+	
+	
+}
+.oneotziv {
+   width: 100%;
+   font-size: 14px;
+   font-family: Arial, Verdana, Tahoma;
+   border: #000 solid 0px;
+   float: left;
+   margin-right: 30px;
+
+   
+}
+.otzivpic {
+	width: 50px;
+	height: 50px;
+	border-radius: 25px;
+	overflow: hidden;
+	float: left;
+	
+}
+.otzivname {
+	height: 50px;
+	width: 240px;
+	float: left;
+    font-size: 14px;
+    font-family: Arial, Verdana, Tahoma;
+	font-weight: bold;
+	line-height: 14px;
+	margin-left: 10px;
+	border: #000 solid 0px;	
+     color: #333;
+}
+.otzivdate {
+	float: left;
+	color: #777;
+	width: 140px;
+    font-size: 14px;
+    font-family: Arial, Verdana, Tahoma;
+	margin-left: 0px;
+	margin-bottom: 5px;
+	font-weight: normal;	
+	border: #000 solid 0px;	
+}
+.otzivcontent {
+	width: 100%;
+	float: left;
+    font-size: 14px;
+    font-family: Arial, Verdana, Tahoma;
+	margin-top: 10px; 
+	border: #000 solid 0px;	
+	color:#333;
+}
+.fade {
+  height: 2px;
+  border: none;
+  width: 90%;
+/*  background: linear-gradient(to right, transparent, #888, transparent);*/
+  background-color: #888;
+  margin-top: 15px;
+  margin-bottom:20px;
+	border: #000 solid 0px;
+  
+}
+
+
+.tblline {
+  margin-top: 15px;
+  margin-bottom:20px;
+  border-bottom: 2px solid #999;
+  margin-left: 20px;
+}
+
+.noscroll {
+  position: fixed; 
+  top: var(--st, 0);
+  inline-size: 100%;
+  overflow-y:clip; 
+/*  margin-right: 15px;*/
+}
+
+.no-scroll {
+  overflow-y: scroll; /* Разрешает видимость полосы прокрутки */
+  position: fixed; /* Запрещает прокрутку страницы */
+  width: 100%; /* Фиксирует ширину страницы */
+  top: calc(-1 * var(--scroll-position)); /* Запоминает место прокрутки */
+}

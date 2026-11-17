@@ -1,0 +1,112 @@
+@charset "windows-1251";
+/* CSS Document */
+
+@font-face {
+	font-family: 'Faberge'; 
+	src: url(fonts/Faberge-Regular.otf); 
+}
+
+.fabrge-regular {
+  font-family: 'Faberge', regular;
+  font-weight: 400;
+  font-style: normal;
+  color: #2e3f61;
+  font-size:62px;
+  line-height:60px;
+  /*text-shadow:#000 3px 3px;*/
+}
+
+.meduslugi-item {
+	width: 370px; 
+	padding: 0px 0px 0px 0px; 
+	float: left;
+	background-color: #2e3f61;
+	margin:5px 5px 5px 5px;
+	height:600px;
+/*	border-radius:16px 16px 0 0;*/
+/*	border: #777 solid 1px;*/
+}
+
+.meduslugi-vidget {
+	width: 370px; 
+	float: right;
+	height: 600px;
+/*	border-radius:12px 12px 0 0;*/
+/*		border: #bbbbbb solid 1px;*/
+/*	box-shadow: 0 0 8px rgba(0,0,0,0.5);*/
+	position: relative;
+	overflow:hidden;
+}
+
+.meduslugi-img {
+	width:370px; 
+	height:370px;
+	cursor:pointer;
+/*	border:2px solid #FFFFFF; */
+/*        border-radius:12px 12px 0 0;*/
+    transition: transform 0.3s;		
+}
+
+.meduslugi-buttonplace {
+	margin-left:95px; 
+	bottom: 40px;
+}
+
+
+.akcia-item {
+	width: 370px; 
+	padding: 0px 0px 0px 0px; 
+	float: left;
+	background-color: #226842;
+	margin:5px 5px 5px 5px;
+	height:560px;
+/*	border-radius:16px 16px 0 0;*/
+/*	border: #777 solid 1px;*/
+}
+.akcia-vidget {
+	width: 370px; 
+	float: right;
+	height: 560px;
+/*	border-radius:12px 12px 0 0;*/
+/*		border: #bbbbbb solid 1px;*/
+/*	box-shadow: 0 0 8px rgba(0,0,0,0.5);*/
+	position: relative;
+	overflow:hidden;
+}
+
+.articles { display: none; } 
+
+.akcia-buttonplace {
+	margin-left:100px; 
+	bottom: 50px;
+}
+
+.akcia-img {
+	width:370px; 
+	height:370px;
+/*	border:2px solid #FFFFFF; */
+/*        border-radius:12px 12px 0 0;*/
+/*    transition: transform 0.3s;		*/
+}
+
+.scrollcontainer {
+	max-height:320px;
+    border: 0px solid red;
+    width: 100%;
+    overflow: auto hidden;  
+ /*   overflow-x: scroll hidden;  */
+}
+
+.buttoncott {
+	width:156px; 
+	height:60px; 
+	margin: 10px 5px 0 5px;
+	background:#099; 
+	cursor:pointer;	
+	line-height:60px;
+	float:left;
+	color: #FFFFFF;
+}
+.buttoncott:hover {
+	background:#0bb; 
+}

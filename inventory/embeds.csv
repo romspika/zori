@@ -1,0 +1,13 @@
+﻿source,embed_url,kind
+https://kasimovskie-zori.ru/,https://clients.streamwood.ru/StreamWood/sw.js,script@src
+https://kasimovskie-zori.ru/,https://mc.yandex.ru/watch/66491389,img@src
+https://kasimovskie-zori.ru/,https://myreviews.dev/widget/dist/verticalWidgetNew.js,script@src
+https://kasimovskie-zori.ru/booking.html,https://pms.frontdesk24.ru/onlineWidget/bookWidget.js,script@src
+https://kasimovskie-zori.ru/contact.html,https://yandex.ru/map-widget/v1/?z=12&ol=biz&oid=29901253222,iframe@src
+https://kasimovskie-zori.ru/js/frontdesk.js,https://pms.frontdesk24.ru/onlineWidget/startWidget.js,js-string
+https://kasimovskie-zori.ru/js/news01.js,https://www.youtube.com/embed/jISRNrPTYlg?si=rV9yp3oYVnb9sp8Q,js-string
+https://kasimovskie-zori.ru/news.html,https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF204lFZg1y4kPSIhKaHEXMLYxxuMhA,script@src
+https://kasimovskie-zori.ru/programms_equipment.html,https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF204lFZg1y4kPSIhKaHEXMLYxxuMhA,script@src
+https://kasimovskie-zori.ru/programms_izuminki.html,https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF204lFZg1y4kPSIhKaHEXMLYxxuMhA,script@src
+https://kasimovskie-zori.ru/programms_meduslugi.html,https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF204lFZg1y4kPSIhKaHEXMLYxxuMhA,script@src
+https://kasimovskie-zori.ru/programms_treatment.html,https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF204lFZg1y4kPSIhKaHEXMLYxxuMhA,script@src

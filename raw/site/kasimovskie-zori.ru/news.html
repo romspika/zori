@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Санаторий Касимовские Зори</title>
+<meta charset="windows-1251">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="Санаторий Касимовские Зори">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="styles/bootstrap-4.1.2/bootstrap.min.css">
+<link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
+<link href="plugins/colorbox/colorbox.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="styles/blog.css">
+<link rel="stylesheet" type="text/css" href="styles/blog_responsive.css">
+<link rel="stylesheet" type="text/css" href="styles/style.css">	
+	
+<script src="js/activemenu.js"></script> <!-- активный пункт меню-->	
+	
+<script type='text/javascript' src='js/news.js'></script>
+<script type='text/javascript' src='js/news03.js'></script>
+<script type='text/javascript' src='js/news02.js'></script>
+<script type='text/javascript' src='js/news01.js'></script>
+<script type='text/javascript' src='js/shownews.js'></script>
+	
+	
+</head>
+<body>
+
+<div class="super_container">
+	
+	
+		<!-- Header -->
+	<script type="text/javascript" src="js/header.js"></script>
+	<script>setActiveMenu('menu3');</script>
+	
+	
+	<!-- Menu -->
+	<script type="text/javascript" src="js/menu.js"></script>
+	
+
+
+	<!-- Home -->
+	<script type="text/javascript" src="js/home.js"></script>	
+
+	
+	<!-- Search Box -->
+	<script type="text/javascript" src="js/frontdesk.js"></script>	
+	
+	
+
+<style>	
+	.onepage {
+		width:150px; 
+		cursor:pointer; 
+		float:left; 
+		color: #737373;
+		text-align:center; 
+		
+	}
+	.allpages {
+		width:100%; 
+		margin-top:-10px; 
+		margin-bottom:40px; 
+		text-align:center; 
+		float: left; 
+		border: #DF2427 solid 0px;
+	}
+</style>
+	
+	
+	<!-- Blog -->
+
+	<div class="blog">
+		<div class="container">
+			<div class="row">
+				
+				
+				<div class="section_title" style="width: 100%; text-align: center; margin-top: -40px; margin-bottom: 30px;"> <span class="fabrge-regular" id="header">Программы и цены</span></div>					
+					
+					<!-- Page Nav -->
+<!-- ВЫБОР СТРАНИЧКИ С НОВОСТЯМИ -->      
+    <div class="allpages">  
+       <div class="onepage" onclick="location.href='news.html?page=04'">
+         <img src="images/news.jpg" onMouseOver="this.src='images/newsact.jpg'" onMouseOut="this.src='images/news.jpg'"/>
+         СВЕЖИЕ<br />НОВОСТИ
+       </div>
+       <div class="onepage"onclick="location.href='news.html?page=03'">
+         <img src="images/news.jpg" onMouseOver="this.src='images/newsact.jpg'" onMouseOut="this.src='images/news.jpg'"/>
+         НОВОСТИ<br />2025 года
+       </div>       
+       <div class="onepage" onclick="location.href='news.html?page=02'">
+         <img src="images/news.jpg" onMouseOver="this.src='images/newsact.jpg'" onMouseOut="this.src='images/news.jpg'"/>
+         НОВОСТИ<br />2024 года
+       </div>
+       <div class="onepage" onclick="location.href='news.html?page=01'">
+         <img src="images/news.jpg" onMouseOver="this.src='images/newsact.jpg'" onMouseOut="this.src='images/news.jpg'"/>
+         НОВОСТИ<br />2023 года
+       </div>
+    </div>
+<!-- /ВЫБОР СТРАНИЧКИ С НОВОСТЯМИ --> 		
+						
+					
+					
+					
+
+					<!-- Blog Posts -->
+					<div class="blog_posts">
+						
+       <!-- НОВОСТИ -- 700 x 400-->
+	   		 <script type="text/javascript">
+				 var page = getURLParameter('page');
+
+			if (page == '04') { d = document.getElementById('header').innerHTML = 'Свежие новости'; }
+			if (page == '03') { d = document.getElementById('header').innerHTML = 'Новости 2025 года'; }
+			if (page == '02') { d = document.getElementById('header').innerHTML = 'Новости 2024 года'; }
+			if (page == '01') { d = document.getElementById('header').innerHTML = 'Новости 2023 года'; }
+
+				 shownews(page);
+			</script>
+       <!-- НОВОСТИ -->						
+
+					</div>
+
+					<!-- Page Nav -->
+					<div class="page_nav">
+<!-- ВЫБОР СТРАНИЧКИ С НОВОСТЯМИ -->      
+    <div class="allages">  
+       <div class="onepage" onclick="location.href='news.html?page=04'" >
+         <img src="images/news.jpg" onMouseOver="this.src='images/newsact.jpg'" onMouseOut="this.src='images/news.jpg'" />
+         СВЕЖИЕ<br />НОВОСТИ
+       </div>
+       <div class="onepage" onclick="location.href='news.html?page=03'">
+         <img src="images/news.jpg" onMouseOver="this.src='images/newsact.jpg'" onMouseOut="this.src='images/news.jpg'" />
+         НОВОСТИ<br />2025 года
+       </div>       
+       <div class="onepage" onclick="location.href='news.html?page=02'">
+         <img src="images/news.jpg" onMouseOver="this.src='images/newsact.jpg'" onMouseOut="this.src='images/news.jpg'" />
+         НОВОСТИ<br />2024 года
+       </div>
+       <div class="onepage" onclick="location.href='news.html?page=01'">
+         <img src="images/news.jpg" onMouseOver="this.src='images/newsact.jpg'" onMouseOut="this.src='images/news.jpg'" />
+         НОВОСТИ<br />2023 года
+       </div>
+    </div>
+<!-- /ВЫБОР СТРАНИЧКИ С НОВОСТЯМИ --> 						
+
+					</div>
+			
+					
+					
+			</div>
+		</div>		
+	</div>
+
+
+	<!-- Footer -->
+	<script type="text/javascript" src="js/footer.js"></script>	
+
+	
+	
+
+	
+	
+</div>
+
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="styles/bootstrap-4.1.2/popper.js"></script>
+<script src="styles/bootstrap-4.1.2/bootstrap.min.js"></script>
+<script src="plugins/greensock/TweenMax.min.js"></script>
+<script src="plugins/greensock/TimelineMax.min.js"></script>
+<script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
+<script src="plugins/greensock/animation.gsap.min.js"></script>
+<script src="plugins/greensock/ScrollToPlugin.min.js"></script>
+<script src="plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+<script src="plugins/easing/easing.js"></script>
+<script src="plugins/progressbar/progressbar.min.js"></script>
+<script src="plugins/colorbox/jquery.colorbox-min.js"></script>
+<script src="plugins/parallax-js-master/parallax.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF204lFZg1y4kPSIhKaHEXMLYxxuMhA"></script>
+<script src="js/blog.js"></script>
+</body>
+</html>

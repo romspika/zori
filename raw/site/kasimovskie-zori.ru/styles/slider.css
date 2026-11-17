@@ -1,0 +1,114 @@
+
+/* Slider */
+.slider {
+/*	border:2px solid #000000;*/
+	/* Ширина контейнера */
+	width: 450px;
+	/* Внешние тступы сверху и снизу */
+	margin:5px 10px 40px 10px;  /*40px*/
+	/* Внутренние отступы для ссылок navy */
+	padding: 12px 20px;
+	/* Позиционирование */
+	position: relative;
+	/* Скроем то что выходит за границы */
+	overflow: hidden;
+	margin-left:0;
+
+	height:160px;
+	background:url(images/film.png);
+}
+
+
+/* Двойной клик по ссылкам вперед/назад вызывает выделение всех элементов слайдера,
+поэтому предотвращаем это */
+.slider::-moz-selection { background: transparent; color: #fff; text-shadow: none; }
+.slider::selection { background: transparent; color: #fff; text-shadow: none; }
+
+.slide-list {
+	position: relative;
+	margin: 0;
+	padding: 0;
+}
+.slide-wrap {
+	position: relative;
+	left:0;
+	top:0;
+	/* максимально возможная ширина обертки слайдера */
+	width: 10000000px;
+}
+.slide-item {
+	/* Ширина слайда */
+	width: 140px; /*215px*/
+	/* Внутренние отступы */
+	padding:15px 5px 5px 5px;
+	/* Обтекание */
+	float: left;
+}
+.slide-title {
+	/* Шрифт */
+	text-align:center;
+	font:normal 12px Verdana;
+	color:#3CF;
+	line-height:1.3;
+	/* Указываем, что элемент блочный */
+	display: block;
+	margin-top:5px;
+}
+
+.slider-img {
+	width:137px; 
+	height:100px;
+	cursor:pointer;
+/*	border:2px solid #FFFFFF; 
+	border-radius:6px;
+*/	
+}
+
+/* навигация вперед/назад */
+.navy {
+	/* абсолютное позиционирование */
+	position: absolute;
+	top: 1px;
+	z-index: 1;
+	height: 179px;
+	/* ширина ссылок */
+	width: 20px;
+	cursor: pointer;
+}
+.prev-slide {
+	left: 0;
+	background: url(images/left-arrow.jpg) no-repeat;
+	margin-top: 16px;
+}
+.next-slide {
+	right: 0;
+	background: url(images/right-arrow.jpg) no-repeat;
+	margin-top: 16px;
+}
+.navy.disable {
+	background: #dbdbdb;
+}
+
+/* навигация старт/пауза */
+.auto {
+	width: 7px;
+	height: 11px;
+	cursor: pointer;
+	margin: 10px auto;
+}
+.play {
+	background: url(bg/play.png) center no-repeat;
+}
+.pause {
+	background: url(bg/pause.png) center no-repeat;
+}
+.products {
+	width:480px;
+	height:190px;
+	margin-bottom:5px;
+/*	border:3px solid #FFFFFF;
+	border-radius:10px;
+*/
+	float:left;
+	/*background:url(images/ramka-bottom.png) no-repeat bottom;*/
+}

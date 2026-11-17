@@ -1,0 +1,182 @@
+@charset "utf-8";
+/* CSS Document */
+/*СЛАЙДЕР БОЛЬШИХ ФОТОГРАФИЙ САНАТОРИЯ */
+
+.slider-content * {
+    box-sizing: border-box;
+    font-family: Verdana, sans-serif;  
+    line-height: 1.2;
+    text-shadow: 0 0 12px rgba(0,0,0,0.5), 0 2px 6px rgba(0,0,0,0.7);       
+}
+.slider-content {
+    position: relative;
+    background: #fff;
+    margin: 20px 0;
+    /*box-shadow: 0 4px 12px rgba(0,0,0,0.2), 0 16px 20px rgba(0,0,0,0.2);*/
+}
+.slider-content .slider-container {
+    position: relative;
+    height: 600px;
+    overflow: hidden;
+}
+.slider-content .slide-content {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.slider-content .header {
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    z-index: 9;
+}
+.slider-content .header .logo {
+    font-size: 26px;
+    color: white;    
+}
+.slider-content .header .logo span {
+    font-weight: bold;
+}
+.slider-content .slide {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+.slider-content .slide:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.slider-content .slide.active {
+    opacity: 1;
+}
+.slider-content .slide .clip-svg {
+    clip-path: circle(25px at 90%);
+    width: 100%;
+    height: 100%;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+}
+.slider-content .slide.active .clip-svg {
+    clip-path: circle(130% at 90%);
+}
+.slider-content img {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.slider-content .title-wrapper {
+    position: absolute;
+    color: white;
+    left: 80px;
+    bottom: 40px;
+    width: calc(100% - 160px);  
+}
+.slider-content .title-wrapper .title-1 {
+    font-size: 30px;
+    margin: 0;
+    margin-bottom: 2px;
+    font-weight: 900;  
+}
+.slider-content .title-wrapper .title-2 {
+    font-size: 22px;
+    margin: 0;   
+}
+.slider-content .control-nav {
+    position: absolute;
+    left: 30px;
+    top: 4%;
+    z-index: 9;
+}
+.slider-content .control-nav ul {
+    position: relative;
+    list-style: none;
+    padding: 0;
+}
+.slider-content .control-nav li {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    margin: 10px 0;
+    background: white;
+    opacity: 0.5;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    font-size: 13px;
+    font-weight: bold;
+}
+.slider-content .control-nav li.active {
+    opacity: 1;
+}
+.slider-content .next-button {
+    position: absolute;
+    right: 1%;
+    height: 20%;
+    width: 20%;  
+    top: 40%;
+    cursor: pointer;
+    z-index: 9;
+}
+.slider-content .next-button svg {
+    height: 100%;
+    width: 100%;
+    transform: rotate(270deg); 
+    fill: #FFF;
+}
+.slider-content .footer-wrapper {
+    position: absolute;
+    color: white;
+    bottom: 30px;
+    right: 40px;
+    z-index: 10;
+}
+.slider-content .footer-wrapper ul {
+    list-style: none;
+    margin: 0;
+    padding: 12px 0 0;
+    box-shadow: inset 0 18px 12px -12px rgba(0,0,0,0.4);
+}
+.slider-content .footer-wrapper ul:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.slider-content .footer-wrapper li {
+    position: relative;
+    float: left;
+    margin: 0 12px;
+}    
+.slider-content .footer-wrapper a {
+    color: #FFF;
+    text-decoration:none;
+    transition-duration: 0.3s;
+    display:inline-block;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+}    
+.slider-content .footer-wrapper a:hover {
+    color: #FFF;
+    text-decoration:none;
+}        
+.slider-content .footer-wrapper a:after {
+    display: block;
+    content: "";
+    height: 2px;
+    width: 0%;
+    background-color: #FFF;
+    transition: width 0.2s ease-in-out;
+}
+.slider-content .footer-wrapper a:hover:after,
+.slider-content .footer-wrapper a:focus:after {
+    width: 100%;
+}		
+		
+

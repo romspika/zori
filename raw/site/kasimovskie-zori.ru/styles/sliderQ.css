@@ -1,0 +1,177 @@
+
+/* Slider */
+.sliderQ {
+/*	border:2px solid #000000;*/
+	/* Ширина контейнера */
+	width: 100%;
+	/* Внешние отступы сверху и снизу */
+	margin:5px 5px 5px 5px;  /*40px*/
+	/* Внутренние отступы для ссылок navy */
+	padding: 0px 0px;
+	/* Позиционирование */
+	position: relative;
+/*	left: 10px;*/
+	/* Скроем то что выходит за границы */
+	overflow: hidden;
+
+/*	height:480px;*/
+	
+/*	border: #000 solid 1px;*/
+}
+
+
+/* Двойной клик по ссылкам вперед/назад вызывает выделение всех элементов слайдера,
+поэтому предотвращаем это */
+.sliderQ::-moz-selection { background: transparent; color: #fff; text-shadow: none; }
+.sliderQ::selection { background: transparent; color: #fff; text-shadow: none; }
+
+.slideQ-list {
+	position: relative;
+	margin: 10px 0 0 0px;
+	padding: 0;
+}
+.slideQ-wrap {
+	position: relative;
+	left:0;
+	top:0;
+	/* максимально возможная ширина обертки слайдера */
+/*	width: 100;*/
+}
+.slideQ-item {
+	/* Ширина слайда */
+	width: 270px; /*215px*/
+	/* Внутренние отступы */
+	padding: 0px 0px 0px 0px; /*0px 0px 0px 0px;*/
+	/* Обтекание */
+	float: left;
+	background-color: #2e3f61;
+/*	margin-left: 10px;*/
+	margin:5px 5px 5px 5px;
+	height:470px;
+/*	border-radius:16px 16px 0 0;*/
+/*	border: #777 solid 1px;*/
+}
+.slideQ-vidget {
+	/* Ширина слайда */
+	width: 270px; /*230px*/
+	/* Обтекание */
+	float: right;
+	height: 470px;
+/*	border-radius:12px 12px 0 0;*/
+/*		border: #bbbbbb solid 1px;*/
+/*	box-shadow: 0 0 8px rgba(0,0,0,0.5);*/
+	position: relative;
+	overflow:hidden;
+	
+}
+.slideQ-title {
+	/* Шрифт */
+	text-align:center;
+	font:normal 18px Verdana;
+	color:#eee;
+	line-height:1.3;
+	/* Указываем, что элемент блочный */
+	display: block;
+	margin-top:15px;
+}
+.slideQ-price {
+	/* Шрифт */
+	text-align:center;
+	font:normal 18px Verdana;
+	color:#999999;
+	line-height:1.3;
+	/* Указываем, что элемент блочный */
+	display: block;
+	margin-top:25px;
+/*	font-weight: bold;*/
+}
+
+.slideQ-button {
+	/* Шрифт */
+	align:center;
+	width: 200px;
+	height: 25px;
+	padding-top: 5px;
+	background: #2eaa69;
+	font:normal 14px Verdana; /*Oswald-Bold;*/
+	color:#FFF;
+	line-height:1.3;
+        position: absolute;
+        bottom: 10px;
+        left: 10px;
+	font-weight: bold;
+	cursor: pointer;
+        border-radius:5px;	
+}
+
+.slideQ-button:hover {
+	background: #49d18a;
+}
+
+.slideQ-img {
+	width:270px; 
+	height:260px;
+	cursor:pointer;
+/*	border:2px solid #FFFFFF; */
+/*        border-radius:12px 12px 0 0;*/
+    transition: transform 0.3s;		
+}
+.slideQ-img:hover {
+	width:270px; 
+	height:260px;
+	cursor:pointer;
+/*	border:2px solid #FFFFFF; */
+        border-radius:12px 12px 0 0;
+    transform: scale(1.0);		
+}
+
+
+
+/* навигация вперед/назад */
+.navyQ {
+	/* абсолютное позиционирование */
+	position: absolute;
+	top: 0px;
+	z-index: 1;
+	height: 400px;
+	/* ширина ссылок */
+	width: 40px;
+	cursor: pointer;
+}
+.prevQ-slide {
+	left: 0;
+	background: url(images/left-arrowQ.jpg) no-repeat;
+	margin-top: 0px;
+}
+.nextQ-slide {
+	right: 0;
+	background: url(images/right-arrowQ.jpg) no-repeat;
+	margin-top: 0px;
+}
+.navyQ.disable {
+	background: #dbdbdb;
+}
+
+/* навигация старт/пауза */
+.autoQ {
+	width: 7px;
+	height: 11px;
+	cursor: pointer;
+	margin: 10px auto;
+}
+.playQ {
+	background: url(bg/play.png) center no-repeat;
+}
+.pauseQ {
+	background: url(bg/pause.png) center no-repeat;
+}
+.productsQ {
+	width:100%;
+/*	height:560px;*/
+	margin-top: 20px;
+/*	border:3px solid #333;*/
+/*	border-radius:10px;*/
+
+	float:left;
+	/*background:url(images/ramka-bottom.png) no-repeat bottom;*/
+}

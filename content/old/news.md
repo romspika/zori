@@ -1,0 +1,3309 @@
+---
+old_url: "https://kasimovskie-zori.ru/news.html"
+title: "Санаторий Касимовские Зори"
+meta_description: "Санаторий Касимовские Зори"
+h1: ""
+slug: "news"
+source: "work/rendered/news_page0[1-4].html (DOM после JS)"
+---
+
+## [news.html?page=04 — раздел «СВЕЖИЕ НОВОСТИ»]
+
+## [вводная часть без заголовка]
+
+**Картинки секции:**
+- new: obshchee/obshchee-01.png | src: https://kasimovskie-zori.ru/images/index2.png | alt: ""
+
+## Свежие новости
+
+**Картинки секции:**
+- new: novosti/novosti-001.jpg | src: https://kasimovskie-zori.ru/news/newyear2026-mini.jpg | alt: ""
+
+### Фотоотчет "Новый год-2026" {#newyear2026}
+
+14.02.2026
+
+Фотоотчет "Новый год-2026" можно скачать [здесь (3,31 Гб)](https://cloud.mail.ru/public/vHDo/ReCNhPTsp)
+
+**Картинки секции:**
+- new: novosti/novosti-001.jpg | src: https://kasimovskie-zori.ru/news/newyear2026-mini.jpg | alt: ""
+- new: novosti/novosti-002.jpg | src: https://kasimovskie-zori.ru/news/kisset202510-mini.jpg | alt: ""
+
+### Мастер-класс "Кисет разбойника" {#kisset202510}
+
+18.10.2025
+
+18.10.2025 г. нашими гостями стали жители Москвы и Касимова, они приняли участие в мастер-классе "Кисет разбойника".
+
+Для разбойников, как и для многих людей того времени, "кисет" был не просто мешочком для табака. Это был символ, который нес в себе целый ряд значений, тесно связанных с их образом жизни. Кисет - символ свободы и независимости, достатка, жест дружбы и уважения, личный талисман и хранитель.
+
+Гостям очень понравился мастер-класс, а сделанные своими руками кисеты стали не только отличным сувениром, но и источником прекрасного настроения и вдохновения для каждого.  
+Мастер-класс был проведен в рамках реализации проекта "Создание туристического маршрута "Тропа Кудеяра", который был поддержан Президентским фондом культурных инициатив.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/kisset202510-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/kisset202510-02.jpg | alt: ""
+- new: novosti/novosti-005.jpg | src: https://kasimovskie-zori.ru/news/kisset202510-03.jpg | alt: ""
+- new: novosti/novosti-006.jpg | src: https://kasimovskie-zori.ru/news/kisset202510-04.jpg | alt: ""
+- new: novosti/novosti-007.jpg | src: https://kasimovskie-zori.ru/news/kisset202510-05.jpg | alt: ""
+- new: novosti/novosti-008.jpg | src: https://kasimovskie-zori.ru/news/kisset202510-06.jpg | alt: ""
+- new: novosti/novosti-009.jpg | src: https://kasimovskie-zori.ru/news/kisset202510-07.jpg | alt: ""
+- new: novosti/novosti-010.jpg | src: https://kasimovskie-zori.ru/news/kisset202510-08.jpg | alt: ""
+- new: novosti/novosti-011.jpg | src: https://kasimovskie-zori.ru/news/kudemosk-mini.jpg | alt: ""
+
+### Экскурсия по туристическому маршруту "Тропа Кудеяра" {#kudemosk}
+
+04.10.2025
+
+4 октября 2025 года для отдыхающих санатория "Касимовские зори" была проведена экскурсия по туристическому маршруту "Тропа Кудеяра".
+
+Сегодняшними гостями тропы стали жители столицы, которые с большим интересом погрузились в историю этих удивительных мест и познакомились с их главными достопримечательностями.
+
+Светлана Николаевна из Москвы поделилась своими впечатлениями:
+
+"Мы приезжаем в санаторий "Касимовские зори" уже в седьмой раз, очень любим эти места. Особенно приятно видеть здесь положительные изменения: появился новый
+
+туристический маршрут, удобная навигация, продуманная подсветка, комфортные скамейки и информационные стенды. Это действительно прекрасное место для отдыха! Наблюдая за людьми, прогуливающимися по тропе Кудеяра, я выражаю слова благодарности санаторию "Касимовские зори" за создание этого замечательного маршрута. Здесь можно не только насладиться красотой мещерской природы, но и узнать много нового и познавательного."
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/kudemosk-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/kudemosk-02.jpg | alt: ""
+- new: novosti/novosti-012.jpg | src: https://kasimovskie-zori.ru/news/kudemosk-03.jpg | alt: ""
+- new: novosti/novosti-013.jpg | src: https://kasimovskie-zori.ru/news/kudemosk-04.jpg | alt: ""
+- new: novosti/novosti-014.jpg | src: https://kasimovskie-zori.ru/news/kudemosk-05.jpg | alt: ""
+- new: novosti/novosti-015.jpg | src: https://kasimovskie-zori.ru/news/kudemosk-06.jpg | alt: ""
+- new: novosti/novosti-016.jpg | src: https://kasimovskie-zori.ru/news/kudemosk-07.jpg | alt: ""
+- new: novosti/novosti-017.jpg | src: https://kasimovskie-zori.ru/news/kudemosk-08.jpg | alt: ""
+- new: novosti/novosti-018.jpg | src: https://kasimovskie-zori.ru/news/kudemosk-09.jpg | alt: ""
+- new: novosti/novosti-019.jpg | src: https://kasimovskie-zori.ru/news/kasschool-mini.jpg | alt: ""
+
+### 3 "Б" класс средней школы №3 г. Касимова {#kasschool}
+
+26.09.2025
+
+26 сентября 2025 года нашими гостями стали учащиеся 3 "Б" класса средней школы №3 г. Касимова.
+
+В рамках реализации проекта "Создание туристического маршрута "Тропа Кудеяра", поддержанного Президентским фондом культурных инициатив, был проведен мастер-класс по изготовлению русской народной куклы-оберега "Травница". Ребята с увлечением погрузились в мир старинного русского рукоделия, смогли прикоснуться к забытым традициям, оживить их и почувствовать себя частью истории, ведь именно такими тряпичными куклами играли и украшали свои дома наши предки.
+
+Создание Травницы – это настоящее искусство, где каждый кусочек ткани, будь то яркий или нежный, играет свою роль. Для соединения деталей используются нити, ленты и тесьма, а юбочка куклы традиционно выполняется в виде мешочка, который наполняется душистыми травами.
+
+В ходе мастер-класса наши юные гости узнали все тонкости изготовления этой народной куклы-оберега, познакомились с её разновидностями и значением. Такие куклы были неотъемлемой частью каждого дома, призванной заботиться о здоровье и приносить счастье.
+
+В результате кропотливой работы получились удивительно яркие и благоухающие куклы. Все участники получили заряд позитивных эмоций и радости от творчества. Дети с усердием и терпением создавали своих неповторимых Травниц, каждая из которых хранила в себе частичку летнего тепла и аромата. Такая кукла, сделанная своими руками, стала замечательным подарком для наших гостей!
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/kasschool-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/kasschool-02.jpg | alt: ""
+- new: novosti/novosti-020.jpg | src: https://kasimovskie-zori.ru/news/kasschool-03.jpg | alt: ""
+- new: novosti/novosti-021.jpg | src: https://kasimovskie-zori.ru/news/kasschool-04.jpg | alt: ""
+- new: novosti/novosti-022.jpg | src: https://kasimovskie-zori.ru/news/kasschool-05.jpg | alt: ""
+- new: novosti/novosti-023.jpg | src: https://kasimovskie-zori.ru/news/kasschool-06.jpg | alt: ""
+- new: novosti/novosti-024.jpg | src: https://kasimovskie-zori.ru/news/kasschool-07.jpg | alt: ""
+- new: novosti/novosti-025.jpg | src: https://kasimovskie-zori.ru/news/kasschool-08.jpg | alt: ""
+- new: novosti/novosti-026.jpg | src: https://kasimovskie-zori.ru/news/kasschool-09.jpg | alt: ""
+- new: novosti/novosti-027.jpg | src: https://kasimovskie-zori.ru/news/sasovo-mini.jpg | alt: ""
+
+### Гости из города Сасово {#sasovo}
+
+20.09.2025
+
+20.09.2025 г. нашими гостями стали ребята из г. Сасово. В рамках реализации проекта "Создание туристического маршрута "Тропа Кудеяра", поддержанного Президентским фондом культурных инициатив, был проведен мастер-класс по изготовлению русской народной куклы-оберега "Колокольчик".
+
+Издавна эта кукла служила славянам надежной защитой для дома. Веселая, яркая мотанка наполняла жилище счастьем и радостью, а люди дарили друг другу этот оберег с пожеланиями добрых вестей и благополучия.
+
+Стремясь сохранить традиции и обычаи русского народа, мы погрузили ребят в увлекательный мир истории, познакомили с таинствами возникновения куклы - "Колокольчика", обрядами и поверьями, связанными с ее созданием.
+
+Но, пожалуй, самым захватывающим моментом стало непосредственное изготовление кукол. Всего несколько красочных лоскутков ткани, яркие нити, капелька фантазии и огромное желание – и вот, в руках ребят оживает рукотворное чудо.
+
+Всем очень понравился мастер-класс, а сделанные своими руками сувениры стали замечательными подарками для наших гостей.
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/sasovo-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/sasovo-02.jpg | alt: ""
+- new: novosti/novosti-028.jpg | src: https://kasimovskie-zori.ru/news/sasovo-03.jpg | alt: ""
+- new: novosti/novosti-029.jpg | src: https://kasimovskie-zori.ru/news/sasovo-04.jpg | alt: ""
+- new: novosti/novosti-030.jpg | src: https://kasimovskie-zori.ru/news/sasovo-05.jpg | alt: ""
+- new: novosti/novosti-031.jpg | src: https://kasimovskie-zori.ru/news/sasovo-06.jpg | alt: ""
+- new: novosti/novosti-032.jpg | src: https://kasimovskie-zori.ru/news/bere20250918-mini.jpg | alt: ""
+
+### Мастер-класс по изготовлению куклы-оберега "Берегиня" {#bere20250918}
+
+16.09.2025
+
+16 сентября 2025 года, в рамках реализации проекта "Создание туристического маршрута "Тропа Кудеяра", состоялся мастер-класс по изготовлению куклы-оберега "Берегиня".
+
+то было не просто рукоделие – участники погрузились в мир старинных традиций, освоили секреты создания оберегов и узнали, какой глубокий смысл вкладывали в них наши предки. Все остались в восторге от мероприятия! А сделанные с любовью куклы стали не только приятными сувенирами для гостей санатория "Касимовские зори", но и настоящими хранителями домашнего очага.
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/bere20250918-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/bere20250918-02.jpg | alt: ""
+- new: novosti/novosti-033.jpg | src: https://kasimovskie-zori.ru/news/bere20250918-03.jpg | alt: ""
+- new: novosti/novosti-034.jpg | src: https://kasimovskie-zori.ru/news/bere20250918-04.jpg | alt: ""
+- new: novosti/novosti-035.jpg | src: https://kasimovskie-zori.ru/news/bere20250918-05.jpg | alt: ""
+- new: novosti/novosti-036.jpg | src: https://kasimovskie-zori.ru/news/bere20250918-06.jpg | alt: ""
+- new: novosti/novosti-037.jpg | src: https://kasimovskie-zori.ru/news/bere20250918-07.jpg | alt: ""
+- new: novosti/novosti-038.jpg | src: https://kasimovskie-zori.ru/news/paraphinum-mini.jpg | alt: ""
+
+### Мастер-класс по изготовлению «Счастливой монеты» из парафина {#paraphinum}
+
+28.08.2025
+
+Мастер-класс по изготовлению «Счастливой монеты» из парафина
+
+В рамках реализации проекта "Создание туристического маршрута "Тропа Кудеяра", поддержанного Президентским фондом культурных инициатив, 28.08.2025 г. был проведен мастер-класс по изготовлению «Счастливой монеты» из парафина. Ребята с большим интересом слушали историю о разбойничьей шайке, промышляющей у Красной горы, легенду о самом Кудеяре, его несметных богатствах,
+
+о нападении разбойников на купцов, которые проплывали в те далекие времена по Оке. Многие ребята поделились своими впечатлениями о том, как они поднимались на Красную гору.  
+Всем очень понравился мастер-класс, а сделанные своими руками сувениры стали замечательными подарками для наших гостей.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/paraphinum-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/paraphinum-02.jpg | alt: ""
+- new: novosti/novosti-039.jpg | src: https://kasimovskie-zori.ru/news/paraphinum-03.jpg | alt: ""
+- new: novosti/novosti-040.jpg | src: https://kasimovskie-zori.ru/news/paraphinum-04.jpg | alt: ""
+- new: novosti/novosti-041.jpg | src: https://kasimovskie-zori.ru/news/paraphinum-05.jpg | alt: ""
+- new: novosti/novosti-042.jpg | src: https://kasimovskie-zori.ru/news/paraphinum-06.jpg | alt: ""
+- new: novosti/novosti-043.jpg | src: https://kasimovskie-zori.ru/news/paraphinum-07.jpg | alt: ""
+- new: novosti/novosti-044.jpg | src: https://kasimovskie-zori.ru/news/paraphinum-08.jpg | alt: ""
+- new: novosti/novosti-045.jpg | src: https://kasimovskie-zori.ru/news/babosiki-mini.jpg | alt: ""
+
+### 15.08.2025 г. ребята из Касимова чеканили счастливую купеческую монету {#babosiki}
+
+15.08.2025
+
+15.08.2025 г. на базе Касимовского музея денег "Бабосики" ребята из Касимова чеканили счастливую купеческую монету
+
+Мастер-класс прошел в рамках реализации проекта "Создание туристического маршрута "Тропа Кудеяра", поддержанного Президентским фондом культурных инициатив.
+
+Ребята познакомились с историей разбойничьей шайки, узнали легенду о несметных богатствах Кудеяра, сфотографировались у памятника «Купец Мещеряк», отчеканили счастливую монету, которая стала замечательным сувениром и памятью о проведённом мастер-классе.
+
+**Картинки секции:**
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/babosiki-01.jpg | alt: ""
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/babosiki-02.jpg | alt: ""
+- new: novosti/novosti-046.jpg | src: https://kasimovskie-zori.ru/news/babosiki-03.jpg | alt: ""
+- new: novosti/novosti-047.jpg | src: https://kasimovskie-zori.ru/news/babosiki-04.jpg | alt: ""
+- new: novosti/novosti-048.jpg | src: https://kasimovskie-zori.ru/news/babosiki-05.jpg | alt: ""
+- new: novosti/novosti-049.jpg | src: https://kasimovskie-zori.ru/news/babosiki-06.jpg | alt: ""
+- new: novosti/novosti-050.jpg | src: https://kasimovskie-zori.ru/news/babosiki-07.jpg | alt: ""
+- new: novosti/novosti-051.jpg | src: https://kasimovskie-zori.ru/news/babosiki-08.jpg | alt: ""
+- new: novosti/novosti-052.jpg | src: https://kasimovskie-zori.ru/news/babosiki-09.jpg | alt: ""
+- new: novosti/novosti-053.jpg | src: https://kasimovskie-zori.ru/news/zelenog-mini.jpg | alt: ""
+
+### Гости нашего туристического маршрута {#zelenog}
+
+13.08.2025
+
+13 августа 2025 г. гостями нашего туристического маршрута "Тропа Кудеяра" стали ребята из Зеленограда.
+
+Юные гости смогли не только погрузиться в увлекательный и таинственный мир легендарных разбойников, но и узнать интересные факты из жизни и творчества знаменитых представителей семьи Олениных.
+
+Думаем, что проведённая экскурсия стала ярким и запоминающимся событием для ребят!
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/zelenog-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/zelenog-02.jpg | alt: ""
+- new: novosti/novosti-054.jpg | src: https://kasimovskie-zori.ru/news/zelenog-03.jpg | alt: ""
+- new: novosti/novosti-055.jpg | src: https://kasimovskie-zori.ru/news/zelenog-04.jpg | alt: ""
+- new: novosti/novosti-056.jpg | src: https://kasimovskie-zori.ru/news/zelenog-05.jpg | alt: ""
+- new: novosti/novosti-057.jpg | src: https://kasimovskie-zori.ru/news/zelenog-06.jpg | alt: ""
+- new: novosti/novosti-058.jpg | src: https://kasimovskie-zori.ru/news/zelenog-07.jpg | alt: ""
+- new: novosti/novosti-059.jpg | src: https://kasimovskie-zori.ru/news/kudeyoung-mini.jpg | alt: ""
+
+### Гости туристического маршрута "Тропа Кудеяра" {#kudeyoung}
+
+10.08.2025
+
+Туристический маршрут "Тропа Кудеяра" продолжает радовать своих юных гостей.
+
+10 августа 2025 г. ребята из Москвы стали участниками увлекательной прогулки. Проходя по лесной тропе, они погрузились в мир легенд и истории этих мест. Они осмотрели местные достопримечательности, посетили усадьбу Олениных, прогулялись вдоль красавицы Оки и сделали памятные снимки.
+
+Все участники получили яркие впечатления, позитивные эмоции, море улыбок и заряд хорошего настроения!
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/kudeyoung-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/kudeyoung-02.jpg | alt: ""
+- new: novosti/novosti-060.jpg | src: https://kasimovskie-zori.ru/news/kudeyoung-03.jpg | alt: ""
+- new: novosti/novosti-061.jpg | src: https://kasimovskie-zori.ru/news/kudeyoung-04.jpg | alt: ""
+- new: novosti/novosti-062.jpg | src: https://kasimovskie-zori.ru/news/kudenovosib-mini.jpg | alt: ""
+
+### Гости туристического маршрута "Тропа Кудеяра" {#kudenovosib}
+
+04.08.2025
+
+4 августа 2025 г. гостями туристического маршрута "Тропа Кудеяра" стали жители из Москвы, Мурома и Новосибирска.
+
+Был выбран маршрут 2 км. Гости прошли по самым живописным местам летнего леса, подзарядились энергией красавицы Оки, загадали желание у Синь-камня, посетили родовое имение дворянской семьи Олениных и получили много интересной информации об истории этих мест.
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/kudenovosib-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/kudenovosib-02.jpg | alt: ""
+- new: novosti/novosti-063.jpg | src: https://kasimovskie-zori.ru/news/kudenovosib-03.jpg | alt: ""
+- new: novosti/novosti-064.jpg | src: https://kasimovskie-zori.ru/news/kudenovosib-04.jpg | alt: ""
+- new: novosti/novosti-065.jpg | src: https://kasimovskie-zori.ru/news/kudenovosib-05.jpg | alt: ""
+- new: novosti/novosti-066.jpg | src: https://kasimovskie-zori.ru/news/kudenovosib-06.jpg | alt: ""
+- new: novosti/novosti-067.jpg | src: https://kasimovskie-zori.ru/news/kudenovosib-07.jpg | alt: ""
+- new: novosti/novosti-068.jpg | src: https://kasimovskie-zori.ru/news/kudesankt-mini.jpg | alt: ""
+
+### Гости туристического маршрута "Тропа Кудеяра" {#kudesankt}
+
+28.07.2025
+
+28 июля 2025 г. гостями туристического маршрута "Тропа Кудеяра" стали жители Москвы, Санкт-Петербурга, Рязани, Шацка Рязанской области, Тынды Амурской области
+
+Маршрут очень интересный. Он связывает и историю родной земли, и легенду про Кудеяра, и, конечно, во всей красе раскрывает удивительную мещерскую природу.
+
+Нас встретила прекрасная солнечная погода. Как приятно прогуляться в лесу! Вдохнуть целебный воздух,
+
+получить заряд бодрости и хорошего настроения. Гости остались очень довольны проведенной экскурсией!
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/kudesankt-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/kudesankt-02.jpg | alt: ""
+- new: novosti/novosti-069.jpg | src: https://kasimovskie-zori.ru/news/kudesankt-03.jpg | alt: ""
+- new: novosti/novosti-070.jpg | src: https://kasimovskie-zori.ru/news/kudesankt-04.jpg | alt: ""
+- new: novosti/novosti-071.jpg | src: https://kasimovskie-zori.ru/news/kudesankt-05.jpg | alt: ""
+- new: novosti/novosti-072.jpg | src: https://kasimovskie-zori.ru/news/kudesankt-06.jpg | alt: ""
+- new: novosti/novosti-073.jpg | src: https://kasimovskie-zori.ru/news/kudesankt-07.jpg | alt: ""
+- new: novosti/novosti-074.jpg | src: https://kasimovskie-zori.ru/news/mosqu-mini.jpg | alt: ""
+
+### Гости туристического маршрута из Москвы {#mosqu}
+
+25.07.2025
+
+25 июля 2025 г. гостями нашего туристического маршрута стали ребята из Москвы
+
+В ходе экскурсии дети познакомились с историей Касимовского района, они с большим интересом рассматривали усадьбу Олениных, готический домик, прошли по старинной липовой аллее, погрузились в увлекательный и таинственный мир разбойника Кудеяра.
+
+Думаем, что проведённая экскурсия стала ярким и запоминающимся событием для наших юных путешественников.
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/mosqu-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/mosqu-02.jpg | alt: ""
+- new: novosti/novosti-075.jpg | src: https://kasimovskie-zori.ru/news/mosqu-03.jpg | alt: ""
+- new: novosti/novosti-076.jpg | src: https://kasimovskie-zori.ru/news/mosqu-04.jpg | alt: ""
+- new: novosti/novosti-077.jpg | src: https://kasimovskie-zori.ru/news/mosqu-05.jpg | alt: ""
+- new: novosti/novosti-078.jpg | src: https://kasimovskie-zori.ru/news/moskudeya-mini.jpg | alt: ""
+
+### Гости туристического маршрута "Тропа Кудеяра" {#moskudeya}
+
+23.07.2025
+
+23 июля 2025 г. гостями туристического маршрута "Тропа Кудеяра" стали ребята из Москвы.
+
+Они с удовольствием прошли по туристическому маршруту, с большим интересом слушали информацию о достопримечательностях этих мест, познакомились с историей семьи Олениных, посетили их усадебный комплекс, загадали желания у "Синь-камня", увидели "Красную Гору", откуда в свое время разбойники наблюдали за рекой и сообщали о приближающихся кораблях.
+
+В целом, это был замечательный день, который всем запомнится надолго, ведь туризм для детей – это всегда про интерес, здоровье, развитие и хорошее настроение. Отдыхая на свежем воздухе в приятной компании, дети получают отличный заряд бодрости и новые интересные знания.
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/moskudeya-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/moskudeya-02.jpg | alt: ""
+- new: novosti/novosti-079.jpg | src: https://kasimovskie-zori.ru/news/moskudeya-03.jpg | alt: ""
+- new: novosti/novosti-080.jpg | src: https://kasimovskie-zori.ru/news/moskudeya-04.jpg | alt: ""
+- new: novosti/novosti-081.jpg | src: https://kasimovskie-zori.ru/news/moskudeya-05.jpg | alt: ""
+- new: novosti/novosti-082.jpg | src: https://kasimovskie-zori.ru/news/moskudeya-06.jpg | alt: ""
+- new: novosti/novosti-083.jpg | src: https://kasimovskie-zori.ru/news/moskudeya-07.jpg | alt: ""
+- new: novosti/novosti-084.jpg | src: https://kasimovskie-zori.ru/news/varu-mini.jpg | alt: ""
+
+### День работника торговли {#varu}
+
+25.07.2025
+
+25 июля в Касимовском округе состоялось торжественное мероприятие, посвящённое Дню работника торговли.
+
+За добросовестный труд, профессионализм и вклад в развитие потребительского рынка лучшим работникам вручили заслуженные награды. Благодарственным письмом администрации Касимовского муниципального округа была награждена продавец магазина ООО "КАСИМОВСКИЕ ЗОРИ" Варюхина Наталья Валентиновна.
+
+Мы поздравляем Наталью Валентиновну с заслуженной наградой и желаем крепкого здоровья, счастья, благополучия и дальнейших достижений в работе!
+
+**Картинки секции:**
+- new: novosti/novosti-085.jpg | src: https://kasimovskie-zori.ru/news/varu-01.jpg | alt: ""
+- new: novosti/novosti-086.jpg | src: https://kasimovskie-zori.ru/news/varu-02.jpg | alt: ""
+- new: novosti/novosti-087.jpg | src: https://kasimovskie-zori.ru/news/varu-03.jpg | alt: ""
+- new: novosti/novosti-088.jpg | src: https://kasimovskie-zori.ru/news/varu-04.jpg | alt: ""
+- new: novosti/novosti-089.jpg | src: https://kasimovskie-zori.ru/news/kudesaransk-mini.jpg | alt: ""
+
+### Экскурсия по туристическому маршруту "Тропа Кудеяра" {#kudesaransk}
+
+17.07.2025
+
+17 июля 2025 г. для отдыхающих санатория "КАСИМОВСКИЕ ЗОРИ" была организована экскурсия по туристическому маршруту "Тропа Кудеяра".
+
+Гостями тропы стали жители городов — Саранск Республика Мордовия, Владимир, Александров Владимирской области, Новомосковск Тульской области, Сасово Рязанской области, они получили много интересной информации об истории этих мест и главных достопримечательностях.
+
+Алена Васильевна, г. Новомосковск Тульской области
+
+- Это удивительная экскурсия, которая заставила меня задуматься о дне сегодняшнем и дне минувшем....... Меня поразила, как много можно рассказать об этой небольшой территории: истории села Телебукино, великолепного храма Преображения Господня, знаменитой семьи Олениных,
+
+- легендарного разбойника Кудеяра... Благодарю санаторий «КАСИМОВСКИЕ ЗОРИ» за то, что они создали этот замечательный маршрут, где можно не только насладиться замечательной природой Мещеры, но и узнать много нового и познавательного.
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/kudesaransk-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/kudesaransk-02.jpg | alt: ""
+- new: novosti/novosti-090.jpg | src: https://kasimovskie-zori.ru/news/kudesaransk-03.jpg | alt: ""
+- new: novosti/novosti-091.jpg | src: https://kasimovskie-zori.ru/news/kudesaransk-04.jpg | alt: ""
+- new: novosti/novosti-092.jpg | src: https://kasimovskie-zori.ru/news/kudesaransk-05.jpg | alt: ""
+- new: novosti/novosti-093.jpg | src: https://kasimovskie-zori.ru/news/kudesaransk-06.jpg | alt: ""
+- new: novosti/novosti-094.jpg | src: https://kasimovskie-zori.ru/news/uvedrkn-mini.jpg | alt: ""
+
+### Семинар «Уведомление РКН и другие аспекты обработки персональных данных», {#uvedrkn}
+
+11.07.2025
+
+11 июля 2025 г. сотрудники ООО "КАСИМОВСКИЕ ЗОРИ" приняли участие в семинаре «Уведомление РКН и другие аспекты обработки персональных данных», который состоялся на базе Касимовского центра поддержки предпринимательства.
+
+Спикер Павел Тюпляев, уже известный эксперт в области ИТ и веб-разработки, поделился своими знаниями о важных аспектах обработки персональных данных. Эта тема особенно актуальна в современном мире.
+
+Семинар организовал центр «Мой бизнес» АНО «АРБ» совместно с Касимовским центром поддержки предпринимательства в рамках национального проекта «Эффективная и конкурентная экономика».
+
+**Картинки секции:**
+- new: novosti/novosti-095.jpg | src: https://kasimovskie-zori.ru/news/uvedrkn-01.jpg | alt: ""
+- new: novosti/novosti-096.jpg | src: https://kasimovskie-zori.ru/news/uvedrkn-02.jpg | alt: ""
+- new: novosti/novosti-097.jpg | src: https://kasimovskie-zori.ru/news/turoper-mini.jpg | alt: ""
+
+### Встреча с туроператорами в Нижнем Новгороде {#turoper}
+
+10.07.2025
+
+10 июля 2025 г. в составе делегации Касимовского округа коммерческий директор санатория Татьяна Соловьева приняла участие во встрече с туроператорами, которая состоялась в Нижнем Новгороде.
+
+Туристский информационный центр презентовал туристические ресурсы нашего края. На встрече обсудили вопросы организации рекламного тура для туроператоров, заинтересованных в разработке маршрутов в Касимовский округ.
+
+Касимов прошел колоссальный путь в рамках развития
+
+туризм активно развивается, появляются новые туристические продукты, локации и объекты показа.
+
+Данное мероприятие будет способствовать дальнейшему развитию партнерских отношений и взаимовыгодного сотрудничества между нашими городами.
+
+**Картинки секции:**
+- new: novosti/novosti-098.jpg | src: https://kasimovskie-zori.ru/news/turoper-01.jpg | alt: ""
+- new: novosti/novosti-099.jpg | src: https://kasimovskie-zori.ru/news/turoper-02.jpg | alt: ""
+- new: novosti/novosti-100.jpg | src: https://kasimovskie-zori.ru/news/turoper-03.jpg | alt: ""
+- new: novosti/novosti-101.jpg | src: https://kasimovskie-zori.ru/news/turoper-04.jpg | alt: ""
+- new: novosti/novosti-102.jpg | src: https://kasimovskie-zori.ru/news/turoper-05.jpg | alt: ""
+- new: novosti/novosti-103.jpg | src: https://kasimovskie-zori.ru/news/trok_2507-mini.jpg | alt: ""
+
+### Экскурсия по туристическому маршруту "Тропа Кудеяра" {#trok_2507}
+
+09.07.2025
+
+09 июля 2025 г. для отдыхающих санатория "КАСИМОВСКИЕ ЗОРИ" была организована экскурсия по туристическому маршруту "Тропа Кудеяра".
+
+Мероприятие прошло в рамках проекта, получившего поддержку от Президентского фонда культурных инициатив.
+
+Гостями тропы стали жители городов - Москва, Егорьевск, Ряжск и Сасово. Они получили много интересной информации об истории этих мест и главных достопримечательностях.
+
+Наши отдыхающие прошли по лесной тропе, загадали
+
+желание у Синь-камня, познакомились с историей семьи Олениных, посетили их усадьбу, отдали дань памяти и уважения героям у памятника участникам Великой Отечественной войны.
+
+В конце мероприятия был проведен мастер-класс по росписи тарелок «Образ разбойника Кудеяра», гости санатория получили массу положительных эмоции от творческого процесса.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/trok_2507-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/trok_2507-02.jpg | alt: ""
+- new: novosti/novosti-104.jpg | src: https://kasimovskie-zori.ru/news/trok_2507-03.jpg | alt: ""
+- new: novosti/novosti-105.jpg | src: https://kasimovskie-zori.ru/news/trok_2507-04.jpg | alt: ""
+- new: novosti/novosti-106.jpg | src: https://kasimovskie-zori.ru/news/trok_2507-05.jpg | alt: ""
+- new: novosti/novosti-107.jpg | src: https://kasimovskie-zori.ru/news/trok_2507-06.jpg | alt: ""
+- new: novosti/novosti-108.jpg | src: https://kasimovskie-zori.ru/news/melenki-mini.jpg | alt: ""
+
+### Экскурсия по туристическому маршруту «Тропа Кудеяра» {#melenki}
+
+24.06.2025
+
+24 июня прошла экскурсия по туристическому маршруту «Тропа Кудеяра». Гостями нашего маршрута стали гости из г. Москвы, Рязани, Тулы и г. Меленки Владимирской области.
+
+В рамках экскурсии был проведен мастер-класс по нанесению на стволы деревьев рисунков, которые стали не только эстетическим украшением, но и "таблеткой" для растений. Мы очень внимательно выбирали объекты для их нанесения, это были исключительно насаждения с поврежденными участками ствола: морозобойными трещинами, оголенными местами, ранами и дуплами. В естественных условиях в таких повреждениях накапливается лишняя влага, развиваются грибные споры, заводятся вредители и бактерии, что в перспективе приводит к ухудшению состояния дерева и даже его гибели.
+
+Предварительно все ранки были обработаны специальным защитным раствором и покрыты водонепроницаемыми акриловыми красками, которые не являются токсичными и не нарушают структуру дерева. Более того, за счет своего
+
+состава краски становятся дополнительным защитным слоем на поврежденном участке, уберегая ствол от дальнейшего разрушения. В рамках проекта попробуем вылечить более 20 деревьев, которые находятся на пути следования туристического маршрута. Все рисунки были посвящены знаменитому разбойнику Кудеяру и данной тематике.
+
+Гости остались очень довольны мероприятием, благодарили за экскурсию и мастер-класс.Много было положительных эмоций, ярких впечатлений и желаний вернуться к нам опять!
+
+Мастер-класс прошел в рамках реализации проекта "Создание туристического маршрута "Тропа Кудеяра", который будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/melenki-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/melenki-02.jpg | alt: ""
+- new: novosti/novosti-109.jpg | src: https://kasimovskie-zori.ru/news/melenki-03.jpg | alt: ""
+- new: novosti/novosti-110.jpg | src: https://kasimovskie-zori.ru/news/melenki-04.jpg | alt: ""
+- new: novosti/novosti-111.jpg | src: https://kasimovskie-zori.ru/news/melenki-05.jpg | alt: ""
+- new: novosti/novosti-112.jpg | src: https://kasimovskie-zori.ru/news/melenki-06.jpg | alt: ""
+- new: novosti/novosti-113.jpg | src: https://kasimovskie-zori.ru/news/melenki-07.jpg | alt: ""
+- new: novosti/novosti-114.jpg | src: https://kasimovskie-zori.ru/news/melenki-08.jpg | alt: ""
+- new: novosti/novosti-115.jpg | src: https://kasimovskie-zori.ru/news/melenki-09.jpg | alt: ""
+- new: novosti/novosti-116.jpg | src: https://kasimovskie-zori.ru/news/melenki-10.jpg | alt: ""
+- new: novosti/novosti-117.jpg | src: https://kasimovskie-zori.ru/news/melenki-11.jpg | alt: ""
+- new: novosti/novosti-118.jpg | src: https://kasimovskie-zori.ru/news/melenki-12.jpg | alt: ""
+- new: novosti/novosti-119.jpg | src: https://kasimovskie-zori.ru/news/dollwisher-mini.jpg | alt: ""
+
+### Мастер-класс по изготовлению куклы-оберега "Желанница" {#dollwisher}
+
+19.06.2025
+
+19 июня 2025 г. прошла дружеская, творческая встреча и мастер-класс по изготовлению куклы-оберега "Желанница".
+
+Чудо, когда обычные лоскутки ткани превращаются в прекрасную куклу, которая еще и исполняет желания. Получилось у каждого! Самое главное, все остались довольны, уходили с хорошим настроением и сувениром, выполненным своими руками.
+
+Желанницу создавали для исполнения заветной мечты. Пока выполнялась работа по созданию оберега, обязательно нужно было четко и
+
+подробно представить задуманное и тогда оно обязательно сбывалось.
+
+Мастер-класс прошел в рамках реализации проекта "Создание туристического маршрута "Тропа Кудеяра", который будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+СВЕЖИЕ  
+НОВОСТИ
+
+НОВОСТИ  
+2025 года
+
+НОВОСТИ  
+2024 года
+
+НОВОСТИ  
+2023 года
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/dollwisher-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/dollwisher-02.jpg | alt: ""
+- new: novosti/novosti-120.jpg | src: https://kasimovskie-zori.ru/news/dollwisher-03.jpg | alt: ""
+- new: novosti/novosti-121.jpg | src: https://kasimovskie-zori.ru/news/dollwisher-04.jpg | alt: ""
+- new: novosti/novosti-122.jpg | src: https://kasimovskie-zori.ru/news/dollwisher-05.jpg | alt: ""
+- new: _icons/_icons-50.jpg | src: https://kasimovskie-zori.ru/images/news.jpg | alt: ""
+
+## [news.html?page=03 — раздел «НОВОСТИ 2025 года»]
+
+## [вводная часть без заголовка]
+
+**Картинки секции:**
+- new: obshchee/obshchee-01.png | src: https://kasimovskie-zori.ru/images/index2.png | alt: ""
+
+## Новости 2025 года
+
+**Картинки секции:**
+- new: novosti/novosti-103.jpg | src: https://kasimovskie-zori.ru/news/trok_2507-mini.jpg | alt: ""
+
+### Экскурсия по туристическому маршруту "Тропа Кудеяра" {#trok_2507}
+
+09.07.2025
+
+09 июля 2025 г. для отдыхающих санатория "КАСИМОВСКИЕ ЗОРИ" была организована экскурсия по туристическому маршруту "Тропа Кудеяра".
+
+Мероприятие прошло в рамках проекта, получившего поддержку от Президентского фонда культурных инициатив.
+
+Гостями тропы стали жители городов - Москва, Егорьевск, Ряжск и Сасово. Они получили много интересной информации об истории этих мест и главных достопримечательностях.
+
+Наши отдыхающие прошли по лесной тропе, загадали
+
+желание у Синь-камня, познакомились с историей семьи Олениных, посетили их усадьбу, отдали дань памяти и уважения героям у памятника участникам Великой Отечественной войны.
+
+В конце мероприятия был проведен мастер-класс по росписи тарелок «Образ разбойника Кудеяра», гости санатория получили массу положительных эмоции от творческого процесса.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/trok_2507-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/trok_2507-02.jpg | alt: ""
+- new: novosti/novosti-104.jpg | src: https://kasimovskie-zori.ru/news/trok_2507-03.jpg | alt: ""
+- new: novosti/novosti-105.jpg | src: https://kasimovskie-zori.ru/news/trok_2507-04.jpg | alt: ""
+- new: novosti/novosti-106.jpg | src: https://kasimovskie-zori.ru/news/trok_2507-05.jpg | alt: ""
+- new: novosti/novosti-107.jpg | src: https://kasimovskie-zori.ru/news/trok_2507-06.jpg | alt: ""
+- new: novosti/novosti-108.jpg | src: https://kasimovskie-zori.ru/news/melenki-mini.jpg | alt: ""
+
+### Экскурсия по туристическому маршруту «Тропа Кудеяра» {#melenki}
+
+24.06.2025
+
+24 июня прошла экскурсия по туристическому маршруту «Тропа Кудеяра». Гостями нашего маршрута стали гости из г. Москвы, Рязани, Тулы и г. Меленки Владимирской области.
+
+В рамках экскурсии был проведен мастер-класс по нанесению на стволы деревьев рисунков, которые стали не только эстетическим украшением, но и "таблеткой" для растений. Мы очень внимательно выбирали объекты для их нанесения, это были исключительно насаждения с поврежденными участками ствола: морозобойными трещинами, оголенными местами, ранами и дуплами. В естественных условиях в таких повреждениях накапливается лишняя влага, развиваются грибные споры, заводятся вредители и бактерии, что в перспективе приводит к ухудшению состояния дерева и даже его гибели.
+
+Предварительно все ранки были обработаны специальным защитным раствором и покрыты водонепроницаемыми акриловыми красками, которые не являются токсичными и не нарушают структуру дерева. Более того, за счет своего
+
+состава краски становятся дополнительным защитным слоем на поврежденном участке, уберегая ствол от дальнейшего разрушения. В рамках проекта попробуем вылечить более 20 деревьев, которые находятся на пути следования туристического маршрута. Все рисунки были посвящены знаменитому разбойнику Кудеяру и данной тематике.
+
+Гости остались очень довольны мероприятием, благодарили за экскурсию и мастер-класс.Много было положительных эмоций, ярких впечатлений и желаний вернуться к нам опять!
+
+Мастер-класс прошел в рамках реализации проекта "Создание туристического маршрута "Тропа Кудеяра", который будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/melenki-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/melenki-02.jpg | alt: ""
+- new: novosti/novosti-109.jpg | src: https://kasimovskie-zori.ru/news/melenki-03.jpg | alt: ""
+- new: novosti/novosti-110.jpg | src: https://kasimovskie-zori.ru/news/melenki-04.jpg | alt: ""
+- new: novosti/novosti-111.jpg | src: https://kasimovskie-zori.ru/news/melenki-05.jpg | alt: ""
+- new: novosti/novosti-112.jpg | src: https://kasimovskie-zori.ru/news/melenki-06.jpg | alt: ""
+- new: novosti/novosti-113.jpg | src: https://kasimovskie-zori.ru/news/melenki-07.jpg | alt: ""
+- new: novosti/novosti-114.jpg | src: https://kasimovskie-zori.ru/news/melenki-08.jpg | alt: ""
+- new: novosti/novosti-115.jpg | src: https://kasimovskie-zori.ru/news/melenki-09.jpg | alt: ""
+- new: novosti/novosti-116.jpg | src: https://kasimovskie-zori.ru/news/melenki-10.jpg | alt: ""
+- new: novosti/novosti-117.jpg | src: https://kasimovskie-zori.ru/news/melenki-11.jpg | alt: ""
+- new: novosti/novosti-118.jpg | src: https://kasimovskie-zori.ru/news/melenki-12.jpg | alt: ""
+- new: novosti/novosti-119.jpg | src: https://kasimovskie-zori.ru/news/dollwisher-mini.jpg | alt: ""
+
+### Мастер-класс по изготовлению куклы-оберега "Желанница" {#dollwisher}
+
+19.06.2025
+
+19 июня 2025 г. прошла дружеская, творческая встреча и мастер-класс по изготовлению куклы-оберега "Желанница".
+
+Чудо, когда обычные лоскутки ткани превращаются в прекрасную куклу, которая еще и исполняет желания. Получилось у каждого! Самое главное, все остались довольны, уходили с хорошим настроением и сувениром, выполненным своими руками.
+
+Желанницу создавали для исполнения заветной мечты. Пока выполнялась работа по созданию оберега, обязательно нужно было четко и
+
+подробно представить задуманное и тогда оно обязательно сбывалось.
+
+Мастер-класс прошел в рамках реализации проекта "Создание туристического маршрута "Тропа Кудеяра", который будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/dollwisher-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/dollwisher-02.jpg | alt: ""
+- new: novosti/novosti-120.jpg | src: https://kasimovskie-zori.ru/news/dollwisher-03.jpg | alt: ""
+- new: novosti/novosti-121.jpg | src: https://kasimovskie-zori.ru/news/dollwisher-04.jpg | alt: ""
+- new: novosti/novosti-122.jpg | src: https://kasimovskie-zori.ru/news/dollwisher-05.jpg | alt: ""
+- new: novosti/novosti-123.jpg | src: https://kasimovskie-zori.ru/news/kude1706-mini.jpg | alt: ""
+
+### Гости туристического маршрута "Тропа Кудеяра" {#kude1706}
+
+17.06.2025
+
+17 июня 2025 г. гостями туристического маршрута "Тропа Кудеяра" стали жители городов Фрязино, Реутова Московской области, города Сасово Рязанской области, города Богородицка Тульской области и г. Орла.  
+Вот такая шикарная география получилась!
+
+Гости с удовольствием посетили новый туристический маршрут и оставили свои положительные отзывы. Ведь как здорово ходить по прекрасной касимовской земле, дышать её воздухом, приобщаться к истории этих мест, узнавать много нового и интересного!
+
+Начало тропы – санаторий «Касимовские зори». Маршрут проходит по живописным местам вдоль Оки и включает в себя несколько точек, связанных с легендой о знаменитых разбойниках. Здесь и засада Кудеяра в местечке Кривец на изломе Оки, где прятались разбойничьи лодки. Чуть дальше – дозор на Красной горе, единственное место, откуда просматривается река на многие километры в обе стороны от излучины. На самой тропе находится Синь-камень, под которым, по легенде, спрятаны сокровища разбойников.
+
+Часть маршрута посвящена семье Олениных. Если свернуть от реки наверх и подняться на высокий берег, тропа приведет в бывшую усадьбу. Сама усадьба, хоть и находится
+
+сейчас в полуразрушенном состоянии, но представляет интерес, как пример русской архитектуры XVIII-XIX веков. Сохранились готический домик, пруд Олениных и липовая аллея. Общая протяженность – около четырех километров. Есть два варианта маршрута – два километра (облегченный вариант) и четыре километра с подъемом на Красную гору, откуда открывается потрясающий вид на Оку.
+
+На тропе установлена необходимая инфраструктура — зоны отдыха со скамейками, информационные стенды и навигационные элементы. Все это сделано для того, чтобы маршрут был приятным, познавательным и безвредным для природы, его безопасно проходят туристы без опыта и специальной подготовки.
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/kude1706-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/kude1706-02.jpg | alt: ""
+- new: novosti/novosti-124.jpg | src: https://kasimovskie-zori.ru/news/kude1706-03.jpg | alt: ""
+- new: novosti/novosti-125.jpg | src: https://kasimovskie-zori.ru/news/kude1706-04.jpg | alt: ""
+- new: novosti/novosti-126.jpg | src: https://kasimovskie-zori.ru/news/kude1706-05.jpg | alt: ""
+- new: novosti/novosti-127.jpg | src: https://kasimovskie-zori.ru/news/kude1706-06.jpg | alt: ""
+- new: novosti/novosti-128.jpg | src: https://kasimovskie-zori.ru/news/kude1706-07.jpg | alt: ""
+- new: novosti/novosti-129.jpg | src: https://kasimovskie-zori.ru/news/kude1706-08.jpg | alt: ""
+- new: novosti/novosti-130.jpg | src: https://kasimovskie-zori.ru/news/kude1706-09.jpg | alt: ""
+- new: novosti/novosti-131.jpg | src: https://kasimovskie-zori.ru/news/kude1706-10.jpg | alt: ""
+- new: novosti/novosti-132.jpg | src: https://kasimovskie-zori.ru/news/kude1106-mini.jpg | alt: ""
+
+### Экскурсия по туристическому маршруту "Тропа Кудеяра" {#kude1106}
+
+11.06.2025
+
+11 июня 2025 г. для отдыхающих санатория "КАСИМОВСКИЕ ЗОРИ" была организована экскурсия по туристическому маршруту "Тропа Кудеяра".
+
+Мероприятие прошло в рамках проекта, получившего поддержку от Президентского фонда культурных инициатив. Гости из Петрозаводска Республики Карелия, Шилово Рязанской области, г. Рыбинска Ярославской области активно участвовали в экскурсии: внимательно слушали информацию, обсуждали услышанное и задавали вопросы. Они получили много интересной информации об истории этих мест и главных достопримечательностях.
+
+Маршрут занимает 2 часа, но время пролетает незаметно! Гости прошли по лесной тропе, загадали желание у Синь-камня, увидели Усадьбу Олениных, липовую аллею, замечательный пруд, посетили памятник погибшим в годы Великой Отечественной войны, отдали дань памяти и уважения героям.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/kude1106-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/kude1106-02.jpg | alt: ""
+- new: novosti/novosti-133.jpg | src: https://kasimovskie-zori.ru/news/kude1106-03.jpg | alt: ""
+- new: novosti/novosti-134.jpg | src: https://kasimovskie-zori.ru/news/kude1106-04.jpg | alt: ""
+- new: novosti/novosti-135.jpg | src: https://kasimovskie-zori.ru/news/kude1106-05.jpg | alt: ""
+- new: novosti/novosti-136.jpg | src: https://kasimovskie-zori.ru/news/kude1106-06.jpg | alt: ""
+- new: novosti/novosti-137.jpg | src: https://kasimovskie-zori.ru/news/kude1106-07.jpg | alt: ""
+- new: novosti/novosti-138.jpg | src: https://kasimovskie-zori.ru/news/kude1106-08.jpg | alt: ""
+- new: novosti/novosti-139.jpg | src: https://kasimovskie-zori.ru/news/drawtree-mini.jpg | alt: ""
+
+### Мастер-класс по расписыванию деревьев {#drawtree}
+
+10.06.2025
+
+10 июня 2025 г. на туристическом маршруте "Тропа Кудеяра" провели мастер-класс по расписыванию деревьев.
+
+Морозобоины - гладкие вертикальные раны на стволах деревьев, они возникают когда от мороза лопается кора. Через них в дерево проникают паразиты и споры грибов, которые наносят дереву вред.
+
+Перед нанесением рисунка обработали морозобоины медным купоросом и затем нанесли рисунок акриловыми красками, которые тоже защищают дерево — они не впитываются в древесину, а застывают пленкой, превращаясь в своеобразный пластырь.
+
+Рисунок несет не только эстетическое удовольствие, но и пользу деревьям, ведь они будут защищены от гнили и насекомых и начнут заращивать свои раны.
+
+"Я сама рисовать не умею, — смеется отдыхающая санатория "КАСИМОВСКИЕ ЗОРИ" Наталья Дворниченко из Карелии. — Но душе захотелось чего-то классного, интересного, настоящего. И эта идея мне очень понравилась. Постаралась изобразить тематику разбойника Кудеяра. Пусть наши рисунки не совсем удались, но ведь главная цель — помощь дереву".
+
+В этот день каждый участник мастер-класса смог раскрыть свой потенциал, получить массу положительных эмоций и впечатлений от творческого процесса.
+
+Мастер-класс проведен в рамках проекта "Создание туристического маршрута "Тропа Кудеяра", который будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/drawtree-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/drawtree-02.jpg | alt: ""
+- new: novosti/novosti-140.jpg | src: https://kasimovskie-zori.ru/news/drawtree-03.jpg | alt: ""
+- new: novosti/novosti-141.jpg | src: https://kasimovskie-zori.ru/news/drawtree-04.jpg | alt: ""
+- new: novosti/novosti-142.jpg | src: https://kasimovskie-zori.ru/news/drawtree-05.jpg | alt: ""
+- new: novosti/novosti-143.jpg | src: https://kasimovskie-zori.ru/news/drawtree-06.jpg | alt: ""
+- new: novosti/novosti-144.jpg | src: https://kasimovskie-zori.ru/news/drawtree-07.jpg | alt: ""
+- new: novosti/novosti-145.jpg | src: https://kasimovskie-zori.ru/news/drawtree-08.jpg | alt: ""
+- new: novosti/novosti-146.jpg | src: https://kasimovskie-zori.ru/news/moskudeyar-mini.jpg | alt: ""
+
+### Гости туристического маршрута "Тропа Кудеяра" из Москвы {#moskudeyar}
+
+06.06.2025
+
+06 июня 2025 г. гостями туристического маршрута "Тропа Кудеяра" стали ребята из Москвы.
+
+Они с удовольствием прошли по лесной дороге, побывали в усадебном комплексе XIX века семьи Олениных, посетили 2 пруда знаменитой семьи, загадали желание у "Синь-камня", увидели "Красную Гору", откуда в свое время разбойники наблюдали за рекой и сообщали о приближающихся кораблях.
+
+Проходя по тропе, ребята словно погружались в сказку, переносились в мир легенд и мифов этих мест, а потом с удовольствием поделились впечатлениями и полученными знаниями, посмотрели сделанные фотографии на природе. В целом, это был замечательный день, который всем запомнится надолго!
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/moskudeyar-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/moskudeyar-02.jpg | alt: ""
+- new: novosti/novosti-147.jpg | src: https://kasimovskie-zori.ru/news/moskudeyar-03.jpg | alt: ""
+- new: novosti/novosti-148.jpg | src: https://kasimovskie-zori.ru/news/moskudeyar-04.jpg | alt: ""
+- new: novosti/novosti-149.jpg | src: https://kasimovskie-zori.ru/news/moskudeyar-05.jpg | alt: ""
+- new: novosti/novosti-150.jpg | src: https://kasimovskie-zori.ru/news/moskudeyar-06.jpg | alt: ""
+- new: novosti/novosti-151.jpg | src: https://kasimovskie-zori.ru/news/moskudeyar-07.jpg | alt: ""
+- new: novosti/novosti-152.jpg | src: https://kasimovskie-zori.ru/news/moskudeyar-08.jpg | alt: ""
+- new: novosti/novosti-153.jpg | src: https://kasimovskie-zori.ru/news/moskudeyar-09.jpg | alt: ""
+- new: novosti/novosti-154.jpg | src: https://kasimovskie-zori.ru/news/moskudeyar-10.jpg | alt: ""
+- new: novosti/novosti-155.jpg | src: https://kasimovskie-zori.ru/news/kudeyatr-mini.jpg | alt: ""
+
+### Гости туристического маршрута "Тропа Кудеяра" {#kudeyatr}
+
+21.05.2025
+
+21 мая 2025 г. гостями туристического маршрута "Тропа Кудеяра" стали жители Московской, Владимирской и Рязанской областей.
+
+Отдыхающие санатория "КАСИМОВСКИЕ ЗОРИ" прошли по лесной дороге, загадали желание у "Синь-камня", побывали в усадебном комплексе XIX века семьи Олениных (памятник федерального значения) и узнали о владельцах этого имения, а также увидели "Красную Гору", откуда в свое время разбойники наблюдали за рекой и сообщали о приближающихся кораблях.
+
+Елена Николаевна Воробьева, с. Дмитриевы Горы Меленковского района Владимирской области:  
+- Было приятно пройти по лесному маршруту, узнать так много нового и интересного для себя. Замечательная экскурсия. Наша природа действительно завораживает и впечатляет. Я приехала из Владимирской области, у нас тоже удивительные места, в 1 км от д. Окшово на берегу Оки располагается место для свободного отдыха "Гандарейка", с которого видны Владимирская, Нижегородская и Рязанская области.
+
+В наших краях тоже ходит много преданий о разбойнике Рощине. В конце XVIII века вооруженный отряд атамана Рощина совершал разбойничьи набеги на речные суда и барские усадьбы. Одна из легенд о разбойниках гласит, что высокие берега вдоль д. Окшово использовались как сторожевые башни. Благодаря им разбойники отслеживали речные суда, которые следовали вверх по течению в город Рязань и вниз по течению в Нижний Новгород.
+
+Мы благодарим наших замечательных гостей за положительные отзывы и приглашаем вновь посетить наш санаторий.
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/kudeyatr-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/kudeyatr-02.jpg | alt: ""
+- new: novosti/novosti-156.jpg | src: https://kasimovskie-zori.ru/news/kudeyatr-03.jpg | alt: ""
+- new: novosti/novosti-157.jpg | src: https://kasimovskie-zori.ru/news/kudeyatr-04.jpg | alt: ""
+- new: novosti/novosti-158.jpg | src: https://kasimovskie-zori.ru/news/kudeyatr-05.jpg | alt: ""
+- new: novosti/novosti-159.jpg | src: https://kasimovskie-zori.ru/news/kudeyatr-06.jpg | alt: ""
+- new: novosti/novosti-160.jpg | src: https://kasimovskie-zori.ru/news/kudeyatr-07.jpg | alt: ""
+- new: novosti/novosti-161.jpg | src: https://kasimovskie-zori.ru/news/kudeyatr-08.jpg | alt: ""
+- new: novosti/novosti-162.jpg | src: https://kasimovskie-zori.ru/news/kudeyatr-09.jpg | alt: ""
+- new: novosti/novosti-163.jpg | src: https://kasimovskie-zori.ru/news/kudmur-mini.jpg | alt: ""
+
+### Гости туристического маршрута "Тропа Кудеяра" {#kudmur}
+
+12.05.2025
+
+12 мая 2025 г. гостями туристического маршрута "Тропа Кудеяра" стали жители г. Рязани, Мурома, Гусь-Хрустального и Московской области
+
+"Как приятно не только наслаждаться прекрасной природой, но и подышать "воздухом истории" этих замечательных мест. Мы прогулялись вдоль красавицы Оки, прошли по живописному лесу, увидели усадьбу Олениных, узнали историю жизни этой знаменитой семьи.
+
+В год 80-летия Победы в Великой Отечественной войне, стоя у памятника, посвящённого воинам-освободителям, мы отдали дань уважения тем, кто в грозные годы самой кровопролитной войны в истории человечества защитил нашу Родину от уничтожения.
+
+Два часа пролетели незаметно, большое спасибо организаторам экскурсии", – сказала одна из гостей санатория Богатырева Вера Николаевна из г. Рязани.
+
+Мы очень любим наши родные места и стараемся сделать так, чтобы их история понравилась и отдыхающим санатория. Надеемся, что наши путешествия оставят у них только хорошие впечатления! Ведь наша цель — предоставить гостям самую интересную информацию и помочь сделать их отдых по-настоящему приятным и запоминающимся!
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/kudmur-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/kudmur-02.jpg | alt: ""
+- new: novosti/novosti-164.jpg | src: https://kasimovskie-zori.ru/news/kudmur-03.jpg | alt: ""
+- new: novosti/novosti-165.jpg | src: https://kasimovskie-zori.ru/news/kudmur-04.jpg | alt: ""
+- new: novosti/novosti-166.jpg | src: https://kasimovskie-zori.ru/news/kudmur-05.jpg | alt: ""
+- new: novosti/novosti-167.jpg | src: https://kasimovskie-zori.ru/news/kudmur-06.jpg | alt: ""
+- new: novosti/novosti-168.jpg | src: https://kasimovskie-zori.ru/news/kudmur-07.jpg | alt: ""
+- new: novosti/novosti-169.jpg | src: https://kasimovskie-zori.ru/news/kudmur-08.jpg | alt: ""
+- new: novosti/novosti-170.jpg | src: https://kasimovskie-zori.ru/news/kudmur-09.jpg | alt: ""
+- new: novosti/novosti-171.jpg | src: https://kasimovskie-zori.ru/news/viktory-mini.jpg | alt: ""
+
+### Победа ООО «КАСИМОВСКИЕ ЗОРИ» в финале! {#viktory}
+
+18.04.2025
+
+Победа ООО «КАСИМОВСКИЕ ЗОРИ» в финале!
+
+16 и 17 апреля 2025 г. в Москве прошел суперфинал 14-го сезона Национальной предпринимательской премии «Бизнес-Успех» и всероссийский форум «Территория бизнеса – территория жизни». На мероприятии свои бизнес-идеи представили предприниматели со всей России, в том числе из Рязанской области.
+
+Финалистом суперфинала Премии стало ООО «КАСИМОВСКИЕ ЗОРИ», одержав победу в финале и пройдя в суперфинал конкурса.
+
+«Пройти в суперфинал – это большая победа, участие в федеральном этапе «Бизнес успеха» дает нам возможность заявить о санатории «КАСИМОВСКИЕ ЗОРИ», рассказать о его потенциале , чтобы о нем узнали в самых удаленных уголках России. Я выражаю слова благодарности главе Касимовского муниципального округа Ивану Аркадьевичу Бахилову, председателю Думы Касимовского муниципального округа Ганиной Ирине Ивановне, всем тем, кто помогал нам в организации данного мероприятия», – сказал генеральный директор ООО «КАСИМОВСКИЕ ЗОРИ» Олег Мешков.
+
+Напомним, региональный этап Национальной предпринимательской премии «Бизнес-Успех» прошел в мае 2024 года на площадке Конгресс-отеля «АМАКС», где ООО «КАСИМОВСКИЕ ЗОРИ» одержало победу, получив возможность представлять Рязанскую область на федеральной площадке.
+
+Для участников форума в Москве была подготовлена насыщенная деловая программа: круглые столы, мастер-классы на темы искусственного интеллекта, повышения эффективности управления, женского и молодежного предпринимательства, стратегии развития территорий.
+
+Суперфинал премии провела Корпорация «Синергия» при поддержке генерального партнера ПАО «Банк ПСБ».
+
+**Картинки секции:**
+- new: novosti/novosti-172.jpg | src: https://kasimovskie-zori.ru/news/viktory-01.jpg | alt: ""
+- new: novosti/novosti-173.jpg | src: https://kasimovskie-zori.ru/news/viktory-02.jpg | alt: ""
+- new: novosti/novosti-174.jpg | src: https://kasimovskie-zori.ru/news/viktory-03.jpg | alt: ""
+- new: novosti/novosti-175.jpg | src: https://kasimovskie-zori.ru/news/viktory-04.jpg | alt: ""
+- new: novosti/novosti-176.jpg | src: https://kasimovskie-zori.ru/news/drawplate-mini.jpg | alt: ""
+
+### Мастер-класс «Роспись тарелок» {#drawplate}
+
+16.04.2025
+
+14 апреля в санатории «КАСИМОВСКИЕ ЗОРИ» прошел мастер-класс «Роспись тарелок».
+
+Во время мастер-класса состоялась познавательная беседа. Присутствующие узнали историю возникновения росписи, ее виды, особенности данного народного промысла.
+
+Во время мастер-класса состоялась познавательная беседа. Присутствующие узнали историю возникновения росписи, ее виды, особенности данного народного промысла.
+
+**Картинки секции:**
+- new: novosti/novosti-177.jpg | src: https://kasimovskie-zori.ru/news/drawplate-01.jpg | alt: ""
+- new: novosti/novosti-178.jpg | src: https://kasimovskie-zori.ru/news/drawplate-02.jpg | alt: ""
+- new: novosti/novosti-179.jpg | src: https://kasimovskie-zori.ru/news/drawplate-03.jpg | alt: ""
+- new: novosti/novosti-180.jpg | src: https://kasimovskie-zori.ru/news/drawplate-04.jpg | alt: ""
+- new: novosti/novosti-181.jpg | src: https://kasimovskie-zori.ru/news/drawplate-05.jpg | alt: ""
+- new: novosti/novosti-182.jpg | src: https://kasimovskie-zori.ru/news/drawplate-06.jpg | alt: ""
+- new: novosti/novosti-183.jpg | src: https://kasimovskie-zori.ru/news/drawcoffee-mini.jpg | alt: ""
+
+### Мастер-класс "Рисуем кофе" {#drawcoffee}
+
+11.04.2025
+
+9 апреля в санатории "КАСИМОВСКИЕ ЗОРИ" прошёл мастер-класс "Рисуем кофе".
+
+Кофе – не просто ароматный напиток, но и основной инструмент для создания красивых картин.
+
+Кофейная живопись - это нетрадиционная техника рисования с помощью растворимого кофе. Это прекрасный вид отдыха с дивным ароматом.
+
+Это не только творческое занятие, но и арома - и арт-терапия.
+
+Мероприятие прошло в тёплой и доброжелательной обстановке.
+
+**Картинки секции:**
+- new: novosti/novosti-184.jpg | src: https://kasimovskie-zori.ru/news/drawcoffee-01.jpg | alt: ""
+- new: novosti/novosti-185.jpg | src: https://kasimovskie-zori.ru/news/drawcoffee-02.jpg | alt: ""
+- new: novosti/novosti-186.jpg | src: https://kasimovskie-zori.ru/news/drawcoffee-03.jpg | alt: ""
+- new: novosti/novosti-187.jpg | src: https://kasimovskie-zori.ru/news/drawcoffee-04.jpg | alt: ""
+- new: novosti/novosti-188.jpg | src: https://kasimovskie-zori.ru/news/drawcoffee-05.jpg | alt: ""
+- new: novosti/novosti-189.jpg | src: https://kasimovskie-zori.ru/news/rusloto-mini.jpg | alt: ""
+
+### Турнир по настольной игре "Русское лото" {#rusloto}
+
+09.04.2025
+
+7 апреля 2025 г. в санатории "КАСИМОВСКИЕ ЗОРИ" прошёл турнир  
+по настольной игре "Русское лото".
+
+Русское лото–одна из самых увлекательных игр, в которой могут принимать участие от 2 человек. В нее с удовольствием играют и взрослые, и дети, а простые правила позволяют привлекать к этому развлечению даже самых юных участников.
+
+Отдыхающие с пользой и весело провели время, много общались и получали положительные эмоции. А лучшие игроки были награждены призами от санатория.  
+Все участники игры отметили, что это было увлекательно и интересно!
+
+**Картинки секции:**
+- new: novosti/novosti-190.jpg | src: https://kasimovskie-zori.ru/news/rusloto-01.jpg | alt: ""
+- new: novosti/novosti-191.jpg | src: https://kasimovskie-zori.ru/news/rusloto-02.jpg | alt: ""
+- new: novosti/novosti-192.jpg | src: https://kasimovskie-zori.ru/news/emotion-mini.jpg | alt: ""
+
+### Эмоциональное наполнение отдыха {#emotion}
+
+08.04.2025
+
+Эмоциональное наполнение отдыха
+
+Отдыхающие не хотят смотреть телевизор в номере после процедур, они хотят получать новый опыт и впечатления. А главное — выбирать из готовых и продуманных вариантов.
+
+Санаторий "КАСИМОВСКИЕ ЗОРИ" уделяет большое внимание своим гостям, разнообразив их досуг. В санатории проходят различные мастер-классы,
+
+детская анимация, встречи с артистами, показ кинофильмов, проведение дискотек, предлагаются авторские экскурсии по туристическим маршрутам.
+
+Досуг в санатории "КАСИМОВСКИЕ ЗОРИ" у каждого свой. Здесь всегда можно выбрать несколько отличных вариантов для проведения свободного времени.
+
+**Картинки секции:**
+- new: novosti/novosti-193.jpg | src: https://kasimovskie-zori.ru/news/emotion-01.jpg | alt: ""
+- new: novosti/novosti-194.jpg | src: https://kasimovskie-zori.ru/news/emotion-02.jpg | alt: ""
+- new: novosti/novosti-195.jpg | src: https://kasimovskie-zori.ru/news/emotion-03.jpg | alt: ""
+- new: novosti/novosti-196.jpg | src: https://kasimovskie-zori.ru/news/emotion-04.jpg | alt: ""
+- new: novosti/novosti-197.jpg | src: https://kasimovskie-zori.ru/news/emotion-05.jpg | alt: ""
+- new: novosti/novosti-198.jpg | src: https://kasimovskie-zori.ru/news/emotion-06.jpg | alt: ""
+- new: novosti/novosti-199.jpg | src: https://kasimovskie-zori.ru/news/emotion-07.jpg | alt: ""
+- new: novosti/novosti-200.jpg | src: https://kasimovskie-zori.ru/news/emotion-08.jpg | alt: ""
+- new: novosti/novosti-201.jpg | src: https://kasimovskie-zori.ru/news/emotion-09.jpg | alt: ""
+- new: novosti/novosti-202.jpg | src: https://kasimovskie-zori.ru/news/emotion-10.jpg | alt: ""
+- new: novosti/novosti-203.jpg | src: https://kasimovskie-zori.ru/news/emotion-11.jpg | alt: ""
+- new: novosti/novosti-204.jpg | src: https://kasimovskie-zori.ru/news/mklassdoll-mini.jpg | alt: ""
+
+### Мастер-класс по изготовлению куклы Берегини {#mklassdoll}
+
+31.03.2025
+
+28 марта в санатории «КАСИМОВСКИЕ ЗОРИ» прошёл мастер-класс по изготовлению куклы Берегини.
+
+Куклы-обереги берегут лад в семье, добрые отношения с близкими, приносят удачу, достаток и мир. На Руси с особой любовью делались именно эти обереги, особенно для детей. Считалось, что они способны уберечь от злых духов, отвести неприятности и защитить ребёнка.
+
+Каждый участник мастер-класса смог изготовить уникальную куклу своими руками, получить массу эмоций и впечатлений.
+
+Мастер-класс прошел в рамках проекта "Создание туристического маршрута "Тропа Кудеяра", который будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-003.jpg | src: https://kasimovskie-zori.ru/news/mklassdoll-01.jpg | alt: ""
+- new: novosti/novosti-004.jpg | src: https://kasimovskie-zori.ru/news/mklassdoll-02.jpg | alt: ""
+- new: novosti/novosti-205.jpg | src: https://kasimovskie-zori.ru/news/mklassdoll-03.jpg | alt: ""
+- new: novosti/novosti-206.jpg | src: https://kasimovskie-zori.ru/news/mklassdoll-04.jpg | alt: ""
+- new: novosti/novosti-207.jpg | src: https://kasimovskie-zori.ru/news/mklassdoll-05.jpg | alt: ""
+- new: novosti/novosti-208.jpg | src: https://kasimovskie-zori.ru/news/domculture-mini.jpg | alt: ""
+
+### Показ художественного фильма «ДОМ КУЛЬТУРЫ» {#domculture}
+
+27.03.2025
+
+Показ художественного фильма «ДОМ КУЛЬТУРЫ»
+
+В День работников культуры в санатории "КАСИМОВСКИЕ ЗОРИ" состоялся показ художественного фильма «ДОМ КУЛЬТУРЫ» в рамках проекта-победителя гранта Президентского Фонда культурных инициатив – КИНОЛАБОРАТОРИИ “СКАЗКОТВОРЕНИЕ” и прошла встреча отдыхающих санатория с творческой группой – актером кино Сергеем Легостаевым, актрисой театра «Ленком» Мариной Корольковой, артистом театра и кино Сергеем Шипиловым и генеральным директором, продюсером ООО Студия «КиноКульт» Еленой Шипиловой.
+
+Фильм «Дом Культуры» — это экранизация сказки, в которой переплетаются элементы фэнтези, мифологии и семейной драмы, он снят по сценарию талантливой
+
+молодой писательницы, студентки 3 курса РУДН Кристины Демьянчук и профессионального сценариста Ирины Семашко.
+
+Встреча с актерами прошла в формате живого диалога, где участники смогли задать вопросы об их творческом пути, обсудить любимые киноработы и конечно сделать фото на память.
+
+Выражаем слова благодарности главе муниципального округа Ясенево, председателю Совета депутатов Ирине Владимировне Гришиной за предоставленную возможность проведения презентации фильма и творческой встречи с актерами в нашем санатории.
+
+**Картинки секции:**
+- new: novosti/novosti-209.jpg | src: https://kasimovskie-zori.ru/news/domculture-01.jpg | alt: ""
+- new: novosti/novosti-210.jpg | src: https://kasimovskie-zori.ru/news/domculture-02.jpg | alt: ""
+- new: novosti/novosti-211.jpg | src: https://kasimovskie-zori.ru/news/domculture-03.jpg | alt: ""
+- new: novosti/novosti-212.jpg | src: https://kasimovskie-zori.ru/news/domculture-04.jpg | alt: ""
+- new: novosti/novosti-213.jpg | src: https://kasimovskie-zori.ru/news/domculture-05.jpg | alt: ""
+- new: novosti/novosti-214.jpg | src: https://kasimovskie-zori.ru/news/domculture-06.jpg | alt: ""
+- new: novosti/novosti-215.jpg | src: https://kasimovskie-zori.ru/news/cenzan-mini.jpg | alt: ""
+
+### Ярмарка вакансий Касимовского района {#cenzan}
+
+25.03.2025
+
+21 марта в Центре занятости населения Касимовского района состоялась ярмарка вакансий для безработных и ищущих работу граждан.
+
+Перед присутствующими выступили представители санатория "КАСИМОВСКИЕ ЗОРИ", которые рассказали участникам ярмарки об условиях труда и заработной плате на предприятии, о льготах, предоставляемых сотрудникам, ответили на многочисленные вопросы.
+
+Подобные мероприятия пользуются успехом у работодателей, так как позволяют в течение нескольких часов познакомиться со значительным количеством претендентов на вакантные места и пополнить базы данных потенциальных сотрудников своих компаний.
+
+**Картинки секции:**
+- new: novosti/novosti-216.jpg | src: https://kasimovskie-zori.ru/news/cenzan-01.jpg | alt: ""
+- new: novosti/novosti-217.jpg | src: https://kasimovskie-zori.ru/news/cenzan-02.jpg | alt: ""
+- new: novosti/novosti-218.jpg | src: https://kasimovskie-zori.ru/news/mitt2025-mini.jpg | alt: ""
+
+### 31-я Международная выставка туризма и индустрии гостеприимства MITT 2025 {#mitt2025}
+
+21.03.2025
+
+31-я Международная выставка туризма и индустрии гостеприимства MITT 2025
+
+19 марта 2025 года коммерческий директор санатория "КАСИМОВСКИЕ ЗОРИ" Татьяна Соловьева приняла участие в работе 31-й Международной выставки туризма и индустрии гостеприимства MITT 2025, проходящей в МВЦ «Крокус Экспо».
+
+Выставка MITT 2025 впечатлила своим масштабом и международным представительством. На площади более 17 500 кв. м разместились стенды более 1000 экспонентов из 54 регионов России и 36 зарубежных государств.
+
+Это мероприятие, являющееся крупнейшей туристической выставкой в России и СНГ, предоставило уникальную возможность ознакомиться с последними тенденциями отрасли, установить профессиональные контакты и получить ценный практический опыт в сфере внутреннего туризма.  
+На протяжении всего мероприятия активно велись переговоры, обменивались опытом и идеями с коллегами, партнёрами и потенциальными клиентами. Обсуждения были сосредоточены на коммерческих возможностях и профессиональных аспектах, что будет способствовать укреплению существующих связей и установлению новых, открывающих возможности для взаимовыгодного сотрудничества.
+
+**Картинки секции:**
+- new: novosti/novosti-219.jpg | src: https://kasimovskie-zori.ru/news/mitt2025-01.jpg | alt: ""
+- new: novosti/novosti-220.jpg | src: https://kasimovskie-zori.ru/news/mitt2025-02.jpg | alt: ""
+- new: novosti/novosti-221.jpg | src: https://kasimovskie-zori.ru/news/mitt2025-03.jpg | alt: ""
+- new: novosti/novosti-222.jpg | src: https://kasimovskie-zori.ru/news/mitt2025-04.jpg | alt: ""
+- new: novosti/novosti-223.jpg | src: https://kasimovskie-zori.ru/news/mitt2025-05.jpg | alt: ""
+- new: novosti/novosti-224.jpg | src: https://kasimovskie-zori.ru/news/mitt2025-06.jpg | alt: ""
+- new: novosti/novosti-225.jpg | src: https://kasimovskie-zori.ru/news/mitt2025-07.jpg | alt: ""
+- new: novosti/novosti-226.jpg | src: https://kasimovskie-zori.ru/news/mitt2025-08.jpg | alt: ""
+- new: novosti/novosti-227.jpg | src: https://kasimovskie-zori.ru/news/travnica-mini.jpg | alt: ""
+
+### Мастер-класс по изготовлению обереговой куклы {#travnica}
+
+14.03.2025
+
+14 марта в санатории "КАСИМОВСКИЕ ЗОРИ" прошёл мастер-класс по изготовлению обереговой куклы "Кубышка-Травница".
+
+Традиция изготовления народных кукол на Руси - важная часть знакомства с фольклором и старинными обычаями русского народа. Вот и наш мастер-класс по изготовлению древней куклы из лоскутов и природного материала превратился в беседу о далеком прошлом, о культуре и быте наших предков.  
+Участники мероприятия познакомились с интересной историей маленькой куклы-оберега, которую с давних времен предки-славяне мастерили в каждом доме. Присутствие в доме специальной куклы было обязательным, она символизировала достаток в семье и являлась мощным оберегом жилища.
+
+Каждый участник мастер-класса смог раскрыть свой потенциал, изготовить уникальную работу, получить массу положительных эмоций и впечатлений.
+
+Мастер-класс прошел в рамках проекта "Создание туристического маршрута "Тропа Кудеяра", который будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-228.jpg | src: https://kasimovskie-zori.ru/news/travnica-01.jpg | alt: ""
+- new: novosti/novosti-229.jpg | src: https://kasimovskie-zori.ru/news/travnica-02.jpg | alt: ""
+- new: novosti/novosti-230.jpg | src: https://kasimovskie-zori.ru/news/travnica-03.jpg | alt: ""
+- new: novosti/novosti-231.jpg | src: https://kasimovskie-zori.ru/news/travnica-04.jpg | alt: ""
+- new: novosti/novosti-232.jpg | src: https://kasimovskie-zori.ru/news/tkudia0325-mini.jpg | alt: ""
+
+### Гости туристического маршрута "Тропа Кудеяра" {#tkudia0325}
+
+13.03.2025
+
+13 марта 2025 г. гостями туристического маршрута "Тропа Кудеяра" стали жители городов - Гусь-Хрустальный, Спас-Клепики и Ряжского района.
+
+Нас встретил замечательный солнечный день. Уже совсем растаял снег, появились проталинки, ручьи, река почти освободилась ото льда, слышно пение птиц, вокруг свежесть, набухание почек на деревьях...
+
+Отдыхающие санатория "КАСИМОВСКИЕ ЗОРИ" познакомились с историей Касимовского округа, посетили Усадьбу Олениных, прикоснулись к Синь-камню, посмотрели на "засаду" и "дозор" разбойника Кудеяра.
+
+Наталья, г. Гусь-Хрустальный Владимирской области:  
+- Приезжаю в санаторий уже третий раз. Было приятно пройти по лесному маршруту, узнать так много нового и интересного для себя. Замечательная экскурсия. Мы с удовольствием наблюдали за уходящим ледоходом, любовались красавицей Окой. Это действительно завораживает и впечатляет. Обязательно приедем опять.
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-228.jpg | src: https://kasimovskie-zori.ru/news/tkudia0325-01.jpg | alt: ""
+- new: novosti/novosti-233.jpg | src: https://kasimovskie-zori.ru/news/tkudia0325-02.jpg | alt: ""
+- new: novosti/novosti-234.jpg | src: https://kasimovskie-zori.ru/news/tkudia0325-03.jpg | alt: ""
+- new: novosti/novosti-235.jpg | src: https://kasimovskie-zori.ru/news/tkudia0325-04.jpg | alt: ""
+- new: novosti/novosti-236.jpg | src: https://kasimovskie-zori.ru/news/tkudia0325-05.jpg | alt: ""
+- new: novosti/novosti-237.jpg | src: https://kasimovskie-zori.ru/news/tkudia0325-06.jpg | alt: ""
+- new: novosti/novosti-238.jpg | src: https://kasimovskie-zori.ru/news/tkudde-mini.jpg | alt: ""
+
+### Экскурсия по туристическому маршруту "Тропа Кудеяра" {#tkudde}
+
+20.02.2025
+
+20 февраля для отдыхающих санатория "КАСИМОВСКИЕ ЗОРИ" была организована экскурсия по туристическому маршруту "Тропа Кудеяра".
+
+Мероприятие прошло в рамках проекта, получившего поддержку от Президентского фонда культурных инициатив.
+
+Гости из Московской области, Рязани и Касимова активно участвовали в экскурсии: внимательно слушали информацию, обсуждали услышанное и задавали вопросы. Они получили много интересной информации об истории этих мест и главных достопримечательностях.
+
+"Делюсь впечатлениями об увлекательной и познавательной экскурсии. Очень рекомендую как взрослым, так и семьям с детьми. Путь занимает 2 часа, но сегодня время пролетает незаметно! Мы прошли по лесной тропе, загадали желание у Синь-камня, увидели усадьбу Олениных, липовую аллею, замечательный пруд, просто экспресс погружение в историю этих мест, очень круто и интересно! За разговорами об истории, природе, достопримечательностях, мы не заметили возвращения в санаторий. Большое спасибо Татьяне, будем вспоминать наше общение с теплотой и друзьям пересказывать эти истории!", - сказала Наталья из Московской области.
+
+**Картинки секции:**
+- new: novosti/novosti-228.jpg | src: https://kasimovskie-zori.ru/news/tkudde-01.jpg | alt: ""
+- new: novosti/novosti-233.jpg | src: https://kasimovskie-zori.ru/news/tkudde-02.jpg | alt: ""
+- new: novosti/novosti-239.jpg | src: https://kasimovskie-zori.ru/news/tkudde-03.jpg | alt: ""
+- new: novosti/novosti-240.jpg | src: https://kasimovskie-zori.ru/news/tkudde-04.jpg | alt: ""
+- new: novosti/novosti-241.jpg | src: https://kasimovskie-zori.ru/news/tkudde-05.jpg | alt: ""
+- new: novosti/novosti-242.jpg | src: https://kasimovskie-zori.ru/news/tkudde-06.jpg | alt: ""
+- new: novosti/novosti-243.jpg | src: https://kasimovskie-zori.ru/news/tkudde-07.jpg | alt: ""
+- new: novosti/novosti-244.jpg | src: https://kasimovskie-zori.ru/news/otropo-mini.jpg | alt: ""
+
+### Гостями туристического маршрута "Тропа Кудеяра" стали жители г. Рязани {#otropo}
+
+14.02.2024
+
+14 февраля 2025 г. гостями туристического маршрута "Тропа Кудеяра" стали жители г. Рязани и г. Меленки Владимирской области.
+
+Маршрут очень интересный. Он связывает и историю родной земли, и легенду про Кудеяра, и, конечно, во всей красе раскрывает удивительную мещерскую природу. Именно под влиянием народных преданий о разбойниках на этой территории Александр Алексеевич Оленин пишет свое самое крупное произведение – опера-песня «Кудеяр».
+
+Нас встретила прекрасная солнечная погода. Как приятно прогуляться в лесу! Вдохнуть целебный воздух, получить заряд бодрости и хорошего настроения. Гости обняли деревья и поблагодарили их за целительный сеанс, поделились с ними любовью и благодарностью.
+
+Деревья, как аккумуляторы, они через корни и крону питаются силой от земли и солнца, а потом щедро делятся накопленной энергией с человеком.
+
+"Трудно описать словами те красоты, которые открываются перед нами, и те чувства, которые охватывают нас, когда мы общаемся вне бытовой повседневности, сегодня я получила возможность побывать на природе, получить полезную информацию, познакомиться с интересными людьми. Большое спасибо организаторам мероприятия", – говорит одна из участниц экскурсии Юлия из г. Меленки.
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-228.jpg | src: https://kasimovskie-zori.ru/news/otropo-01.jpg | alt: ""
+- new: novosti/novosti-233.jpg | src: https://kasimovskie-zori.ru/news/otropo-02.jpg | alt: ""
+- new: novosti/novosti-245.jpg | src: https://kasimovskie-zori.ru/news/otropo-03.jpg | alt: ""
+- new: novosti/novosti-246.jpg | src: https://kasimovskie-zori.ru/news/otropo-04.jpg | alt: ""
+- new: novosti/novosti-247.jpg | src: https://kasimovskie-zori.ru/news/otropo-05.jpg | alt: ""
+- new: novosti/novosti-248.jpg | src: https://kasimovskie-zori.ru/news/otropo-06.jpg | alt: ""
+- new: novosti/novosti-249.jpg | src: https://kasimovskie-zori.ru/news/otropo-07.jpg | alt: ""
+- new: novosti/novosti-250.jpg | src: https://kasimovskie-zori.ru/news/otropo-08.jpg | alt: ""
+- new: novosti/novosti-251.jpg | src: https://kasimovskie-zori.ru/news/otropo-09.jpg | alt: ""
+- new: novosti/novosti-252.jpg | src: https://kasimovskie-zori.ru/news/otropo-10.jpg | alt: ""
+- new: novosti/novosti-253.jpg | src: https://kasimovskie-zori.ru/news/tropkudeya-2025-mini.jpg | alt: ""
+
+### Экскурсия по туристическому маршруту "Тропа Кудеяра" {#tropkudeya-2025}
+
+12.02.2025
+
+Экскурсия по туристическому маршруту "Тропа Кудеяра"
+
+12 февраля 2025 г. состоялась экскурсия по туристическому маршруту "Тропа Кудеяра". Сегодня гостями маршрута стали жители Москвы, Коломны и Рязани. Некоторые отдыхают в нашем санатории уже восьмой раз. С большим интересом люди погружались в историю этих замечательных мест, были поражены красотой зимней природы.
+
+Туристический маршрут позволяет гостям прикоснуться к истории этих мест, почувствовать прекрасные эмоции и получить новые знания.
+
+Осматривая дом Олениных, мы включили воображение, и представили как выглядела усадьба, парк липовых аллей, пруд в годы своего расцвета... Одна из гостей санатория прочитала строки из стихотворения Бориса Пастернака, которые так точно соответствовали сегодняшним ощущениям прекрасного:
+
+"Там липы в несколько обхватов  
+Справляют в сумраке аллей,  
+Вершины друг за друга спрятав,  
+Свой двухсотлетний юбилей".
+
+Козлов Владимир Степанович, г. Рязань
+
+- Приезжаю в санаторий уже третий раз и был приятно удивлен, что появилось прекрасное место для прогулок и отдыха. Спасибо сотрудникам ООО "КАСИМОВСКИЕ ЗОРИ" за доброе отношение к нам и увлекательную экскурсию, сегодня мы узнали много нового и интересного. Желаем процветания проекту и обязательно приедем вновь.
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-228.jpg | src: https://kasimovskie-zori.ru/news/tropkudeya-2025-01.jpg | alt: ""
+- new: novosti/novosti-233.jpg | src: https://kasimovskie-zori.ru/news/tropkudeya-2025-02.jpg | alt: ""
+- new: novosti/novosti-254.jpg | src: https://kasimovskie-zori.ru/news/tropkudeya-2025-03.jpg | alt: ""
+- new: novosti/novosti-255.jpg | src: https://kasimovskie-zori.ru/news/tropkudeya-2025-04.jpg | alt: ""
+- new: novosti/novosti-256.jpg | src: https://kasimovskie-zori.ru/news/tropkudeya-2025-05.jpg | alt: ""
+- new: novosti/novosti-257.jpg | src: https://kasimovskie-zori.ru/news/tropkudeya-2025-06.jpg | alt: ""
+- new: novosti/novosti-258.jpg | src: https://kasimovskie-zori.ru/news/tropkudeya-2025-07.jpg | alt: ""
+- new: novosti/novosti-259.jpg | src: https://kasimovskie-zori.ru/news/tropkudeya-2025-08.jpg | alt: ""
+- new: novosti/novosti-260.jpg | src: https://kasimovskie-zori.ru/news/kisett-mini.jpg | alt: ""
+
+### 12 февраля 2025 г. состоялся мастер-класс "Кисет разбойника". {#kisett}
+
+12.02.2025
+
+12 февраля 2025 г. состоялся мастер-класс "Кисет разбойника".
+
+На мастер-классе участники познакомились с техникой изготовления традиционного мешочка-кисета со шнуровкой.
+
+Это прекрасный вариант провести время за творческой работой и создать свой собственный шедевр. Подходит для всех, в том числе и людей без художественных навыков.
+
+Всем было весело и интересно. Каждый открыл в себе и для себя что-то новое. Кисеты получились разные, но очень красивые!
+
+Мастер-класс проведен в рамках реализации проекта - создание туристического маршрута "Тропа Кудеяра", поддержанного Президентским фондом культурных инициатив.
+
+**Картинки секции:**
+- new: novosti/novosti-228.jpg | src: https://kasimovskie-zori.ru/news/kisett-01.jpg | alt: ""
+- new: novosti/novosti-233.jpg | src: https://kasimovskie-zori.ru/news/kisett-02.jpg | alt: ""
+- new: novosti/novosti-261.jpg | src: https://kasimovskie-zori.ru/news/kisett-03.jpg | alt: ""
+- new: novosti/novosti-262.jpg | src: https://kasimovskie-zori.ru/news/kisett-04.jpg | alt: ""
+- new: novosti/novosti-263.jpg | src: https://kasimovskie-zori.ru/news/kisett-05.jpg | alt: ""
+- new: novosti/novosti-264.jpg | src: https://kasimovskie-zori.ru/news/kisett-06.jpg | alt: ""
+- new: novosti/novosti-265.jpg | src: https://kasimovskie-zori.ru/news/kisett-07.jpg | alt: ""
+- new: novosti/novosti-266.jpg | src: https://kasimovskie-zori.ru/news/kultraz-mini.jpg | alt: ""
+
+### Презентация туристического маршрута «Тропа Кудеяра» {#kultraz}
+
+8.02.2025
+
+8 февраля 2025 г. на площадке Центра культурного развития города Касимова состоялась презентация туристического маршрута «Тропа Кудеяра», поддержанного Президентским Фондом культурных инициатив.
+
+Туристическая тропа — это пешеходный маршрут, который проходит по самым интересным местам Мещеры, лесным и прибрежным тропинкам, он связывает памятники культуры, истории и просто живописные места. Протяженность маршрута 2-4 км, продолжительность — 2-3 часа.
+
+Участники мероприятия узнали о достопримечательностях нового маршрута, с интересом слушали информацию об объекте культурного наследия федерального значения «Усадьба Олениных XVIII-XIX вв.», об истории знаменитой семьи.
+
+Также в этот день для присутствующих провели мастер-класс по созданию «Куклы-оберега». Куклы-обереги — важная часть повседневной жизни наших предков.
+
+Их всегда носили с собой, просили о помощи, обереги предохраняли от нечистой силы, от разной нечисти, врагов и недоброжелателей, от болезней, от тяжёлых ран и увечий. Именно им приписывали такую магическую силу.
+
+В завершении мероприятия был показан замечательный концерт с участием творческих коллективов муниципального округа.
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-228.jpg | src: https://kasimovskie-zori.ru/news/kultraz-01.jpg | alt: ""
+- new: novosti/novosti-233.jpg | src: https://kasimovskie-zori.ru/news/kultraz-02.jpg | alt: ""
+- new: novosti/novosti-267.jpg | src: https://kasimovskie-zori.ru/news/kultraz-03.jpg | alt: ""
+- new: novosti/novosti-268.jpg | src: https://kasimovskie-zori.ru/news/kultraz-04.jpg | alt: ""
+- new: novosti/novosti-269.jpg | src: https://kasimovskie-zori.ru/news/kultraz-05.jpg | alt: ""
+- new: novosti/novosti-270.jpg | src: https://kasimovskie-zori.ru/news/kultraz-06.jpg | alt: ""
+- new: novosti/novosti-271.jpg | src: https://kasimovskie-zori.ru/news/kultraz-07.jpg | alt: ""
+- new: novosti/novosti-272.jpg | src: https://kasimovskie-zori.ru/news/kultraz-08.jpg | alt: ""
+- new: novosti/novosti-273.jpg | src: https://kasimovskie-zori.ru/news/kultraz-09.jpg | alt: ""
+- new: novosti/novosti-274.jpg | src: https://kasimovskie-zori.ru/news/kultraz-10.jpg | alt: ""
+- new: novosti/novosti-275.jpg | src: https://kasimovskie-zori.ru/news/kultraz-11.jpg | alt: ""
+- new: novosti/novosti-276.jpg | src: https://kasimovskie-zori.ru/news/ckrg2025-mini.jpg | alt: ""
+
+### Церемония награждения {#ckrg2025}
+
+24.01.2025
+
+Церемония награждения
+
+22 января 2025 года в Центре культурного развития города Касимова состоялась церемония награждения организаций, предприятий и жителей, которые внесли вклад в развитие и благоустройство Касимовского муниципального округа.
+
+ООО «КАСИМОВСКИЕ ЗОРИ» было отмечено Благодарственным письмом Думы и Администрации Касимовского муниципального округа Рязанской области за оказание благотворительной помощи, плодотворное сотрудничество на благо Касимовского муниципального округа.
+
+**Картинки секции:**
+- new: novosti/novosti-277.jpg | src: https://kasimovskie-zori.ru/news/ckrg2025-01.jpg | alt: ""
+- new: novosti/novosti-278.jpg | src: https://kasimovskie-zori.ru/news/ckrg2025-02.jpg | alt: ""
+- new: novosti/novosti-279.jpg | src: https://kasimovskie-zori.ru/news/tkudi-mini.jpg | alt: ""
+
+### Второй этап реализации проекта "Тропа Кудеяра" {#tkudi}
+
+23.01.2025
+
+Начинается второй этап реализации проекта - туристический маршрут "Тропа Кудеяра", поддержанного Президентским фондом культурных инициатив.
+
+Первыми гостями в этом году стали сотрудники Управления Федеральной налоговой службы по Рязанской области.
+
+Был выбран маршрут 2 км. Гости прошли по самым живописным местам зимнего леса, подзарядились энергией красавицы Оки, загадали желание у Синь-камня,
+
+посетили родовое имение дворянской семьи Олениных и получили много интересной информации об истории этих мест.
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+СВЕЖИЕ  
+НОВОСТИ
+
+НОВОСТИ  
+2025 года
+
+НОВОСТИ  
+2024 года
+
+НОВОСТИ  
+2023 года
+
+**Картинки секции:**
+- new: novosti/novosti-228.jpg | src: https://kasimovskie-zori.ru/news/tkudi-01.jpg | alt: ""
+- new: novosti/novosti-233.jpg | src: https://kasimovskie-zori.ru/news/tkudi-02.jpg | alt: ""
+- new: novosti/novosti-280.jpg | src: https://kasimovskie-zori.ru/news/tkudi-03.jpg | alt: ""
+- new: novosti/novosti-281.jpg | src: https://kasimovskie-zori.ru/news/tkudi-04.jpg | alt: ""
+- new: novosti/novosti-282.jpg | src: https://kasimovskie-zori.ru/news/tkudi-05.jpg | alt: ""
+- new: novosti/novosti-283.jpg | src: https://kasimovskie-zori.ru/news/tkudi-06.jpg | alt: ""
+- new: novosti/novosti-284.jpg | src: https://kasimovskie-zori.ru/news/tkudi-07.jpg | alt: ""
+- new: novosti/novosti-285.jpg | src: https://kasimovskie-zori.ru/news/tkudi-08.jpg | alt: ""
+- new: _icons/_icons-50.jpg | src: https://kasimovskie-zori.ru/images/news.jpg | alt: ""
+
+## [news.html?page=02 — раздел «НОВОСТИ 2024 года»]
+
+## [вводная часть без заголовка]
+
+**Картинки секции:**
+- new: obshchee/obshchee-01.png | src: https://kasimovskie-zori.ru/images/index2.png | alt: ""
+
+## Новости 2024 года
+
+**Картинки секции:**
+- new: novosti/novosti-286.jpg | src: https://kasimovskie-zori.ru/news/tkgr-mini.jpg | alt: ""
+
+### Маршрут "Тропа Кудеяра" {#tkgr}
+
+05.12.2024
+
+Маршрут "Тропа Кудеяра"
+
+Несмотря на холодную погоду, экскурсии по туристическому маршруту "Тропа Кудеяра" продолжаются, 3 декабря его посетили гости из города Рязани.
+
+Понедельникова Ольга Николаевна, г. Рязань
+
+- Приезжаю в санаторий не первый раз и вижу изменения к лучшему. Замечательно, что появилась возможность пройти по новому лесному маршруту. Очень понравилась экскурсия, время пролетело незаметно, узнали интересные исторические факты, информация подавалась легко и доступно.
+
+Большое спасибо коллективу санатория "КАСИМОВСКИЕ ЗОРИ" за новый туристический маршрут "Тропа Кудеяра". После экскурсии захотелось самим более подробно узнать о Касимовском районе и посетить достопримечательности древнего города Касимова.
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-228.jpg | src: https://kasimovskie-zori.ru/news/tkgr-01.jpg | alt: ""
+- new: novosti/novosti-233.jpg | src: https://kasimovskie-zori.ru/news/tkgr-02.jpg | alt: ""
+- new: novosti/novosti-287.jpg | src: https://kasimovskie-zori.ru/news/tkgr-03.jpg | alt: ""
+- new: novosti/novosti-288.jpg | src: https://kasimovskie-zori.ru/news/tkgr-04.jpg | alt: ""
+- new: novosti/novosti-289.jpg | src: https://kasimovskie-zori.ru/news/tkgr-05.jpg | alt: ""
+- new: novosti/novosti-290.jpg | src: https://kasimovskie-zori.ru/news/tkgr-06.jpg | alt: ""
+- new: novosti/novosti-291.jpg | src: https://kasimovskie-zori.ru/news/dolgolet-mini.jpg | alt: ""
+
+### Проект «Маршруты долголетия» {#dolgolet}
+
+30.11.2024
+
+20 ноября участники проекта «Маршруты долголетия», члены Касимовской городской организации Ветеранов посетили наш туристический маршрут "Тропа Кудеяра".
+
+Гости санатория прошли по лесной дороге, загадали желание у Синь-камня, побывали в усадебном комплексе XIX века семьи Олениных, а также увидели Красную гору, откуда разбойники наблюдали за рекой и сообщали о приближающихся кораблях. В рамках посещения санатория гости ознакомились с лечебным блоком,
+
+современным медицинским оборудованием, условиями проживания и отдыха. Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-292.jpg | src: https://kasimovskie-zori.ru/news/dolgolet-01.jpg | alt: ""
+- new: novosti/novosti-293.jpg | src: https://kasimovskie-zori.ru/news/dolgolet-02.jpg | alt: ""
+- new: novosti/novosti-294.jpg | src: https://kasimovskie-zori.ru/news/dolgolet-03.jpg | alt: ""
+- new: novosti/novosti-295.jpg | src: https://kasimovskie-zori.ru/news/dolgolet-04.jpg | alt: ""
+- new: novosti/novosti-296.jpg | src: https://kasimovskie-zori.ru/news/dolgolet-05.jpg | alt: ""
+- new: novosti/novosti-297.jpg | src: https://kasimovskie-zori.ru/news/dolgolet-06.jpg | alt: ""
+- new: novosti/novosti-298.jpg | src: https://kasimovskie-zori.ru/news/dolgolet-07.jpg | alt: ""
+- new: novosti/novosti-299.jpg | src: https://kasimovskie-zori.ru/news/dolgolet-08.jpg | alt: ""
+- new: novosti/novosti-300.jpg | src: https://kasimovskie-zori.ru/news/dolgolet-09.jpg | alt: ""
+- new: novosti/novosti-301.jpg | src: https://kasimovskie-zori.ru/news/vostdance-mini.jpg | alt: ""
+
+### Группа "Восточные танцы" {#vostdance}
+
+16.11.2024
+
+16 ноября гостями ООО "КАСИМОВСКИЕ ЗОРИ" стали участницы группы "Восточные танцы", которые тепло и радушно были встречены отдыхающими нашего санатория.
+
+В рамках концертной программы были представлены прекрасные композиции, яркая музыкальная хореография, пластика и гибкость.
+
+Атмосфера и специфика этого стиля берет истоки из истории: гордые красавицы Востока издавна славились загадочностью, женственностью,
+
+чарующей красотой. Они притягивали завораживающими плавными движениями и неповторимой грацией.
+
+Программа группы "Восточные танцы" была интересной и разнообразной. Зрители с большим удовольствием наслаждались номерами участниц и дарили артистам бурные аплодисменты.
+
+**Картинки секции:**
+- new: novosti/novosti-302.jpg | src: https://kasimovskie-zori.ru/news/vostdance-01.jpg | alt: ""
+- new: novosti/novosti-303.jpg | src: https://kasimovskie-zori.ru/news/vostdance-02.jpg | alt: ""
+- new: novosti/novosti-304.jpg | src: https://kasimovskie-zori.ru/news/vostdance-03.jpg | alt: ""
+- new: novosti/novosti-305.jpg | src: https://kasimovskie-zori.ru/news/vostdance-04.jpg | alt: ""
+- new: novosti/novosti-306.jpg | src: https://kasimovskie-zori.ru/news/vostdance-05.jpg | alt: ""
+- new: novosti/novosti-307.jpg | src: https://kasimovskie-zori.ru/news/trokapadu-mini.jpg | alt: ""
+
+### Туристический маршрут "Тропа Кудеяра" {#trokapadu}
+
+22.10.2024
+
+Туристический маршрут "Тропа Кудеяра"
+
+гости из Московской и Владимирской областей. Они узнали историю Касимовского района, посетили Усадьбу Олениных, прикоснулись к Синь-камню, посмотрели на "засаду" и "дозор" разбойника Кудеяра.
+
+Экскурсия прошла на одном дыхании, а прекрасная солнечная погода и хорошее настроение давали силы идти вперёд по маршруту. Самые стойкие туристы преодолели расстояние 4 км и поднялись на "Красную гору".
+
+Осенние пейзажи, лес, река, нетронутая природа Мещеры. Прогулка здесь - особое удовольствие и именно за этим к нам едут туристы!
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-308.jpg | src: https://kasimovskie-zori.ru/news/trokapadu-01.jpg | alt: ""
+- new: novosti/novosti-309.jpg | src: https://kasimovskie-zori.ru/news/trokapadu-02.jpg | alt: ""
+- new: novosti/novosti-310.jpg | src: https://kasimovskie-zori.ru/news/trokapadu-03.jpg | alt: ""
+- new: novosti/novosti-311.jpg | src: https://kasimovskie-zori.ru/news/trokapadu-04.jpg | alt: ""
+- new: novosti/novosti-312.jpg | src: https://kasimovskie-zori.ru/news/trokapadu-05.jpg | alt: ""
+- new: novosti/novosti-313.jpg | src: https://kasimovskie-zori.ru/news/trokapadu-06.jpg | alt: ""
+- new: novosti/novosti-314.jpg | src: https://kasimovskie-zori.ru/news/trokapadu-07.jpg | alt: ""
+- new: novosti/novosti-315.jpg | src: https://kasimovskie-zori.ru/news/trokapadu-08.jpg | alt: ""
+- new: novosti/novosti-316.jpg | src: https://kasimovskie-zori.ru/news/tprofit-mini.jpg | alt: ""
+
+### Экскурсия по туристическому маршруту «Тропа Кудеяра» для ООО «Профит» {#tprofit}
+
+14.10.2024
+
+14 октября для сотрудников ООО "ПРОФИТ" из города Рязани была проведена экскурсия по туристическому маршруту "Тропа Кудеяра"
+
+Гостям очень понравился поход по маршруту, ведь Мещера - удивительный по красоте и разнообразию природы кусочек русской земли. Вот и наша тропа поражает своим великолепием: тишина, покой, изобилие деревьев и воздух, наполненный запахами Оки и осеннего леса.
+
+Приглашаем посетить санаторий "КАСИМОВСКИЕ ЗОРИ" и обязательно пройтись по туристической тропе! Наслаждайтесь яркими красками осенней природы!
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-317.jpg | src: https://kasimovskie-zori.ru/news/tprofit-01.jpg | alt: ""
+- new: novosti/novosti-318.jpg | src: https://kasimovskie-zori.ru/news/tprofit-02.jpg | alt: ""
+- new: novosti/novosti-319.jpg | src: https://kasimovskie-zori.ru/news/tprofit-03.jpg | alt: ""
+- new: novosti/novosti-320.jpg | src: https://kasimovskie-zori.ru/news/tprofit-04.jpg | alt: ""
+- new: novosti/novosti-321.jpg | src: https://kasimovskie-zori.ru/news/troku10-mini.jpg | alt: ""
+
+### Экскурсия по туристическому маршруту «Тропа Кудеяра» {#troku10}
+
+11.10.2024
+
+11 октября для отдыхающих санатория "КАСИМОВСКИЕ ЗОРИ" была организована экскурсия по туристическому маршруту "Тропа Кудеяра". Погода выдалась солнечная, дорога отличная, пейзажи живописные, настроение замечательное
+
+Гости санатория узнали историю Касимовского района, посетили Усадьбу Олениных, прикоснулись к Синь-камню, посмотрели на "засаду" и "дозор" разбойника Кудеяра.
+
+Эта тропа обустроена не только для отдыхающих санатория "КАСИМОВСКИЕ ЗОРИ", но и для всех гостей и жителей Касимовского района. По пути следования маршрута установлены удобные скамейки, на всех ключевых точках имеется туристическая навигация, а информационные щиты помогают нашим гостям выбрать желаемый участок маршрута.
+
+«Тропа Кудеяра» - это ответ туристам, которые нередко задают вопросы: «куда пойти?» и «что посмотреть?». За них мы уже подумали и разработали максимально удобный маршрут.
+
+Теперь нашим гостям требуется лишь удобная обувь, желание и два часа свободного времени.
+
+Приглашаем посетить санаторий "КАСИМОВСКИЕ ЗОРИ" и обязательно пройтись по туристической тропе! Здесь удивительные и прекрасные места, красота, тишина и живописные виды. Наслаждайтесь яркими красками осенней природы!
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-322.jpg | src: https://kasimovskie-zori.ru/news/troku10-01.jpg | alt: ""
+- new: novosti/novosti-323.jpg | src: https://kasimovskie-zori.ru/news/troku10-02.jpg | alt: ""
+- new: novosti/novosti-324.jpg | src: https://kasimovskie-zori.ru/news/troku10-03.jpg | alt: ""
+- new: novosti/novosti-325.jpg | src: https://kasimovskie-zori.ru/news/troku10-04.jpg | alt: ""
+- new: novosti/novosti-326.jpg | src: https://kasimovskie-zori.ru/news/troku10-05.jpg | alt: ""
+- new: novosti/novosti-327.jpg | src: https://kasimovskie-zori.ru/news/troku10-06.jpg | alt: ""
+- new: novosti/novosti-328.jpg | src: https://kasimovskie-zori.ru/news/troku10-07.jpg | alt: ""
+- new: novosti/novosti-329.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-mini.jpg | alt: ""
+
+### Открытие туристического маршрута "Тропа Кудеяра" {#tkudeya}
+
+26.09.2024
+
+26 сентября 2024 года состоялось открытие туристического маршрута "Тропа Кудеяра", победителя второго грантового конкурса 2024 года Президентского фонда культурных инициатив.
+
+На протяжении нескольких месяцев велась работа по подготовке к реализации туристического проекта. Совместная слаженная работа сотрудников санатория, команды проекта, неравнодушных людей, любовь к истории родного края, стали шагом к созданию первой экскурсионной тропы на данной территории.
+
+Открытие началось с торжественного мероприятия, в котором приняли участие более 120 человек. С приветственным словом к собравшимся обратился учредитель санатория "КАСИМОВСКИЕ ЗОРИ" Виктор Николаевич Зорин, он поблагодарил всех, кто принял участие в подготовке к открытию маршрута и пожелал проекту дальнейшего развития и процветания.
+
+От команды проекта выступила коммерческий директор санатория, автор заявки-победителя Татьяна Витальевна Соловьева, которая подробно рассказала об этапах реализации данного проекта и перспективах его развития.
+
+Также на мероприятии выступили почётные гости - председатель Думы Касимовского муниципального округа Ирина Ивановна Ганина и генеральный директор ООО "Мастер Медиа Групп" Николай Петрович Мальцев.
+
+В этот праздничный день состоялись первые экскурсии по маршруту тропы, прошли три мастер-класса, конкурсы и квесты. Участникам мероприятия была предложена "Каша Кудеяра", а пока собравшиеся наслаждались вкусной едой, прошла театрализованная программа "Разбойники Кудеяра". Затем победителям и всем участникам конкурсов и квестов вручили памятные подарки от санатория "КАСИМОВСКИЕ ЗОРИ".
+
+Желаем проекту успешной реализации и дальнейшего развития, а отдыхающим санатория и гостям Касимовского района прекрасного отдыха на маршруте, ведь он представляет собой незабываемое путешествие, наполненное удивительными видами природы и богатой историей данной местности. Здесь можно насладиться красотами реки Оки, познакомиться с уникальным памятником архитектуры и истории "Усадьба Олениных", погрузиться в атмосферу времен разбойника Кудеяра, загадать желание у Синь-камня, окунуться в мир новых открытий и незабываемых впечатлений.
+
+**Картинки секции:**
+- new: novosti/novosti-330.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-01.jpg | alt: ""
+- new: novosti/novosti-331.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-02.jpg | alt: ""
+- new: novosti/novosti-332.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-03.jpg | alt: ""
+- new: novosti/novosti-333.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-04.jpg | alt: ""
+- new: novosti/novosti-334.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-05.jpg | alt: ""
+- new: novosti/novosti-335.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-06.jpg | alt: ""
+- new: novosti/novosti-336.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-07.jpg | alt: ""
+- new: novosti/novosti-337.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-08.jpg | alt: ""
+- new: novosti/novosti-338.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-09.jpg | alt: ""
+- new: novosti/novosti-339.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-10.jpg | alt: ""
+- new: novosti/novosti-340.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-11.jpg | alt: ""
+- new: novosti/novosti-341.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-12.jpg | alt: ""
+- new: novosti/novosti-342.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-13.jpg | alt: ""
+- new: novosti/novosti-343.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-14.jpg | alt: ""
+- new: novosti/novosti-344.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-15.jpg | alt: ""
+- new: novosti/novosti-345.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-16.jpg | alt: ""
+- new: novosti/novosti-346.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-17.jpg | alt: ""
+- new: novosti/novosti-347.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-18.jpg | alt: ""
+- new: novosti/novosti-348.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-19.jpg | alt: ""
+- new: novosti/novosti-349.jpg | src: https://kasimovskie-zori.ru/news/tkudeya-20.jpg | alt: ""
+- new: novosti/novosti-350.jpg | src: https://kasimovskie-zori.ru/news/trokude-mini.jpg | alt: ""
+
+### Туристический маршрут "Тропа Кудеяра" полностью готов к открытию. {#trokude}
+
+24.09.2024
+
+Туристический маршрут "Тропа Кудеяра" полностью готов к открытию
+
+Приглашаем всех желающих на мероприятие, которое состоится 26 сентября в 11 часов на территории санатория "КАСИМОВСКИЕ ЗОРИ".
+
+Вы станете участниками замечательных квестов от Марии Цынгалевой, различных мастер-классов от мастериц Касимовского района, встретитесь с разбойниками и попробуете кашу "Кудеяра".
+
+Елена Слеповина проведёт экскурсию и познакомит гостей с историей усадьбы Олениных, расскажет о разбойнике Кудеяре,
+
+а ещё у вас будет возможность прикоснуться к Синь-Камню и загадать желание, которое обязательно сбудется!
+
+Приезжайте в санаторий "КАСИМОВСКИЕ ЗОРИ", будет очень интересно!
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-228.jpg | src: https://kasimovskie-zori.ru/news/trokude-00.jpg | alt: ""
+- new: novosti/novosti-351.jpg | src: https://kasimovskie-zori.ru/news/trokude-01.jpg | alt: ""
+- new: novosti/novosti-352.jpg | src: https://kasimovskie-zori.ru/news/trokude-02.jpg | alt: ""
+- new: novosti/novosti-233.jpg | src: https://kasimovskie-zori.ru/news/trokude-03.jpg | alt: ""
+- new: novosti/novosti-353.jpg | src: https://kasimovskie-zori.ru/news/trokude-04.jpg | alt: ""
+- new: novosti/novosti-354.jpg | src: https://kasimovskie-zori.ru/news/trokude-05.jpg | alt: ""
+- new: novosti/novosti-355.jpg | src: https://kasimovskie-zori.ru/news/trokude-06.jpg | alt: ""
+- new: novosti/novosti-356.jpg | src: https://kasimovskie-zori.ru/news/trokude-07.jpg | alt: ""
+- new: novosti/novosti-357.jpg | src: https://kasimovskie-zori.ru/news/trokude-08.jpg | alt: ""
+- new: novosti/novosti-358.jpg | src: https://kasimovskie-zori.ru/news/trokude-09.jpg | alt: ""
+- new: novosti/novosti-359.jpg | src: https://kasimovskie-zori.ru/news/leisure-mini.jpg | alt: ""
+
+### 30-я юбилейная Международная форум-выставка по туризму ОТДЫХ Leisure {#leisure}
+
+18.09.2024
+
+30-я юбилейная Международная форум-выставка по туризму ОТДЫХ Leisure
+
+17-18 сентября сотрудники санатория "КАСИМОВСКИЕ ЗОРИ" приняли участие в 30-ой юбилейной Международной форум-выставке по туризму ОТДЫХ Leisure, которая прошла в Москве, ЦВК «Экспоцентр», павильон «Форум».
+
+На площадке форума собрались ведущие экономисты, стратеги, маркетологи и технологи – люди, создающие и определяющие будущее путешествий, чтобы обсудить и скорректировать свои взгляды для решения самых серьезных проблем туристической отрасли.
+
+На стенде «Рязанская область» был представлен туристический потенциал города Касимова и Касимовского района, в том числе санаторий «Касимовские зори». Сотрудники санатория активно сотрудничали с представителями туристических организаций, турагентствами и туроператорами.  
+Подобные выставки—это уникальная возможность заявить о себе, найти новых партнёров, увеличить количество клиентов, одним словом, продвинуть себя и свой турпродукт. Кроме того, такие выставки помогают изучить туристический рынок: узнать спрос и увидеть актуальные предложения и новые тренды.
+
+**Картинки секции:**
+- new: novosti/novosti-360.jpg | src: https://kasimovskie-zori.ru/news/leisure-01.jpg | alt: ""
+- new: novosti/novosti-361.jpg | src: https://kasimovskie-zori.ru/news/leisure-02.jpg | alt: ""
+- new: novosti/novosti-362.jpg | src: https://kasimovskie-zori.ru/news/leisure-03.jpg | alt: ""
+- new: novosti/novosti-363.jpg | src: https://kasimovskie-zori.ru/news/leisure-04.jpg | alt: ""
+- new: novosti/novosti-364.jpg | src: https://kasimovskie-zori.ru/news/leisure-05.jpg | alt: ""
+- new: novosti/novosti-365.jpg | src: https://kasimovskie-zori.ru/news/exkursio2024-mini.jpg | alt: ""
+
+### 15 сентября отдыхающие санатория "КАСИМОВСКИЕ ЗОРИ" посетили музей необычных коллекций {#exkursio2024}
+
+17.09.2024
+
+15 сентября отдыхающие санатория "КАСИМОВСКИЕ ЗОРИ" посетили музей необычных коллекций
+
+Для гостей санатория были проведены экскурсии по всем выставкам: "Чудесный мир кукол"; "Советская коммуналка"; "По земле, по воде и по воздуху к Великой Победе"; "Модели отечественных автомобилей" и "Выставка необычных коллекций"; "18+ или Губит людей не пиво...."
+
+После экскурсий была проведена дегустация фирменных настоек и гости смогли насладиться разнообразием ароматов и оттенков, ощутить тонкие нюансы вкуса и впитать в себя богатство каждого настоя.  
+Выражаем благодарность организаторам данного мероприятия Игорю Скрипаю и владельцам музея «Тара под градусом» Ольге и Владимиру Сотниковым.
+
+**Картинки секции:**
+- new: novosti/novosti-366.jpg | src: https://kasimovskie-zori.ru/news/exkursio2024-01.jpg | alt: ""
+- new: novosti/novosti-367.jpg | src: https://kasimovskie-zori.ru/news/exkursio2024-02.jpg | alt: ""
+- new: novosti/novosti-368.jpg | src: https://kasimovskie-zori.ru/news/centrezan-mini.jpg | alt: ""
+
+### В Центре занятости населения Рязанской области {#centrezan}
+
+28.08.2024
+
+28 августа 2024 года в секторе по Касимовскому району Межрайонного территориального отделения N 2 ГКУ "Центр занятости населения Рязанской области" состоялся открытый отбор кандидатов под запросы работодателей.
+
+В мероприятии приняли участие начальник сектора по Касимовскому району МТО N 2 ГКУ ЦЗН РО Елена Козлова, специалист отдела по Касимовскому и Клепиковскому районам ГКУ РО "Управление социальной защиты населения Рязанской области" Елена Ермакова, представитель ТСЖ Окружная, 5, сотрудники ООО "КАСИМОВСКИЕ ЗОРИ".  
+Коммерческий директор ООО "КАСИМОВСКИЕ ЗОРИ" Татьяна Соловьева выступила перед участниками отбора, рассказала об условиях труда и заработной плате на предприятии, о льготах, предоставляемых сотрудникам, ответила на многочисленные вопросы.  
+Затем состоялось заседание Клуба работодателей, на котором обсудили актуальные вопросы поддержки граждан.
+
+Открытые отборы - это массовые собеседования. Соискатели приходят на площадку центра занятости, лично знакомятся с работодателями, узнают всю подробную информацию о компании, актуальных вакансиях и важных требованиях к будущим сотрудникам. При этом, в этот же день кандидаты могут получить предложение о трудоустройстве или приглашение на следующий этап собеседования. Есть преимущества и для работодателей. На открытых отборах они могут провести собеседования с десятками мотивированных кандидатов и в кратчайшие сроки закрыть вакантные позиции.
+
+**Картинки секции:**
+- new: novosti/novosti-369.jpg | src: https://kasimovskie-zori.ru/news/centrezan-01.jpg | alt: ""
+- new: novosti/novosti-370.jpg | src: https://kasimovskie-zori.ru/news/centrezan-02.jpg | alt: ""
+- new: novosti/novosti-371.jpg | src: https://kasimovskie-zori.ru/news/centrezan-03.jpg | alt: ""
+- new: novosti/novosti-372.jpg | src: https://kasimovskie-zori.ru/news/centrezan-04.jpg | alt: ""
+- new: novosti/novosti-373.jpg | src: https://kasimovskie-zori.ru/news/centrezan-05.jpg | alt: ""
+- new: novosti/novosti-374.jpg | src: https://kasimovskie-zori.ru/news/applespas2024-mini.jpg | alt: ""
+
+### Фестиваль "Яблочный Спас" {#applespas2024}
+
+18.08.2024
+
+18 августа состоялся фестиваль "Яблочный Спас" на территории санатория "КАСИМОВСКИЕ ЗОРИ"
+
+Участников фестиваля приветствовали: учредитель санатория «КАСИМОВСКИЕ ЗОРИ» Виктор Зорин, заместитель главы администрации Касимовского района по социальной политике Эльвира Андрианова, глава Крутоярского сельского поселения Юлия Кадимова, настоятель храма Преображения Господня с. Телебукино иерей Илия (Иванов).  
+Много было представлено интересных площадок, особенной популярностью пользовалось путешествие на катере по Оке, различные мастер-классы, яблочные угощения, гастрономические ряды, детские анимационные площадки.
+
+По традиции в честь проведения фестиваля был высажен саженец яблони, он стал продолжением фруктового сада нашего санатория, в котором насчитывается уже более 400 деревьев.  
+Центральной частью праздника стал конкурс на лучшую выпечку из яблок и конкурс фотографий "Эх, яблочко". Сотрудники санатория вошли в состав жюри и строго оценивали каждую работу. Коммерческий директор ООО "КАСИМОВСКИЕ ЗОРИ" Татьяна Соловьева вручила победителям подарки от санатория.
+
+**Картинки секции:**
+- new: novosti/novosti-375.jpg | src: https://kasimovskie-zori.ru/news/applespas2024-01.jpg | alt: ""
+- new: novosti/novosti-376.jpg | src: https://kasimovskie-zori.ru/news/applespas2024-02.jpg | alt: ""
+- new: novosti/novosti-377.jpg | src: https://kasimovskie-zori.ru/news/applespas2024-03.jpg | alt: ""
+- new: novosti/novosti-378.jpg | src: https://kasimovskie-zori.ru/news/applespas2024-04.jpg | alt: ""
+- new: novosti/novosti-379.jpg | src: https://kasimovskie-zori.ru/news/applespas2024-05.jpg | alt: ""
+- new: novosti/novosti-380.jpg | src: https://kasimovskie-zori.ru/news/applespas2024-06.jpg | alt: ""
+- new: novosti/novosti-381.jpg | src: https://kasimovskie-zori.ru/news/applespas2024-07.jpg | alt: ""
+- new: novosti/novosti-382.jpg | src: https://kasimovskie-zori.ru/news/applespas2024-08.jpg | alt: ""
+- new: novosti/novosti-383.jpg | src: https://kasimovskie-zori.ru/news/applespas2024-09.jpg | alt: ""
+- new: novosti/novosti-384.jpg | src: https://kasimovskie-zori.ru/news/applespas2024-10.jpg | alt: ""
+- new: novosti/novosti-385.jpg | src: https://kasimovskie-zori.ru/news/troppo0801-mini.jpg | alt: ""
+
+### Начинается ответственный момент реализации проекта {#troppo0801}
+
+02.08.2024
+
+Начинается ответственный момент реализации проекта
+
+Начинается ответственный момент реализации проекта — закупка необходимого оборудования для обустройства туристического маршрута "Тропа Кудеяра", рассмотрены все ценовые предложения, определены поставщики.  
+Сегодня на заседании команды проекта обсудили ряд рабочих вопросов. С подрядчиком еще раз провели
+
+обследование тропы, определили места установки навигационных столбов и информационных стендов.  
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-386.jpg | src: https://kasimovskie-zori.ru/news/troppo0801-01.jpg | alt: ""
+- new: novosti/novosti-387.jpg | src: https://kasimovskie-zori.ru/news/troppo0801-02.jpg | alt: ""
+- new: novosti/novosti-388.jpg | src: https://kasimovskie-zori.ru/news/troppo0801-03.jpg | alt: ""
+- new: novosti/novosti-389.jpg | src: https://kasimovskie-zori.ru/news/troppo0801-04.jpg | alt: ""
+- new: novosti/novosti-390.jpg | src: https://kasimovskie-zori.ru/news/lado-mini.jpg | alt: ""
+
+### 31 июля в санатории «КАСИМОВСКИЕ ЗОРИ» состоялся концерт кавер-группы «ЛАДО» {#lado}
+
+31.07.2024
+
+31 июля в санатории «КАСИМОВСКИЕ ЗОРИ» состоялся концерт кавер-группы «ЛАДО»
+
+Четверо молодых исполнителей принесли на сцену неповторимую энергию и живую музыку. Они исполнили любимые всеми русские народные песни, припевки, композиции современных авторов, пронизанные искренностью, любовью, большим уважением к своей земле.  
+Зрители с восторгом следили за выступлением группы, ведь в течение всего концерта артисты дарили гостям санатория
+
+хорошее настроение и позитивные впечатления, получая в ответ благодарные аплодисменты.  
+«Яркие костюмы, талантливые ребята вызвали у нас настоящий восторг. Мы по достоинству оценили их выступление, получили удовольствие и отдохнули душой», – сказала отдыхающая санатория Мария Евгеньевна.
+
+**Картинки секции:**
+- new: novosti/novosti-391.jpg | src: https://kasimovskie-zori.ru/news/lado-01.jpg | alt: ""
+- new: novosti/novosti-392.jpg | src: https://kasimovskie-zori.ru/news/lado-02.jpg | alt: ""
+- new: novosti/novosti-393.jpg | src: https://kasimovskie-zori.ru/news/lado-03.jpg | alt: ""
+- new: novosti/novosti-394.jpg | src: https://kasimovskie-zori.ru/news/lado-04.jpg | alt: ""
+- new: novosti/novosti-395.jpg | src: https://kasimovskie-zori.ru/news/tpaku-mini.jpg | alt: ""
+
+### Заседание команды проекта туристического маршрута «Тропа Кудеяра» {#tpaku}
+
+15.07.2024
+
+Заседание команды проекта туристического маршрута «Тропа Кудеяра»
+
+15 июля состоялось заседание команды проекта, на котором была рассмотрена карта-схема туристического маршрута «Тропа Кудеяра», обозначены его начало и конец, все возможные участки с естественными препятствиями, указаны места предполагаемых остановок, а также экскурсионные объекты.
+
+Благодарим архитектора Елену Шабурову за профессионально подготовленный материал, который включает стилизованные под старину элементы, отражающие графические особенности того времени. Карта-схема туристического маршрута «Тропа Кудеяра» выполнена в винтажном цифровом стиле,
+
+напоминающая географические карты старины. Она обязательно добавит для туристов нотку путешествий и загадочности, создаст атмосферу приключений, возвращая их в те далекие исторические времена.
+
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-396.jpg | src: https://kasimovskie-zori.ru/news/tpaku-01.jpg | alt: ""
+- new: novosti/novosti-397.jpg | src: https://kasimovskie-zori.ru/news/tpaku-02.jpg | alt: ""
+- new: novosti/novosti-398.jpg | src: https://kasimovskie-zori.ru/news/tpaku-03.jpg | alt: ""
+- new: novosti/novosti-399.jpg | src: https://kasimovskie-zori.ru/news/tpaku-04.jpg | alt: ""
+- new: novosti/novosti-400.jpg | src: https://kasimovskie-zori.ru/news/ttck-mini.jpg | alt: ""
+
+### Экскурсия с посещением Татарского центра культуры и искусства им. Ахмеда Ишимбаева {#ttck}
+
+23.07.2024
+
+Экскурсия с посещением Татарского центра культуры и искусства им. Ахмеда Ишимбаева
+
+Председатель Региональной национально-культурной автономии татар Рязанской области, директор центра Ильдар Бикуев радушно встретил гостей и провел для них экскурсию, он рассказал о выдающихся личностях, истории, быте, культуре и искусстве татарского народа. Гости увидели предметы старинной утвари, фотографии, татарские костюмы и народные музыкальные инструменты.
+
+Затем гости посетили главный средневековый памятник города Касимова - белокаменную мечеть XV века с высоким минаретом, Текие Шах Али хана, памятник Сююмбике – первой и единственной женщине-правителю Казанского государства.
+
+**Картинки секции:**
+- new: novosti/novosti-401.jpg | src: https://kasimovskie-zori.ru/news/ttck-01.jpg | alt: ""
+- new: novosti/novosti-402.jpg | src: https://kasimovskie-zori.ru/news/ttck-02.jpg | alt: ""
+- new: novosti/novosti-403.jpg | src: https://kasimovskie-zori.ru/news/ttck-03.jpg | alt: ""
+- new: novosti/novosti-404.jpg | src: https://kasimovskie-zori.ru/news/ttck-04.jpg | alt: ""
+- new: novosti/novosti-405.jpg | src: https://kasimovskie-zori.ru/news/ttck-05.jpg | alt: ""
+- new: novosti/novosti-406.jpg | src: https://kasimovskie-zori.ru/news/ttck-06.jpg | alt: ""
+- new: novosti/novosti-407.jpg | src: https://kasimovskie-zori.ru/news/strange-mini.jpg | alt: ""
+
+### Отдыхающие санатория "КАСИМОВСКИЕ ЗОРИ" посетили "Музей необычных коллекций" {#strange}
+
+21.07.2024
+
+Отдыхающие санатория "КАСИМОВСКИЕ ЗОРИ" посетили "Музей необычных коллекций".
+
+21 июля "Музей необычных коллекций" посетили отдыхающие из санатория "Касимовские Зори". Для гостей были проведены экскурсии по всем выставкам: "Чудесный мир кукол"; "Советская коммуналка"; "По земле, по воде и по
+
+воздуху к Великой Победе"; "Модели отечественных автомобилей" и "Выставка необычных коллекций". Гости санатория остались очень довольны посещением музея и благодарят автора проекта Игоря Скрипай за такие замечательные коллекции!
+
+**Картинки секции:**
+- new: novosti/novosti-408.jpg | src: https://kasimovskie-zori.ru/news/strange-01.jpg | alt: ""
+- new: novosti/novosti-409.jpg | src: https://kasimovskie-zori.ru/news/strange-02.jpg | alt: ""
+- new: novosti/novosti-410.jpg | src: https://kasimovskie-zori.ru/news/strange-03.jpg | alt: ""
+- new: novosti/novosti-411.jpg | src: https://kasimovskie-zori.ru/news/strange-04.jpg | alt: ""
+- new: novosti/novosti-412.jpg | src: https://kasimovskie-zori.ru/news/strange-05.jpg | alt: ""
+- new: novosti/novosti-413.jpg | src: https://kasimovskie-zori.ru/news/strange-06.jpg | alt: ""
+- new: novosti/novosti-414.jpg | src: https://kasimovskie-zori.ru/news/strange-07.jpg | alt: ""
+- new: novosti/novosti-415.jpg | src: https://kasimovskie-zori.ru/news/strange-08.jpg | alt: ""
+- new: novosti/novosti-416.jpg | src: https://kasimovskie-zori.ru/news/strange-09.jpg | alt: ""
+- new: novosti/novosti-417.jpg | src: https://kasimovskie-zori.ru/news/gusev-mini.jpg | alt: ""
+
+### Отдыхающие санатория "КАСИМОВСКИЕ ЗОРИ" посетили "Гусевские забавы" {#gusev}
+
+20.07.2024
+
+Отдыхающие санатория "КАСИМОВСКИЕ ЗОРИ" посетили "Гусевские забавы"
+
+20 июля в рабочем поселке Гусь-Железный Касимовского района состоялся праздник «Гусевские забавы», который посетили отдыхающие санатория "КАСИМОВСКИЕ ЗОРИ". В старинной усадьбе Баташевых гости праздника смогли посетить «амурную алею», на которой замерли живые статуи, цветочную оранжерею, музыкальную гостиную и гастрономическую выставку, пройтись по ярмарке мастеров – ремесленников, стать зрителями состязаний с участием пернатых спортсменов.
+
+Вечером гостей праздника порадовал прекрасный концерт, в котором приняли участие не только коллективы Касимовского района, но и исполнители из других городов.
+
+Отдыхающие санатория выразили благодарность организаторам мероприятия и пожелали дальнейших успехов в реализации данного проекта.
+
+**Картинки секции:**
+- new: novosti/novosti-418.jpg | src: https://kasimovskie-zori.ru/news/gusev-01.jpg | alt: ""
+- new: novosti/novosti-419.jpg | src: https://kasimovskie-zori.ru/news/gusev-02.jpg | alt: ""
+- new: novosti/novosti-420.jpg | src: https://kasimovskie-zori.ru/news/gusev-03.jpg | alt: ""
+- new: novosti/novosti-421.jpg | src: https://kasimovskie-zori.ru/news/gusev-04.jpg | alt: ""
+- new: novosti/novosti-422.jpg | src: https://kasimovskie-zori.ru/news/gusev-05.jpg | alt: ""
+- new: novosti/novosti-423.jpg | src: https://kasimovskie-zori.ru/news/gusev-06.jpg | alt: ""
+- new: novosti/novosti-424.jpg | src: https://kasimovskie-zori.ru/news/gusev-07.jpg | alt: ""
+- new: novosti/novosti-425.jpg | src: https://kasimovskie-zori.ru/news/gusev-08.jpg | alt: ""
+- new: novosti/novosti-426.jpg | src: https://kasimovskie-zori.ru/news/gusev-09.jpg | alt: ""
+- new: novosti/novosti-427.jpg | src: https://kasimovskie-zori.ru/news/gusev-10.jpg | alt: ""
+- new: novosti/novosti-428.jpg | src: https://kasimovskie-zori.ru/news/sovescha-mini.jpg | alt: ""
+
+### Совещание, посвящённое стратегии развития туристического комплекса Касимовского района по новой концепции {#sovescha}
+
+18.07.2024
+
+Совещание, посвящённое стратегии развития туристического комплекса Касимовского района по новой концепции
+
+18 июля на территории санатория "КАСИМОВСКИЕ ЗОРИ" состоялось совещание, посвящённое стратегии развития туристического комплекса Касимовского района по новой концепции, на котором присутствовали: вице-губернатор Рязанской области Артём Бранов, заместители председателя Правительства Наталья Суворова и Александр Шаститко, профильные министры Рязанской области, руководители районной и городской администраций Владимир Куницын и Иван Бахилов.  
+Глава администрации города Касимова Иван Бахилов представил концепцию туристического развития территорий города и района. В её основе лежит принцип рационального распределения туристических потоков, налаженная логистика и «бесшовность», предполагающая доступ гостей сразу ко всем видам туризма в зависимости от их интересов.
+
+Учредитель санатория «КАСИМОВСКИЕ ЗОРИ» Виктор Зорин рассказал о планируемых инвестиционных проектах на территории Касимовского района — строительство туристической базы отдыха и цеха по производству питьевой воды в д. Вырково, реализация которых будет способствовать развитию туризма на территории района.  
+По итогам совещания вице-губернатор обратил особое внимание на перспективу развития внутреннего туризма города Касимова и Касимовского района, комплексный подход для его развития.  
+Также в рамках встречи была проведена экскурсия по территории санатория, представлен его лечебно-оздоровительный потенциал, жилые корпуса и коттеджи для отдыхающих, спортивный комплекс.
+
+**Картинки секции:**
+- new: novosti/novosti-429.jpg | src: https://kasimovskie-zori.ru/news/sovescha-01.jpg | alt: ""
+- new: novosti/novosti-430.jpg | src: https://kasimovskie-zori.ru/news/sovescha-02.jpg | alt: ""
+- new: novosti/novosti-431.jpg | src: https://kasimovskie-zori.ru/news/sovescha-03.jpg | alt: ""
+- new: novosti/novosti-432.jpg | src: https://kasimovskie-zori.ru/news/sovescha-04.jpg | alt: ""
+- new: novosti/novosti-433.jpg | src: https://kasimovskie-zori.ru/news/sovescha-05.jpg | alt: ""
+- new: novosti/novosti-434.jpg | src: https://kasimovskie-zori.ru/news/sovescha-06.jpg | alt: ""
+- new: novosti/novosti-435.jpg | src: https://kasimovskie-zori.ru/news/sovescha-07.jpg | alt: ""
+- new: novosti/novosti-436.jpg | src: https://kasimovskie-zori.ru/news/sovescha-08.jpg | alt: ""
+- new: novosti/novosti-437.jpg | src: https://kasimovskie-zori.ru/news/sovescha-09.jpg | alt: ""
+- new: novosti/novosti-438.jpg | src: https://kasimovskie-zori.ru/news/sovescha-10.jpg | alt: ""
+- new: novosti/novosti-439.jpg | src: https://kasimovskie-zori.ru/news/troppak-mini.jpg | alt: ""
+
+### Создание туристического маршрута «Тропа Кудеяра» {#troppak}
+
+10.07.2024
+
+Создание туристического маршрута «Тропа Кудеяра»
+
+10 июля ООО «КАСИМОВСКИЕ ЗОРИ» и Президентский фонд культурных инициатив подписали договор о предоставлении гранта Президента Российской Федерации на реализацию проектов в области культуры, искусства и креативных (творческих) индустрий на реализацию проекта - создание туристического маршрута «Тропа Кудеяра».
+
+Это важный шаг по развитию нашего проекта и работа уже началась: проведено обследование тропы, состоялось первое заседание команды проекта, продолжаем работы по покосу травы на пути следования маршрута и др.  
+Проект "Создание туристического маршрута "Тропа Кудеяра" будет реализован с использованием средств Президентского фонда культурных инициатив, предоставленного Фондом Президентских Грантов.
+
+**Картинки секции:**
+- new: novosti/novosti-440.jpg | src: https://kasimovskie-zori.ru/news/troppak-01.jpg | alt: ""
+- new: novosti/novosti-441.jpg | src: https://kasimovskie-zori.ru/news/troppak-02.jpg | alt: ""
+- new: novosti/novosti-442.jpg | src: https://kasimovskie-zori.ru/news/troppak-03.jpg | alt: ""
+- new: novosti/novosti-443.jpg | src: https://kasimovskie-zori.ru/news/troppak-04.jpg | alt: ""
+- new: novosti/novosti-444.jpg | src: https://kasimovskie-zori.ru/news/troppak-05.jpg | alt: ""
+- new: novosti/novosti-445.jpg | src: https://kasimovskie-zori.ru/news/troppak-06.jpg | alt: ""
+- new: novosti/novosti-446.jpg | src: https://kasimovskie-zori.ru/news/troppak-07.jpg | alt: ""
+- new: novosti/novosti-447.jpg | src: https://kasimovskie-zori.ru/news/troppak-08.jpg | alt: ""
+- new: novosti/novosti-448.jpg | src: https://kasimovskie-zori.ru/news/nrt-mini.jpg | alt: ""
+
+### Открытие нового учебного центра в городе Касимов {#nrt}
+
+10.07.2024
+
+Открытие нового учебного центра в городе Касимов
+
+10 июля сотрудник санатория «КАСИМОВСКИЕ ЗОРИ» Елена Синицына приняла участие в открытии нового учебного центра в городе Касимов по франшизе Центра образования и развития личности. Инициатором создания проекта выступила Татьяна Курантова, генеральный директор ООО «НРТ».
+
+После официальной части прошел тренинг «Полезные IT-сервисы для продвижения вашего бизнеса». Тренинг провел основатель компании «Центр образования и развития личности», Виталий Мягков.
+
+**Картинки секции:**
+- new: novosti/novosti-449.jpg | src: https://kasimovskie-zori.ru/news/nrt-01.jpg | alt: ""
+- new: novosti/novosti-450.jpg | src: https://kasimovskie-zori.ru/news/nrt-02.jpg | alt: ""
+- new: novosti/novosti-451.jpg | src: https://kasimovskie-zori.ru/news/yarmvac-mini.jpg | alt: ""
+
+### 28 июня сотрудники санатория «КАСИМОВСКИЕ ЗОРИ» приняли участие в ярмарке вакансий {#yarmvac}
+
+28.06.2024
+
+28 июня сотрудники санатория «КАСИМОВСКИЕ ЗОРИ» приняли участие в ярмарке вакансий
+
+Площадкой для ее проведения традиционно выбран Центр культурного развития города Касимова. Главной целью проведения Всероссийской ярмарки вакансий является возможность трудоустройства незанятой молодежи, безработных граждан и всех желающих.
+
+Сотрудники нашего предприятия представили актуальные вакансии, рассказали об условиях трудоустройства, уровне заработной платы и действующих социальных гарантиях.
+
+**Картинки секции:**
+- new: novosti/novosti-452.jpg | src: https://kasimovskie-zori.ru/news/yarmvac-01.jpg | alt: ""
+- new: novosti/novosti-453.jpg | src: https://kasimovskie-zori.ru/news/yarmvac-02.jpg | alt: ""
+- new: novosti/novosti-454.jpg | src: https://kasimovskie-zori.ru/news/gapoyan-mini.jpg | alt: ""
+
+### 27 июня санаторий "КАСИМОВСКИЕ ЗОРИ" посетила сотрудник Агентства развития туризма Рязанской области Ирма Гапоян. {#gapoyan}
+
+27.06.2024
+
+27 июня санаторий "КАСИМОВСКИЕ ЗОРИ" посетила сотрудник Агентства развития туризма Рязанской области Ирма Гапоян.
+
+На заседании круглого стола со специалистами туриндустрии города Касимова и Касимовского района обсудили планы по реализации туристического маршрута "Тропа Кудеяра", который одержал победу в Президентском фонде культурных инициатив.
+
+Затем гости санатория прошли по маршруту тропы, провели оценку непосредственно самого маршрута, а также прилегающей к нему территории,
+
+посетили объект федерального значения - Усадьбу Олениных (XVIII-XIX вв) и поднялись на "Красную гору", которая по легенде служила дозором знаменитому разбойнику.
+
+На основании собранных данных будут даны рекомендации по развитию объекта и возможности создания дополнительной сети маршрутов. Самое главное - обеспечить максимальную безопасность для туристов, при этом сохранив аутентичность и красоту тропы.
+
+**Картинки секции:**
+- new: novosti/novosti-455.jpg | src: https://kasimovskie-zori.ru/news/gapoyan-01.jpg | alt: ""
+- new: novosti/novosti-456.jpg | src: https://kasimovskie-zori.ru/news/gapoyan-02.jpg | alt: ""
+- new: novosti/novosti-457.jpg | src: https://kasimovskie-zori.ru/news/gapoyan-03.jpg | alt: ""
+- new: novosti/novosti-458.jpg | src: https://kasimovskie-zori.ru/news/gapoyan-04.jpg | alt: ""
+- new: novosti/novosti-459.jpg | src: https://kasimovskie-zori.ru/news/gapoyan-05.jpg | alt: ""
+- new: novosti/novosti-460.jpg | src: https://kasimovskie-zori.ru/news/gapoyan-06.jpg | alt: ""
+- new: novosti/novosti-461.jpg | src: https://kasimovskie-zori.ru/news/gapoyan-07.jpg | alt: ""
+- new: novosti/novosti-462.jpg | src: https://kasimovskie-zori.ru/news/gapoyan-08.jpg | alt: ""
+- new: novosti/novosti-463.jpg | src: https://kasimovskie-zori.ru/news/gapoyan-09.jpg | alt: ""
+- new: novosti/novosti-464.jpg | src: https://kasimovskie-zori.ru/news/filarmo-mini.jpg | alt: ""
+
+### 27 июня солисты Рязанской филармонии выступили в санатории "КАСИМОВСКИЕ ЗОРИ" {#filarmo}
+
+27.06.2024
+
+27 июня солисты Рязанской филармонии выступили в санатории "КАСИМОВСКИЕ ЗОРИ"
+
+Зрители услышали прекрасное выступление заслуженной артистки России, лауреата премии Рязанской области им. А.П. Аверкина Ларисы Голиковой, голос который покоряет сердца каждого, кто любит и ценит русский романс, русскую народную песню.
+
+Также на сцене выступили: лауреат международных конкурсов Екатерина Астафьева (гитара) и заслуженный артист России, балалаечник, композитор и аранжировщик Виктор Колупаев.
+
+Репертуар артистов был обширен, а высокая культура исполнения, профессионализм и яркий артистизм сделали концерт поистине запоминающимся для слушателей.
+
+"Это очень хорошее событие в культурной жизни. Приехав на отдых в санаторий, и попасть на такой великолепный концерт, для меня это огромный подарок. Ведь сегодня у нас была уникальная возможность услышать замечательную музыку и прекрасные голоса профессиональных артистов", - поделилась своими впечатлениями отдыхающая санатория Татьяна Ивановна.
+
+**Картинки секции:**
+- new: novosti/novosti-465.jpg | src: https://kasimovskie-zori.ru/news/filarmo-01.jpg | alt: ""
+- new: novosti/novosti-466.jpg | src: https://kasimovskie-zori.ru/news/filarmo-02.jpg | alt: ""
+- new: novosti/novosti-467.jpg | src: https://kasimovskie-zori.ru/news/mybusiness-mini.jpg | alt: ""
+
+### Семинар по развитию туристической отрасли для субъектов малого и среднего предпринимательства {#mybusiness}
+
+26.06.2024
+
+Семинар по развитию туристической отрасли для субъектов малого и среднего предпринимательства
+
+26 июня Центр «Мой бизнес» Агентства развития бизнеса и Центр поддержки предпринимательства города Касимова организовали обучающее мероприятие для предпринимателей, работающих в туристической отрасли с целью — помочь развить сферу гостеприимства, повысить туристическую привлекательность города и района, создать современные проекты, которые высоко оценят гости Рязанской области.
+
+Полина Павлова - руководитель Центра «Мой бизнес» поделилась опытом продвижения территории на примере города Сарапула, который стал флагманом отрасли в Удмуртии.
+
+Магамед Водовсков (Магуша) - блогер, инфлюэнсер, контент-мейкер на примере сайта «КАСИМОВСКИЕ ЗОРИ» рассказал о том, как повысить привлекательность туристических объектов в соцсетях. Дмитрий Кирилин - ресторатор, автор и исполнитель проектов «Графин» и «Старый мельник» рассказал о новых и эффективных технологиях продвижения товара.
+
+В заключение мероприятия был проведен мастер-класс по приготовлению оригинальных блюд. На дегустации был представлен десерт «Касимов», который покорил всех не только своими вкусовыми качествами, но и внешним видом с прекрасной подачей.  
+Мы благодарим всех организаторов мероприятия, программа была очень насыщенной и интересной!
+
+**Картинки секции:**
+- new: novosti/novosti-468.jpg | src: https://kasimovskie-zori.ru/news/mybusiness-01.jpg | alt: ""
+- new: novosti/novosti-469.jpg | src: https://kasimovskie-zori.ru/news/mybusiness-02.jpg | alt: ""
+- new: novosti/novosti-470.jpg | src: https://kasimovskie-zori.ru/news/mybusiness-03.jpg | alt: ""
+- new: novosti/novosti-471.jpg | src: https://kasimovskie-zori.ru/news/mybusiness-04.jpg | alt: ""
+- new: novosti/novosti-472.jpg | src: https://kasimovskie-zori.ru/news/mybusiness-05.jpg | alt: ""
+- new: novosti/novosti-473.jpg | src: https://kasimovskie-zori.ru/news/mybusiness-06.jpg | alt: ""
+- new: novosti/novosti-474.jpg | src: https://kasimovskie-zori.ru/news/mybusiness-07.jpg | alt: ""
+- new: novosti/novosti-475.jpg | src: https://kasimovskie-zori.ru/news/mybusiness-08.jpg | alt: ""
+- new: novosti/novosti-476.jpg | src: https://kasimovskie-zori.ru/news/drojd-mini.jpg | alt: ""
+
+### Поздравление с днем рождения {#drojd}
+
+26.06.2024
+
+Стало доброй традицией поздравление с днем рождения отдыхающих санатория «КАСИМОВСКИЕ ЗОРИ»
+
+Сегодня мы чествовали Ирину Викторовну, которая приезжает к нам уже 8 раз на лечение и отдых.
+
+- Первый раз приехала в санаторий в 2016 году и вижу, как с каждым годом улучшается и благоустраивается территория. Лечебно-профилактические мероприятия с каждым разом становятся более разнообразными. На питание иногда были нарекания, но постоянная забота руководства привела к великолепным результатам, сейчас организовано замечательное питание по системе «Шведский стол» с большим разнообразием вкусных блюд.
+
+Культурно-массовая работа поставлена на качественный уровень, предлагаются различные экскурсии по Касимову и Касимовскому району. Очень профессионально работает весь медицинский персонал санатория, прекрасно трудятся горничные, внимательно и заботливо относятся к нам администраторы. Большое всем спасибо, - говорит Ирина Викторовна, - обязательно приеду к вам еще.
+
+Мы поздравляем дорогую именинницу, желаем ей крепкого здоровья, счастья, благополучия, дальнейших успехов в делах и исполнения всех желаний!
+
+**Картинки секции:**
+- new: novosti/novosti-477.jpg | src: https://kasimovskie-zori.ru/news/drojd-01.jpg | alt: ""
+- new: novosti/novosti-478.jpg | src: https://kasimovskie-zori.ru/news/drojd-02.jpg | alt: ""
+- new: novosti/novosti-479.jpg | src: https://kasimovskie-zori.ru/news/children-mini.jpg | alt: ""
+
+### Санаторий «КАСИМОВСКИЕ ЗОРИ» очень внимательно относится к приезду наших маленьких гостей {#children}
+
+26.06.2024
+
+Санаторий «КАСИМОВСКИЕ ЗОРИ» очень внимательно относится к приезду наших маленьких гостей
+
+Мы подготовили детские комнаты, закупили новые игрушки, установили дополнительные элементы на детскую площадку. Всё это порадует юных отдыхающих в летние дни отдыха.
+
+**Картинки секции:**
+- new: novosti/novosti-480.jpg | src: https://kasimovskie-zori.ru/news/children-01.jpg | alt: ""
+- new: novosti/novosti-481.jpg | src: https://kasimovskie-zori.ru/news/children-02.jpg | alt: ""
+- new: novosti/novosti-482.jpg | src: https://kasimovskie-zori.ru/news/children-03.jpg | alt: ""
+- new: novosti/novosti-483.jpg | src: https://kasimovskie-zori.ru/news/children-04.jpg | alt: ""
+- new: novosti/novosti-484.jpg | src: https://kasimovskie-zori.ru/news/children-05.jpg | alt: ""
+- new: novosti/novosti-485.jpg | src: https://kasimovskie-zori.ru/news/children-06.jpg | alt: ""
+- new: novosti/novosti-486.jpg | src: https://kasimovskie-zori.ru/news/tvorvech-mini.jpg | alt: ""
+
+### Творческий вечер-встреча с Виктором Михайловичем Нуждиным {#tvorvech}
+
+24.06.2024
+
+Творческий вечер-встреча с Виктором Михайловичем Нуждиным
+
+Стало доброй традицией проведение в санатории "КАСИМОВСКИЕ ЗОРИ" творческих вечеров-встреч с Виктором Михайловичем Нуждиным, который дарит отдыхающим хорошее настроение и радость. Народные песни, частушки, задорные наигрыши, мелодичные напевы народного инструмента с первых минут
+
+погружают всех участников вечера в атмосферу дружбы, взаимопонимания и единения. Положительная энергия и непосредственное выражение зрительских симпатий создают действительно праздничную, весёлую атмосферу на таких встречах в нашем санатории.
+
+**Картинки секции:**
+- new: novosti/novosti-487.jpg | src: https://kasimovskie-zori.ru/news/tvorvech-01.jpg | alt: ""
+- new: novosti/novosti-488.jpg | src: https://kasimovskie-zori.ru/news/tvorvech-02.jpg | alt: ""
+- new: novosti/novosti-489.jpg | src: https://kasimovskie-zori.ru/news/tvorvech-03.jpg | alt: ""
+- new: novosti/novosti-490.jpg | src: https://kasimovskie-zori.ru/news/tvorvech-04.jpg | alt: ""
+- new: novosti/novosti-491.jpg | src: https://kasimovskie-zori.ru/news/tvorvech-05.jpg | alt: ""
+- new: novosti/novosti-492.jpg | src: https://kasimovskie-zori.ru/news/tvorvech-06.jpg | alt: ""
+- new: novosti/novosti-493.jpg | src: https://kasimovskie-zori.ru/news/tvorvech-07.jpg | alt: ""
+- new: novosti/novosti-494.jpg | src: https://kasimovskie-zori.ru/news/svtr-mini.jpg | alt: ""
+
+### В день Святой Троицы {#svtr}
+
+23.06.2024
+
+В день Святой Троицы отдыхающие санатория "КАСИМОВСКИЕ ЗОРИ" посетили Никольский Шостьенский ставропигиальный женский монастырь
+
+Гости санатория познакомились с историей монастыря, пообщались с сестрами - монахинями, продегустировали молочную продукцию собственного производства. "Я была в истинно духовном, райском месте, где царят красота природы, доброта людей, гостеприимство ее обитателей", - отметила одна из гостей санатория Ирина.
+
+**Картинки секции:**
+- new: novosti/novosti-495.jpg | src: https://kasimovskie-zori.ru/news/svtr-01.jpg | alt: ""
+- new: novosti/novosti-496.jpg | src: https://kasimovskie-zori.ru/news/svtr-02.jpg | alt: ""
+- new: novosti/novosti-497.jpg | src: https://kasimovskie-zori.ru/news/firstcorp-mini.jpg | alt: ""
+
+### Торжественное открытие Первого корпуса торговых рядов {#firstcorp}
+
+18.06.2024
+
+17 июня состоялось торжественное открытие Первого корпуса торговых рядов после долгих лет реставрации.
+
+Касимов – один из немногих городов России, сохранивший внушительный комплекс торговых рядов начала XIX века. Парадными воротами города Касимова всегда была Соборная площадь.
+
+Церемония продолжилась официальным открытием ТИЦ города Касимова, презентацией новых музейных пространств, располагающихся в залах торгового корпуса и "Школы ремесел" Касимовского историко-культурного музея-заповедника.
+
+После презентации залов состоялся Совет по туризму, на котором коммерческий директор ООО "КАСИМОВСКИЕ ЗОРИ" Татьяна Соловьева рассказала о проекте - создание туристического маршрута «Тропа Кудеяра», который одержал победу в грантовом конкурсе Президентского фонда культурных инициатив 2024 года.  
+На встрече также были презентованы новые интересные проекты, которые реализуются в Касимове и Касимовском районе, намечены планы на совместную работу в области развития туризма.
+
+**Картинки секции:**
+- new: novosti/novosti-498.jpg | src: https://kasimovskie-zori.ru/news/firstcorp-01.jpg | alt: ""
+- new: novosti/novosti-499.jpg | src: https://kasimovskie-zori.ru/news/firstcorp-02.jpg | alt: ""
+- new: novosti/novosti-500.jpg | src: https://kasimovskie-zori.ru/news/firstcorp-03.jpg | alt: ""
+- new: novosti/novosti-501.jpg | src: https://kasimovskie-zori.ru/news/firstcorp-04.jpg | alt: ""
+- new: novosti/novosti-502.jpg | src: https://kasimovskie-zori.ru/news/rhino-mini.jpg | alt: ""
+
+### ООО «КАСИМОВСКИЕ ЗОРИ» одержали победу в национальной премии для предпринимателей «Бизнес-успех» {#rhino}
+
+29.05.2024
+
+ООО «КАСИМОВСКИЕ ЗОРИ» одержали победу в национальной премии для предпринимателей «Бизнес-успех»
+
+Церемония подвела итог регионального этапа форума «Пробизнес 2024». Теперь санаторий будет представлять Рязанскую область на всероссийском конкурсе «Бизнес-Успех» в городе Москве.
+
+Оценивалось как общее качество ведения бизнеса, так и креативность подходов к развитию, работа с системами господдержки и степень социальной ответственности.  
+В качестве символа победы в конкурентной борьбе за звание лучших в сфере частной инициативы победителям вручили фигурки золотых носорогов.
+
+**Картинки секции:**
+- new: novosti/novosti-503.jpg | src: https://kasimovskie-zori.ru/news/rhino-01.jpg | alt: ""
+- new: novosti/novosti-504.jpg | src: https://kasimovskie-zori.ru/news/rhino-02.jpg | alt: ""
+- new: novosti/novosti-505.jpg | src: https://kasimovskie-zori.ru/news/rhino-03.jpg | alt: ""
+- new: novosti/novosti-506.jpg | src: https://kasimovskie-zori.ru/news/rhino-04.jpg | alt: ""
+- new: novosti/novosti-507.jpg | src: https://kasimovskie-zori.ru/news/mercury-mini.jpg | alt: ""
+
+### ООО "КАСИМОВСКИЕ ЗОРИ" стало лауреатом премии "Золотой Меркурий" {#mercury}
+
+29.05.2024
+
+ООО "КАСИМОВСКИЕ ЗОРИ" стало лауреатом премии "Золотой Меркурий"
+
+29 мая 2024 года на территории Московской торгово-промышленной палаты (МТПП) прошла торжественная церемония награждения победителей Московского этапа конкурса национальной премии в области предпринимательской деятельности «Золотой Меркурий» по итогам 2023 года. Целью Конкурса является содействие развитию предпринимательства в России, обеспечение возможности предпринимателям представить лучшие образцы продукции и услуг,
+
+передовые отечественные бизнес-модели, а также популяризация идеи социальной ответственности бизнеса, укрепление традиций российского предпринимательства, формирование уважительного отношения общества к бизнесу.  
+ООО "КАСИМОВСКИЕ ЗОРИ" стало лауреатом премии "Золотой Меркурий", заняв почетное второе место в номинации «Лучшее малое предприятие в сфере услуг», получив от организаторов конкурса диплом МТПП и памятный знак.
+
+**Картинки секции:**
+- new: novosti/novosti-508.jpg | src: https://kasimovskie-zori.ru/news/mercury-01.jpg | alt: ""
+- new: novosti/novosti-509.jpg | src: https://kasimovskie-zori.ru/news/mercury-02.jpg | alt: ""
+- new: novosti/novosti-510.jpg | src: https://kasimovskie-zori.ru/news/mercury-03.jpg | alt: ""
+- new: novosti/novosti-511.jpg | src: https://kasimovskie-zori.ru/news/mercury-04.jpg | alt: ""
+- new: novosti/novosti-512.jpg | src: https://kasimovskie-zori.ru/news/webrf-mini.jpg | alt: ""
+
+### Международная выставка-форум "Россия" {#webrf}
+
+24.05.2024
+
+Международная выставка-форум "Россия".
+
+24 мая на Международной выставке-форуме "Россия" в павильоне № 59 "ВЭБ.РФ. Города для жизни сбываются" в преддверии Дня предпринимателя состоялась встреча председателя государственного фонда поддержки участников СВО "Защитники Отечества" Анны Цивилевой с предпринимателями — участниками движения "Бизнес-мобилизация".
+
+Сотрудники санатория приняли участие в работе круглого стола, посетили выставку "Герои спецоперации".
+
+ООО «КАСИМОВСКИЕ ЗОРИ» были вручены Благодарственное письмо и сертификат на обучение в школе бизнеса «СИНЕРГИЯ».
+
+**Картинки секции:**
+- new: novosti/novosti-513.jpg | src: https://kasimovskie-zori.ru/news/webrf-01.jpg | alt: ""
+- new: novosti/novosti-514.jpg | src: https://kasimovskie-zori.ru/news/webrf-02.jpg | alt: ""
+- new: novosti/novosti-515.jpg | src: https://kasimovskie-zori.ru/news/webrf-03.jpg | alt: ""
+- new: novosti/novosti-516.jpg | src: https://kasimovskie-zori.ru/news/webrf-04.jpg | alt: ""
+- new: novosti/novosti-517.jpg | src: https://kasimovskie-zori.ru/news/webrf-05.jpg | alt: ""
+- new: novosti/novosti-518.jpg | src: https://kasimovskie-zori.ru/news/webrf-06.jpg | alt: ""
+- new: novosti/novosti-519.jpg | src: https://kasimovskie-zori.ru/news/svo-mini.jpg | alt: ""
+
+### Сбор гуманитарной помощи {#svo}
+
+28.05.2024
+
+Сбор гуманитарной помощи
+
+Российские военные, выполняющие задачи в зоне специальной военной операции, нуждаются в максимальной поддержке.
+
+Сбор гуманитарной помощи – это самое малое, что мы можем сделать, чтобы помочь нашим землякам, участвующим в СВО.
+
+Очередную партию необходимых вещей для наших военных подготовили сотрудники санатория "КАСИМОВСКИЕ ЗОРИ", которая совсем скоро будет направлена в благотворительный фонд "Форпост", созданный на базе ГБУК Рязанской области "Библиотека им. Горького". Ребятам очень важна наша поддержка, душевное тепло, забота и внимание. Желаем им крепкого боевого духа и скорейшего возвращения домой.
+
+**Картинки секции:**
+- new: novosti/novosti-520.jpg | src: https://kasimovskie-zori.ru/news/svo-01.jpg | alt: ""
+- new: novosti/novosti-521.jpg | src: https://kasimovskie-zori.ru/news/svo-02.jpg | alt: ""
+- new: novosti/novosti-522.jpg | src: https://kasimovskie-zori.ru/news/svo-03.jpg | alt: ""
+- new: novosti/novosti-523.jpg | src: https://kasimovskie-zori.ru/news/svo-04.jpg | alt: ""
+- new: novosti/novosti-524.jpg | src: https://kasimovskie-zori.ru/news/india-mini.jpg | alt: ""
+
+### Международный торгово-промышленный конгресс «Инвестиции. Развитие. Кооперация» {#india}
+
+22.05.2024
+
+20 мая сотрудники санатория "КАСИМОВСКИЕ ЗОРИ" приняли участие в Международном торгово-промышленном конгрессе «Инвестиции. Развитие. Кооперация», который проходил в Центральном выставочном центре «Экспоцентр» в городе Москве.
+
+«Металлообработка-2024» – крупнейший выставочный проект в России в области станкостроения и металлообработки. На выставке свою продукцию представили более 1 200 компаний из России, Республики Беларусь, Китая, Турции, Индии, Республики Корея и Италии.
+
+Сотрудники ООО "КАСИМОВСКИЕ ЗОРИ" рассказали о своей работе представителям промышленных предприятий, которые демонстрировали современное оборудование и технологии металлообрабатывающей отрасли на выставке, пригласили их на отдых и оздоровление в санаторий.
+
+**Картинки секции:**
+- new: novosti/novosti-525.jpg | src: https://kasimovskie-zori.ru/news/india-01.jpg | alt: ""
+- new: novosti/novosti-526.jpg | src: https://kasimovskie-zori.ru/news/india-02.jpg | alt: ""
+- new: novosti/novosti-527.jpg | src: https://kasimovskie-zori.ru/news/india-03.jpg | alt: ""
+- new: novosti/novosti-528.jpg | src: https://kasimovskie-zori.ru/news/india-04.jpg | alt: ""
+- new: novosti/novosti-529.jpg | src: https://kasimovskie-zori.ru/news/india-05.jpg | alt: ""
+- new: novosti/novosti-530.jpg | src: https://kasimovskie-zori.ru/news/india-06.jpg | alt: ""
+- new: novosti/novosti-531.jpg | src: https://kasimovskie-zori.ru/news/india-07.jpg | alt: ""
+- new: novosti/novosti-532.jpg | src: https://kasimovskie-zori.ru/news/india-08.jpg | alt: ""
+- new: novosti/novosti-533.jpg | src: https://kasimovskie-zori.ru/news/india-09.jpg | alt: ""
+- new: novosti/novosti-534.jpg | src: https://kasimovskie-zori.ru/news/coffe-mini.jpg | alt: ""
+
+### Мастер-класс по завариванию кофе и чая {#coffe}
+
+22.05.2024
+
+Мастер-класс по завариванию кофе и чая
+
+18 мая в санатории "КАСИМОВСКИЕ ЗОРИ" Игорь Морозов - бариста Keeper of grains, профессионально провел дегустацию и мастер-класс по завариванию предлагаемых сортов кофе и чая.
+
+Проведение каппингов и дегустаций позволило отдыхающим санатория попробовать разные сорта чая и кофе и выбрать свой любимый напиток. Благодарим Сергея Курганова за организацию такого мероприятия!
+
+**Картинки секции:**
+- new: novosti/novosti-535.jpg | src: https://kasimovskie-zori.ru/news/coffe-01.jpg | alt: ""
+- new: novosti/novosti-536.jpg | src: https://kasimovskie-zori.ru/news/coffe-02.jpg | alt: ""
+- new: novosti/novosti-537.jpg | src: https://kasimovskie-zori.ru/news/familyyear-mini.jpg | alt: ""
+
+### 2024 год в России объявлен Годом семьи {#familyyear}
+
+16.05.2024
+
+15 мая в санатории «КАСИМОВСКИЕ ЗОРИ» состоялось мероприятие, посвященное Международному дню семьи.
+
+Семья – это самое главное, что есть у каждого из нас. Она держится на взаимопонимании, любви, доверии, заботе друг о друге, радости от совместной деятельности.  
+Творческим подарком для отдыхающих в этот день стало выступление участницы фольклорного ансамбля «Колпица» города Колпино района Санкт-Петербурга Елены Курбатовой.
+
+Присутствующие тепло и радушно встретили Елену, которая под аккомпанемент гармониста Виктора Нуждина исполнила русские народные песни.
+
+Выступление музыкантов сложилось в яркую интересную программу, которая подарила отличное настроение гостям нашего санатория.
+
+**Картинки секции:**
+- new: novosti/novosti-538.jpg | src: https://kasimovskie-zori.ru/news/familyyear-01.jpg | alt: ""
+- new: novosti/novosti-539.jpg | src: https://kasimovskie-zori.ru/news/familyyear-02.jpg | alt: ""
+- new: novosti/novosti-540.jpg | src: https://kasimovskie-zori.ru/news/familyyear-03.jpg | alt: ""
+- new: novosti/novosti-541.jpg | src: https://kasimovskie-zori.ru/news/business2024-mini.jpg | alt: ""
+
+### XIII финал Национальной предпринимательской премии «Бизнес-Успех» {#business2024}
+
+15.04.2024
+
+10 апреля сотрудники санатория «КАСИМОВСКИЕ ЗОРИ» посетили главное бизнес-событие года — XIII финал Национальной предпринимательской премии «Бизнес-Успех», которая состоялась в Москве.
+
+Организаторами Премии выступили Корпорация «Синергия», Школа Бизнеса «Синергия», Российская государственная корпорация развития ВЭБ.РФ, Общероссийская общественная организация «Опора России», «Деловая Россия», Российский союз промышленников и предпринимателей, Торгово-промышленная палата РФ, при поддержке Общественной палаты Российской Федерации. Новыми партнерами Премии стали Всероссийская политическая партия «Единая Россия», проект «Предпринимательство».
+
+Премия «Бизнес-Успех» объединила ведущих специалистов, лекторов, предпринимателей и бизнесменов со всей России. На форумной части суперфинала Премии прошли мастер-классы от ведущих российских компаний, с лекциями
+
+выступили одни из главных экспертов страны: бизнес-сообщества и предприниматели.
+
+Победителями федерального этапа стали 20 предпринимателей. Они получили главные символы Премии — «Золотой домкрат» и «Золотой носорог», а также крупные подарки от партнеров и организаторов конкурса.
+
+В ходе мероприятия сотрудники санатория провели встречи с руководителями и представителями бизнеса регионов России, на которых обсуждались вопросы взаимного сотрудничества. Встречи прошли плодотворно и интересно, все присутствующие получили приглашение на отдых и оздоровление в «КАСИМОВСКИЕ ЗОРИ».
+
+**Картинки секции:**
+- new: novosti/novosti-542.jpg | src: https://kasimovskie-zori.ru/news/business2024-01.jpg | alt: ""
+- new: novosti/novosti-543.jpg | src: https://kasimovskie-zori.ru/news/business2024-02.jpg | alt: ""
+- new: novosti/novosti-544.jpg | src: https://kasimovskie-zori.ru/news/business2024-03.jpg | alt: ""
+- new: novosti/novosti-545.jpg | src: https://kasimovskie-zori.ru/news/business2024-04.jpg | alt: ""
+- new: novosti/novosti-546.jpg | src: https://kasimovskie-zori.ru/news/business2024-05.jpg | alt: ""
+- new: novosti/novosti-547.jpg | src: https://kasimovskie-zori.ru/news/business2024-06.jpg | alt: ""
+- new: novosti/novosti-548.jpg | src: https://kasimovskie-zori.ru/news/business2024-07.jpg | alt: ""
+- new: novosti/novosti-549.jpg | src: https://kasimovskie-zori.ru/news/vdnx-mini.jpg | alt: ""
+
+### Cотрудники санатория «КАСИМОВСКИЕ ЗОРИ» посетили ВДНХ {#vdnx}
+
+09.04.2024
+
+Cотрудники санатория «КАСИМОВСКИЕ ЗОРИ» посетили ВДНХ
+
+Особое внимание они уделили площадке Рязанской области, здесь ярко были представлены достижения, культурные особенности и историческое достояние нашего края. Центральным элементом рязанского стенда стал аэростат, символизирующий рязанское небо.
+
+Международная выставка-форум «Россия» - это самое масштабное мероприятие последних лет, где все 8 регионов
+
+нашей страны представляют свои главные достижения, рассказывают о своей культуре и традициях.
+
+В целом, выставка — прекрасный способ ещё раз поразиться тому, какая большая и многогранная у нас страна, где есть столько прекрасных мест и замечательных возможностей!
+
+**Картинки секции:**
+- new: novosti/novosti-550.jpg | src: https://kasimovskie-zori.ru/news/vdnx-01.jpg | alt: ""
+- new: novosti/novosti-551.jpg | src: https://kasimovskie-zori.ru/news/vdnx-02.jpg | alt: ""
+- new: novosti/novosti-552.jpg | src: https://kasimovskie-zori.ru/news/vdnx-03.jpg | alt: ""
+- new: novosti/novosti-553.jpg | src: https://kasimovskie-zori.ru/news/vdnx-04.jpg | alt: ""
+- new: novosti/novosti-554.jpg | src: https://kasimovskie-zori.ru/news/vdnx-05.jpg | alt: ""
+- new: novosti/novosti-555.jpg | src: https://kasimovskie-zori.ru/news/vdnx-06.jpg | alt: ""
+- new: novosti/novosti-556.jpg | src: https://kasimovskie-zori.ru/news/vdnx-07.jpg | alt: ""
+- new: novosti/novosti-557.jpg | src: https://kasimovskie-zori.ru/news/vdnx-08.jpg | alt: ""
+- new: novosti/novosti-558.jpg | src: https://kasimovskie-zori.ru/news/omon-mini.jpg | alt: ""
+
+### Благодарственное письмо {#omon}
+
+08.04.2024
+
+ООО «КАСИМОВСКИЕ ЗОРИ» получило благодарственное письмо от ОМОН «Витяч» Управления Росгвардии по Рязанской области
+
+Сегодня, когда страна живет в условиях специальной военной операции, общество объединило усилия для поддержки наших бойцов и их семей, ведь солдаты должны чувствовать, что они не одни, что их здесь поддерживают, в них верят, что за ними есть надежный тыл. ООО «КАСИМОВСКИЕ ЗОРИ» оказывает помощь не только участникам специальной военной операции и их семьям, но и структурам, которые находятся в зоне СВО.
+
+10 апреля коллектив санатория получил благодарственное письмо от личного состава ОМОН «Витяч» Управления Росгвардии по Рязанской области за проявленную поддержку и оказанную помощь в подготовке сотрудников Отряда к выполнению служебно-боевых задач в СВО.
+
+**Картинки секции:**
+- new: novosti/novosti-559.jpg | src: https://kasimovskie-zori.ru/news/omon-01.jpg | alt: ""
+- new: novosti/novosti-560.jpg | src: https://kasimovskie-zori.ru/news/tppryao-mini.jpg | alt: ""
+
+### Презентация новых членов ТПП Рязанской области {#tppryao}
+
+09.04.2024
+
+Презентация новых членов ТПП Рязанской области
+
+9 апреля в Точке кипения состоялась торжественная церемония вручения членских билетов. Председатель торгово-промышленной палаты Рязанской области Людмила Козлова вручила новым членам Палаты, в том числе генеральному директору ООО "КАСИМОВСКИЕ ЗОРИ" Олегу Мешкову, членские
+
+билеты и пожелала всем присутствующим успешной совместной работы на благо региона и бизнеса.
+
+Палата в настоящее время уже объединяет более 900 предприятий, организаций и индивидуальных предпринимателей. Она является одной из ведущих по членской базе среди торгово-промышленных палат ЦФО.
+
+**Картинки секции:**
+- new: novosti/novosti-561.jpg | src: https://kasimovskie-zori.ru/news/tppryao-01.jpg | alt: ""
+- new: novosti/novosti-562.jpg | src: https://kasimovskie-zori.ru/news/murrom2024-mini.jpg | alt: ""
+
+### Работники Муромского стрелочного завода в санатории Касимовские зори {#murrom2024}
+
+03.04.2024
+
+Работники Муромского стрелочного завода отдыхают и укрепляют свое здоровье в санатории Касимовские зори.
+
+Туры выходного дня в эту здравницу пользуются среди заводчан особой популярностью.  
+В 2024 году в Касимовские зори мы начали ездить в марте и будем продолжать это делать ежемесячно. Причем в летний период планируем по два заезда в месяц, так как именно в это время желающих насладиться оздоровительным отдыхом в санатории очень много.  
+К первому весеннему месяцу работники МСЗ очень соскучились по любимому месту отдыха, поэтому все доступные места забронировали буквально за несколько дней.  
+Мартовский отдых не оставил никого равнодушным. За время нашего отсутствия в санатории произошло много изменений, которые пришлись по нраву заводчанам. Подробности нам рассказала юристконсульт юридического управления Алена Харчевникова:  
+- Отдохнули, как всегда, прекрасно. Понравилось все, но на этот раз особенно впечатлило питание, оно изменилось кардинально. Теперь в столовой санатория каждый найдет блюдо на свой вкус, ведь в этом году питание отдыхающих
+
+там организовано по системе «шведский стол». И столы, действительно, ломились от изобилия всевозможных яств: несколько супов, несколько гарниров, рыба, мясо, всевозможные кондитерские изделия и выпечка. Мы были приятно удивлены. Причем по мере опустошения емкости тут же наполняли пищей. И еще одно приятное нововведение коснулось оздоровительных процедур. Теперь тем, кто не хочет принимать йодобромную ванну, которая входит в программу оздоровления заводчан, можно заменить эту процедуру на аппаратный массаж ног или спины.
+
+Напоминаем, что в санатории Касимовские зори работники Муромского стрелочного завода и члены их семей (муж/жена, дети, которые находятся на иждивении родителей) могут отдохнуть по льготной цене (всего 2000 рублей с человека за выходные). Но сделать это можно лишь один раз в году (при наличии свободных мест два раза в год). Также по итогам заезда членам профсоюза возвращается на банковскую карту 1000 рублей.
+
+**Картинки секции:**
+- new: novosti/novosti-563.jpg | src: https://kasimovskie-zori.ru/news/murrom2024-01.jpg | alt: ""
+- new: novosti/novosti-564.jpg | src: https://kasimovskie-zori.ru/news/murrom2024-02.jpg | alt: ""
+- new: novosti/novosti-565.jpg | src: https://kasimovskie-zori.ru/news/murrom2024-03.jpg | alt: ""
+- new: novosti/novosti-566.jpg | src: https://kasimovskie-zori.ru/news/murrom2024-04.jpg | alt: ""
+- new: novosti/novosti-567.jpg | src: https://kasimovskie-zori.ru/news/murrom2024-05.jpg | alt: ""
+- new: novosti/novosti-568.jpg | src: https://kasimovskie-zori.ru/news/murrom2024-06.jpg | alt: ""
+- new: novosti/novosti-569.jpg | src: https://kasimovskie-zori.ru/news/murrom2024-07.jpg | alt: ""
+- new: novosti/novosti-570.jpg | src: https://kasimovskie-zori.ru/news/murrom2024-08.jpg | alt: ""
+- new: novosti/novosti-571.jpg | src: https://kasimovskie-zori.ru/news/murrom2024-09.jpg | alt: ""
+- new: novosti/novosti-572.jpg | src: https://kasimovskie-zori.ru/news/turgor-mini.jpg | alt: ""
+
+### Первая всероссийская премия «Туристические города» {#turgor}
+
+01.04.2024
+
+Первая всероссийская премия «Туристические города»
+
+Участниками финала конкурса стали представители 55 городов страны из 36 регионов, в том числе и наш город Касимов. Всего же в финальных мероприятиях премии приняли участие команды из 63 городов, представляющих 41 регион России.
+
+Сотрудники санатория "КАСИМОВСКИЕ ЗОРИ" приняли участие в мероприятии, поддержали выступление наших коллег из Касимова, который не только вышел в финал, но и стал обладателем "бронзы" в номинации "Лучший этнокультурный туристический город". Поздравляем Касимов с почетным 3 местом и желаем новых побед и успехов в развитии туризма!
+
+**Картинки секции:**
+- new: novosti/novosti-573.jpg | src: https://kasimovskie-zori.ru/news/turgor-01.jpg | alt: ""
+- new: novosti/novosti-574.jpg | src: https://kasimovskie-zori.ru/news/turgor-02.jpg | alt: ""
+- new: novosti/novosti-575.jpg | src: https://kasimovskie-zori.ru/news/turgor-03.jpg | alt: ""
+- new: novosti/novosti-576.jpg | src: https://kasimovskie-zori.ru/news/turgor-04.jpg | alt: ""
+- new: novosti/novosti-577.jpg | src: https://kasimovskie-zori.ru/news/turgor-05.jpg | alt: ""
+- new: novosti/novosti-578.jpg | src: https://kasimovskie-zori.ru/news/turgor-06.jpg | alt: ""
+- new: novosti/novosti-579.jpg | src: https://kasimovskie-zori.ru/news/turgor-07.jpg | alt: ""
+- new: novosti/novosti-580.jpg | src: https://kasimovskie-zori.ru/news/turgor-08.jpg | alt: ""
+- new: novosti/novosti-581.jpg | src: https://kasimovskie-zori.ru/news/egotic-mini.jpg | alt: ""
+
+### В Егорьевск: Туристско-Информационный Центр (ТИЦ) {#egotic}
+
+01.04.2024
+
+В_Егорьевск: Туристско-Информационный Центр (ТИЦ)
+
+В_Егорьевск - рекомендует!
+
+В воскресенье, в последний день марта мы побывали в чудесном санатории "Касимовские зори", который располагается в живописном месте на берегу реки Оки в 9 км от Касимова. Увиденное обрадовало и настроило на самый позитивный лад - здесь рады гостям и готовы предоставить самый широкий спектр услуг, в том числе и оздоровительных.
+
+Санаторий "Касимовские зори" располагает современной лечебной базой и новейшим оборудованием. Объем лечебных процедур – более 70 видов, имеется и диагностическая база - клинико-биохимическая лаборатория, функциональная и ультразвуковая диагностика. В время визита мы познакомились со SPA-предложением санатория: бассейн, банный комплекс, соляная комната, фитобар и много чего другого. В общем, уежешь из "Касимовских зорь" реально обновленным!
+
+**Картинки секции:**
+- new: novosti/novosti-582.jpg | src: https://kasimovskie-zori.ru/news/egotic-01.jpg | alt: ""
+- new: novosti/novosti-583.jpg | src: https://kasimovskie-zori.ru/news/egotic-02.jpg | alt: ""
+- new: novosti/novosti-584.jpg | src: https://kasimovskie-zori.ru/news/egotic-03.jpg | alt: ""
+- new: novosti/novosti-585.jpg | src: https://kasimovskie-zori.ru/news/egotic-04.jpg | alt: ""
+- new: novosti/novosti-586.jpg | src: https://kasimovskie-zori.ru/news/egotic-05.jpg | alt: ""
+- new: novosti/novosti-587.jpg | src: https://kasimovskie-zori.ru/news/egotic-06.jpg | alt: ""
+- new: novosti/novosti-588.jpg | src: https://kasimovskie-zori.ru/news/swetable-mini.jpg | alt: ""
+
+### В санатории организовано пятиразовое питание по системе "Шведский стол" {#swetable}
+
+27.03.2024
+
+В санатории ООО "КАСИМОВСКИЕ ЗОРИ" организовано пятиразовое питание по системе "Шведский стол"
+
+с учетом приготовления диетических блюд лечебного питания.  
+В меню представлен большой выбор салатов, супов, горячих блюд, соусов, овощей, разнообразной выпечки и фруктов, различные напитки.
+
+Отдыхающие уже по достоинству оценили преимущества шведской линии: большое разнообразие предлагаемых блюд, красивая сервировка и новый формат обслуживания. Вот только небольшая часть положительных отзывов наших отдыхающих.
+
+**Картинки секции:**
+- new: novosti/novosti-589.jpg | src: https://kasimovskie-zori.ru/news/swetable-01.jpg | alt: ""
+- new: novosti/novosti-590.jpg | src: https://kasimovskie-zori.ru/news/swetable-02.jpg | alt: ""
+- new: novosti/novosti-591.jpg | src: https://kasimovskie-zori.ru/news/swetable-03.jpg | alt: ""
+- new: novosti/novosti-592.jpg | src: https://kasimovskie-zori.ru/news/swetable-04.jpg | alt: ""
+- new: novosti/novosti-593.jpg | src: https://kasimovskie-zori.ru/news/swetable-05.jpg | alt: ""
+- new: novosti/novosti-594.jpg | src: https://kasimovskie-zori.ru/news/swetable-06.jpg | alt: ""
+- new: novosti/novosti-595.jpg | src: https://kasimovskie-zori.ru/news/swetable-07.jpg | alt: ""
+- new: novosti/novosti-596.jpg | src: https://kasimovskie-zori.ru/news/swetable-08.jpg | alt: ""
+- new: novosti/novosti-597.jpg | src: https://kasimovskie-zori.ru/news/swetable-09.jpg | alt: ""
+- new: novosti/novosti-598.jpg | src: https://kasimovskie-zori.ru/news/swetable-10.jpg | alt: ""
+- new: novosti/novosti-599.jpg | src: https://kasimovskie-zori.ru/news/rabsov-mini.jpg | alt: ""
+
+### Рабочее совещание {#rabsov}
+
+25.03.2024
+
+Рабочее совещание
+
+21 марта сотрудники санатория "КАСИМОВСКИЕ ЗОРИ" приняли участие в рабочем совещании с предпринимателями города Касимова и Касимовского района, на котором были подведены итоги прошедших международных выставок "Интурмаркет-2024" и "MITT-2024".
+
+Также на встрече рассматривался вопрос участия города Касимова в финале Всероссийской премии «Туристические города», которая пройдет в Воронеже с 28 по 30 марта.
+
+**Картинки секции:**
+- new: novosti/novosti-600.jpg | src: https://kasimovskie-zori.ru/news/rabsov-01.jpg | alt: ""
+- new: novosti/novosti-601.jpg | src: https://kasimovskie-zori.ru/news/mitt2024-mini.jpg | alt: ""
+
+### Международная выставка туризма и индустрии гостеприимства (MITT) {#mitt2024}
+
+22.03.2024
+
+Международная выставка туризма и индустрии гостеприимства (MITT)
+
+19 марта сотрудники ООО «КАСИМОВСКИЕ ЗОРИ» приняли участие в открытии Международной выставки туризма и индустрии гостеприимства (MITT). В этом году мероприятие проводилось в 30-й раз и объединило 909 участников из 58 регионов России и 29 стран мира.
+
+Деловая программа выставки включала более 20 тематических сессий: конференций, презентаций,
+
+дискуссий и образовательных семинаров. Ее девизом стал слоган «Максимум практической информации и пользы, без «воды»».
+
+Стенд Рязанской области был представлен организациями и музеями города Рязани.
+
+Город Касимов на выставке представляли Касимовский центр туризма, Музей Вырковского промысла, Галерея Лебедевых и санаторий «КАСИМОВСКИЕ ЗОРИ».
+
+**Картинки секции:**
+- new: novosti/novosti-602.jpg | src: https://kasimovskie-zori.ru/news/mitt2024-01.jpg | alt: ""
+- new: novosti/novosti-603.jpg | src: https://kasimovskie-zori.ru/news/mitt2024-02.jpg | alt: ""
+- new: novosti/novosti-604.jpg | src: https://kasimovskie-zori.ru/news/mitt2024-03.jpg | alt: ""
+- new: novosti/novosti-605.jpg | src: https://kasimovskie-zori.ru/news/mitt2024-04.jpg | alt: ""
+- new: novosti/novosti-606.jpg | src: https://kasimovskie-zori.ru/news/mitt2024-05.jpg | alt: ""
+- new: novosti/novosti-607.jpg | src: https://kasimovskie-zori.ru/news/mitt2024-06.jpg | alt: ""
+- new: novosti/novosti-608.jpg | src: https://kasimovskie-zori.ru/news/mitt2024-07.jpg | alt: ""
+- new: novosti/novosti-609.jpg | src: https://kasimovskie-zori.ru/news/mitt2024-08.jpg | alt: ""
+- new: novosti/novosti-610.jpg | src: https://kasimovskie-zori.ru/news/mitt2024-09.jpg | alt: ""
+- new: novosti/novosti-611.jpg | src: https://kasimovskie-zori.ru/news/mitt2024-10.jpg | alt: ""
+- new: novosti/novosti-612.jpg | src: https://kasimovskie-zori.ru/news/mitt2024-11.jpg | alt: ""
+- new: novosti/novosti-613.jpg | src: https://kasimovskie-zori.ru/news/mitt2024-12.jpg | alt: ""
+- new: novosti/novosti-614.jpg | src: https://kasimovskie-zori.ru/news/intour-mini.jpg | alt: ""
+
+### XIX международной туристической выставке «Интурмаркет» {#intour}
+
+22.03.2024
+
+17-18 марта сотрудники ООО «КАСИМОВСКИЕ ЗОРИ» приняли участие  
+в XIX международной туристической выставке «Интурмаркет»,  
+которая начала свою работу 16 марта в московском «Экспоцентре».
+
+На выставке этого года были представлены все регионы нашей страны, более 700 российских компаний, также зарубежные участники из 13 стран, среди которых Белоруссия, Китай, Куба, Армения, Иран, Вьетнам, Азербайджан, Турция и ряд других.
+
+На стенде Рязанской области работала делегация из города Касимова и Касимовского района. Предприниматели двух муниципалитетов представили туристический потенциал города и района.
+
+Интурмаркет 2024 - это отличная площадка для установления деловых отношений с коллегами из других регионов, а также для привлечения туристического потока в Рязанскую область.
+
+Участие в выставке стало возможным благодаря поддержке Центра «Мой бизнес» Агентства развития бизнеса Рязанской области в рамках реализации нацпроекта «Малое и среднее предпринимательство».
+
+**Картинки секции:**
+- new: novosti/novosti-615.jpg | src: https://kasimovskie-zori.ru/news/intour-01.jpg | alt: ""
+- new: novosti/novosti-616.jpg | src: https://kasimovskie-zori.ru/news/intour-02.jpg | alt: ""
+- new: novosti/novosti-617.jpg | src: https://kasimovskie-zori.ru/news/intour-03.jpg | alt: ""
+- new: novosti/novosti-618.jpg | src: https://kasimovskie-zori.ru/news/intour-04.jpg | alt: ""
+- new: novosti/novosti-619.jpg | src: https://kasimovskie-zori.ru/news/intour-05.jpg | alt: ""
+- new: novosti/novosti-620.jpg | src: https://kasimovskie-zori.ru/news/intour-06.jpg | alt: ""
+- new: novosti/novosti-621.jpg | src: https://kasimovskie-zori.ru/news/intour-07.jpg | alt: ""
+- new: novosti/novosti-622.jpg | src: https://kasimovskie-zori.ru/news/intour-08.jpg | alt: ""
+- new: novosti/novosti-623.jpg | src: https://kasimovskie-zori.ru/news/intour-09.jpg | alt: ""
+- new: novosti/novosti-624.jpg | src: https://kasimovskie-zori.ru/news/intour-10.jpg | alt: ""
+- new: novosti/novosti-625.jpg | src: https://kasimovskie-zori.ru/news/intour-11.jpg | alt: ""
+- new: novosti/novosti-626.jpg | src: https://kasimovskie-zori.ru/news/intour-12.jpg | alt: ""
+- new: novosti/novosti-627.jpg | src: https://kasimovskie-zori.ru/news/egorevsk-mini.jpg | alt: ""
+
+### Сотрудники санатория «КАСИМОВСКИЕ ЗОРИ» посетили город Воскресенск Московской области {#egorevsk}
+
+01.03.2024
+
+29 февраля сотрудники санатория «КАСИМОВСКИЕ ЗОРИ» посетили город Воскресенск Московской области.
+
+В ходе программы визита они провели встречи с руководителями и сотрудниками предприятий города, на которых обсуждались вопросы взаимного сотрудничества, оказание медицинской помощи при санаторно-курортном лечении, организации отдыха и досуга.
+
+Большой интерес вызвала информация об использовании в лечении уникальной Сапожковской грязи. Лечебная грязь – это природное образование, которое состоит из минеральных и органических веществ.
+
+Грязелечение является одной из самых эффективных процедур. Лечебная грязь Сапожковского месторождения успешно используется в санатории для лечения отдыхающих. На грязелечение приезжают больные из самых разных уголков нашей страны, оно широко сочетается с лечебными ваннами, в т.ч. подводным вытяжением, электролечением, лечебной физкультурой.
+
+Сотрудники санатория ответили на многочисленные вопросы и пригласили представителей предприятий города Воскресенска посетить санаторий "КАСИМОВСКИЕ ЗОРИ".
+
+**Картинки секции:**
+- new: novosti/novosti-628.jpg | src: https://kasimovskie-zori.ru/news/egorevsk-01.jpg | alt: ""
+- new: novosti/novosti-629.jpg | src: https://kasimovskie-zori.ru/news/egorevsk-02.jpg | alt: ""
+- new: novosti/novosti-630.jpg | src: https://kasimovskie-zori.ru/news/egorevsk-03.jpg | alt: ""
+- new: novosti/novosti-631.jpg | src: https://kasimovskie-zori.ru/news/egorevsk-04.jpg | alt: ""
+- new: novosti/novosti-632.jpg | src: https://kasimovskie-zori.ru/news/roshal-mini.jpg | alt: ""
+
+### 8 февраля сотрудники санатория «КАСИМОВСКИЕ ЗОРИ» посетили город Рошаль {#roshal}
+
+09.02.2024
+
+8 февраля сотрудники санатория «КАСИМОВСКИЕ ЗОРИ» посетили город Рошаль Московской области.
+
+В ходе визита в Рошаль сотрудники ООО «КАСИМОВСКИЕ ЗОРИ» посетили ряд предприятий и учреждений.Большой интерес у работников вызвали программы оздоровления нашего санатория, особенно базовая программа, которая включает в себя проживание в комфортабельных номерах выбранной категории, сбалансированное питание, качественные медицинские процедуры, в которые входят грязевые аппликации Сапожковской торфяной грязью с собственного участка добычи.
+
+Многопрофильность санатория дает возможность принимать отдыхающих по лечебным, оздоровительным и СПА программам.
+
+Встречи прошли плодотворно и интересно, сотрудники предприятий и учреждений города Рошаль получили приглашение на отдых и оздоровление в КАСИМОВСКИЕ ЗОРИ.
+
+**Картинки секции:**
+- new: novosti/novosti-633.jpg | src: https://kasimovskie-zori.ru/news/roshal-01.jpg | alt: ""
+- new: novosti/novosti-634.jpg | src: https://kasimovskie-zori.ru/news/roshal-02.jpg | alt: ""
+- new: novosti/novosti-635.jpg | src: https://kasimovskie-zori.ru/news/roshal-03.jpg | alt: ""
+- new: novosti/novosti-636.jpg | src: https://kasimovskie-zori.ru/news/roshal-04.jpg | alt: ""
+- new: novosti/novosti-637.jpg | src: https://kasimovskie-zori.ru/news/roshal-05.jpg | alt: ""
+- new: novosti/novosti-638.jpg | src: https://kasimovskie-zori.ru/news/tropa-mini.jpg | alt: ""
+
+### Заседание рабочей группы по обсуждению проекта «Тропа Кудеяра» {#tropa}
+
+07.02.2024
+
+7 февраля в администрации Касимовского муниципального района Рязанской области состоялось заседание рабочей группы по обсуждению проекта «Тропа Кудеяра».
+
+Инициатором проекта выступил санаторий «Касимовские зори». Для воплощения идеи он планирует принять участие в грантовом конкурсе Президентского фонда культурных инициатив. Реализация данного проекта позволит создать туристический маршрут «Тропа Кудеяра», обустроить зону отдыха на тропе, что будет способствовать развитию туризма в Касимовском районе.
+
+Во встрече принял участие и представитель газеты «Комсомольская правда. Рязань» Сергей Кутыров. Именно он предложил тему организации экскурсий по этому маршруту, как дополнительного досуга для проживающих в санатории, а также для пеших прогулок всех желающих. В ходе беседы обсудили подготовку материалов и решение задач для воплощения проекта в реальность.
+
+**Картинки секции:**
+- new: novosti/novosti-639.jpg | src: https://kasimovskie-zori.ru/news/tropa-01.jpg | alt: ""
+- new: novosti/novosti-640.jpg | src: https://kasimovskie-zori.ru/news/tropa-02.jpg | alt: ""
+- new: novosti/novosti-641.jpg | src: https://kasimovskie-zori.ru/news/tropa-03.jpg | alt: ""
+- new: novosti/novosti-642.jpg | src: https://kasimovskie-zori.ru/news/tropa-04.jpg | alt: ""
+- new: novosti/novosti-643.jpg | src: https://kasimovskie-zori.ru/news/tropa-05.jpg | alt: ""
+- new: novosti/novosti-644.jpg | src: https://kasimovskie-zori.ru/news/tochka-mini.jpg | alt: ""
+
+### 5-6 февраля в "Точке кипения"... {#toshka}
+
+06.02.2024
+
+5-6 февраля в "Точке кипения" сотрудники ООО "КАСИМОВСКИЕ ЗОРИ" разбирались в тонкостях написания заявки на получение гранта.
+
+Создать новое пространство, провести фестиваль и даже открыть целый музей! Все это возможно благодаря гранту Президентского фонда культурных инициатив, участие в котором может принять бизнес.
+
+Спикером мероприятия стала эксперт более 15 грантовых конкурсов социальных проектов, победитель четырех грантов Росмолодежи Наталья Гросс.
+
+**Картинки секции:**
+- new: novosti/novosti-645.jpg | src: https://kasimovskie-zori.ru/news/tochka-01.jpg | alt: ""
+- new: novosti/novosti-646.jpg | src: https://kasimovskie-zori.ru/news/tochka-02.jpg | alt: ""
+- new: novosti/novosti-647.jpg | src: https://kasimovskie-zori.ru/news/tochka-03.jpg | alt: ""
+- new: novosti/novosti-648.jpg | src: https://kasimovskie-zori.ru/news/tochka-04.jpg | alt: ""
+- new: novosti/novosti-649.jpg | src: https://kasimovskie-zori.ru/news/roundtable-mini.jpg | alt: ""
+
+### Cотрудники санатория приняли участие в работе круглого стола {#roundtable}
+
+31.01.2024
+
+31 января сотрудники ООО «КАСИМОВСКИЕ ЗОРИ» приняли участие в работе круглого стола
+
+на тему: «Перспективы развития малого и среднего предпринимательства в современных условиях. Меры поддержки субъектов МСП в Рязанской области».
+
+В рамках мероприятия состоялось знакомство с президентом Торгово-промышленной палаты Рязанской области Людмилой Козловой, которая приехала с деловым визитом в город Касимов.
+
+Людмила Анатольевна рассказала участникам встречи о деятельности ТПП Рязанской области, ключевых продуктах для малого бизнеса, новой стратегии Палаты и планах работы с субъектами МСП на первое полугодие 2024 года, ответила на многочисленные вопросы предпринимателей.
+
+Отдельной темой общения с бизнесом стало развитие туристической сферы касимовского края. Перспективы развития туризма обсуждались с представителями общественного питания, гостиничного и музейного бизнеса.
+
+**Картинки секции:**
+- new: novosti/novosti-650.jpg | src: https://kasimovskie-zori.ru/news/roundtable-01.jpg | alt: ""
+- new: novosti/novosti-651.jpg | src: https://kasimovskie-zori.ru/news/roundtable-02.jpg | alt: ""
+- new: novosti/novosti-652.jpg | src: https://kasimovskie-zori.ru/news/roundtable-03.jpg | alt: ""
+- new: novosti/novosti-653.jpg | src: https://kasimovskie-zori.ru/news/shatura-mini.jpg | alt: ""
+
+### Cотрудники санатория «КАСИМОВСКИЕ ЗОРИ» посетили предприятия города Шатура {#shatura}
+
+25.01.2023
+
+25 января сотрудники санатория «КАСИМОВСКИЕ ЗОРИ» посетили ряд предприятий города Шатуры Московской области.
+
+Большой интерес у работников вызвали программы оздоровления: лечение заболеваний опорно-двигательного аппарата, сердечно-сосудистой, нервной системы, заболеваний органов дыхания. Также программа для лиц с проблемами позвоночника,
+
+лечение профессиональных заболеваний.
+
+Встречи прошли плодотворно и интересно, сотрудники предприятий Шатуры получили приглашение на отдых и оздоровление в «КАСИМОВСКИЕ ЗОРИ».
+
+**Картинки секции:**
+- new: novosti/novosti-654.jpg | src: https://kasimovskie-zori.ru/news/shatura-01.jpg | alt: ""
+- new: novosti/novosti-655.jpg | src: https://kasimovskie-zori.ru/news/shatura-02.jpg | alt: ""
+- new: novosti/novosti-656.jpg | src: https://kasimovskie-zori.ru/news/shatura-03.jpg | alt: ""
+- new: novosti/novosti-657.jpg | src: https://kasimovskie-zori.ru/news/shatura-04.jpg | alt: ""
+- new: novosti/novosti-658.jpg | src: https://kasimovskie-zori.ru/news/shatura-05.jpg | alt: ""
+- new: novosti/novosti-659.jpg | src: https://kasimovskie-zori.ru/news/shatura-06.jpg | alt: ""
+- new: novosti/novosti-660.jpg | src: https://kasimovskie-zori.ru/news/shatura-07.jpg | alt: ""
+- new: novosti/novosti-661.jpg | src: https://kasimovskie-zori.ru/news/shatura-08.jpg | alt: ""
+- new: novosti/novosti-662.jpg | src: https://kasimovskie-zori.ru/news/operupr-mini.jpg | alt: ""
+
+### Вебинар «Оперативное управление отделом продаж» {#operupr}
+
+12.01.2024
+
+Вебинар «Оперативное управление отделом продаж»
+
+11 января менеджеры ООО «КАСИМОВСКИЕ ЗОРИ» приняли участие в вебинаре «Оперативное управление отделом продаж», организованном компанией «АСУ XXI век».
+
+На вебинаре были рассмотрены особенности личных продаж, анализ клиентской базы, выполнение планов продаж, подготовка отчетов и другие важные вопросы в работе менеджеров.
+
+СВЕЖИЕ  
+НОВОСТИ
+
+НОВОСТИ  
+2025 года
+
+НОВОСТИ  
+2024 года
+
+НОВОСТИ  
+2023 года
+
+**Картинки секции:**
+- new: novosti/novosti-663.jpg | src: https://kasimovskie-zori.ru/news/operupr-01.jpg | alt: ""
+- new: novosti/novosti-664.jpg | src: https://kasimovskie-zori.ru/news/operupr-02.jpg | alt: ""
+- new: novosti/novosti-665.jpg | src: https://kasimovskie-zori.ru/news/operupr-03.jpg | alt: ""
+- new: _icons/_icons-50.jpg | src: https://kasimovskie-zori.ru/images/news.jpg | alt: ""
+
+## [news.html?page=01 — раздел «НОВОСТИ 2023 года»]
+
+## [вводная часть без заголовка]
+
+**Картинки секции:**
+- new: obshchee/obshchee-01.png | src: https://kasimovskie-zori.ru/images/index2.png | alt: ""
+
+## Новости 2023 года
+
+**Картинки секции:**
+- new: novosti/novosti-666.jpg | src: https://kasimovskie-zori.ru/news/vorfo-mini.jpg | alt: ""
+
+### Генеральный директор ООО "КАСИМОВСКИЕ ЗОРИ" Олег Мешков принял участие в рабочей встрече... {#vorfo}
+
+22.12.2023
+
+22 декабря генеральный директор ООО "КАСИМОВСКИЕ ЗОРИ" Олег Мешков принял участие в рабочей встрече с представителями сферы потребительского рынка Рязанской области.
+
+На мероприятии присутствовали министр экономического развития Андрей Ворфоломеев, министр сельского хозяйства и продовольствия Дмитрий Филиппов, сотрудники Минэкономразвития, Агентства развития бизнеса и представители сферы потребительского рынка Рязанской области.  
+В рамках рабочей встречи состоялось торжественное награждение ООО "КАСИМОВСКИЕ ЗОРИ"
+
+знаком "Рязанское качество", который вручается лучшим предприятиям нашей области.  
+**После торжественной части состоялась диалоговая площадка. Участники обсудили наиболее волнующие предпринимателей вопросы, касающиеся нехватки квалифицированных кадров, налоговых преференций и дальнейшего взаимодействия.**
+
+**Картинки секции:**
+- new: novosti/novosti-667.jpg | src: https://kasimovskie-zori.ru/news/vorfo-01.jpg | alt: ""
+- new: novosti/novosti-668.jpg | src: https://kasimovskie-zori.ru/news/vorfo-02.jpg | alt: ""
+- new: novosti/novosti-669.jpg | src: https://kasimovskie-zori.ru/news/vorfo-03.jpg | alt: ""
+- new: novosti/novosti-670.jpg | src: https://kasimovskie-zori.ru/news/smotr-mini.jpg | alt: ""
+
+### Санаторий «КАСИМОВСКИЕ ЗОРИ» подал заявку на участие в областном смотре {#smotr}
+
+12.10.2023
+
+Санаторий «КАСИМОВСКИЕ ЗОРИ» подал заявку на участие в областном смотре-конкурсе на лучшее декоративно-художественное оформление предприятий потребительского рынка,
+
+который был объявлен Агентством развития бизнеса при поддержке министерства экономического развития Рязанской области.
+
+Ждем результатов!
+
+**Картинки секции:**
+- new: novosti/novosti-671.jpg | src: https://kasimovskie-zori.ru/news/smotr-01.jpg | alt: ""
+- new: novosti/novosti-672.jpg | src: https://kasimovskie-zori.ru/news/reutov-mini.jpg | alt: ""
+
+### Санаторий "КАСИМОВСКИЕ ЗОРИ" присоединился к проекту «Профсоюзная дисконтная программа» {#reutov}
+
+14.12.2023
+
+Санаторий «КАСИМОВСКИЕ ЗОРИ» присоединился к проекту «Профсоюзная дисконтная программа» с ППО АО «ВПК «НПО Машиностроения» г. Реутов
+
+Проект «Профсоюзная дисконтная программа» – это комплекс привилегий, направленный на повышение уровня благосостояния профсоюзных организаций г. Реутов и их членов, путем получения особых условий при приобретении товаров и услуг.
+
+Всем участникам Проекта, владеющим Персональной дисконтной картой члена профсоюзов, предоставляется:
+
+- 15%-скидка – на санаторно-курортное лечение по программе «Общетерапевтическая для профсоюзов».
+
+**Картинки секции:**
+- new: novosti/novosti-673.jpg | src: https://kasimovskie-zori.ru/news/reutov-01.jpg | alt: ""
+- new: novosti/novosti-674.jpg | src: https://kasimovskie-zori.ru/news/toys-mini.jpg | alt: ""
+
+### Новогодние каникулы - это время волшебства {#toys}
+
+13.12.2023
+
+Новогодние каникулы - это время волшебства
+
+Новогодние каникулы - это время волшебства, чудесных приключений и свершения самых тайных желаний, то время, когда можно отдохнуть и провести время с семьей и друзьями.
+
+Санаторий «КАСИМОВСКИЕ ЗОРИ» готовится к приезду наших маленьких гостей. Сегодня мы закупили новые детские игрушки, которые порадуют юных отдыхающих в новогодние праздники.
+
+Отдыхающих ждут увлекательные программы каждый день с уличными играми, забавами и конкурсами, мастер-классами для детей и взрослых, зажигательными вечерними программами с Дедом Морозом и Снегурочкой, великолепным фейерверком в Новогоднюю ночь!
+
+Встречайте Новый год в санатории «КАСИМОВСКИЕ ЗОРИ», бронируйте путевки прямо сейчас!
+
+**Картинки секции:**
+- new: novosti/novosti-675.jpg | src: https://kasimovskie-zori.ru/news/toys-01.jpg | alt: ""
+- new: novosti/novosti-676.jpg | src: https://kasimovskie-zori.ru/news/toys-02.jpg | alt: ""
+- new: novosti/novosti-677.jpg | src: https://kasimovskie-zori.ru/news/konk-mini.jpg | alt: ""
+
+### Фестиваль "Заря-заряница" на территории санатория "КАСИМОВСКИЕ ЗОРИ". {#konk}
+
+11.12.2023
+
+9 декабря состоялся открытый фестиваль "Заря-заряница" на территории санатория "КАСИМОВСКИЕ ЗОРИ".
+
+План мероприятия включал в себя много ярких событий: торжественное открытие фестиваля, конкурс фантазийного костюма "Заря-заряница" и подведение его итогов, интересные мастер-классы, замечательное выступление творческих коллективов Касимова и Касимовского района, торговые ряды и другое.
+
+В подготовку мероприятия организаторы постарались вложить частицу своей души и сердечное тепло. Праздник получился ярким, красивым и интересным!
+
+Подводя итоги проведения фестиваля, мы выражаем слова искренней благодарности и признательности всем, кто внес вклад в подготовку, организацию и проведение этого мероприятия. Можно с уверенностью сказать, что праздник удался благодаря совместной работе и общим усилиям всех организаторов.
+
+Победителями конкурса фантазийного костюма фестиваля "Заря-заряница" стали:  
+- культурное пространство "Маяк" АНО "Время провинции", автор костюма Салина Ольга Михайловна, модель - Скорнякова Карина.
+- филиал ОГБПОУ "Рязанский педагогический колледж" в г. Касимов, творческое объединение "Свой стиль", руководитель Сухова Алла Дмитриевна.
+- ОГБПОУ "Касимовский техникум водного транспорта", автор костюма Буданова Татьяна Петровна.
+
+Зрители и члены жюри не могли не отметить костюм Анастасии Ильиной из Клетинского Дома культуры, ей достался приз зрительских симпатий и сертификат на услуги санатория "КАСИМОВСКИЕ ЗОРИ".
+
+Поздравляем ПОБЕДИТЕЛЕЙ с заслуженными наградами!  
+До новых встреч на гостеприимной земле КАСИМОВСКИХ ЗОРЕЙ!
+
+**Картинки секции:**
+- new: novosti/novosti-678.jpg | src: https://kasimovskie-zori.ru/news/konk-01.jpg | alt: ""
+- new: novosti/novosti-679.jpg | src: https://kasimovskie-zori.ru/news/konk-02.jpg | alt: ""
+- new: novosti/novosti-680.jpg | src: https://kasimovskie-zori.ru/news/konk-03.jpg | alt: ""
+- new: novosti/novosti-681.jpg | src: https://kasimovskie-zori.ru/news/konk-04.jpg | alt: ""
+- new: novosti/novosti-682.jpg | src: https://kasimovskie-zori.ru/news/konk-05.jpg | alt: ""
+- new: novosti/novosti-683.jpg | src: https://kasimovskie-zori.ru/news/konk-06.jpg | alt: ""
+- new: novosti/novosti-684.jpg | src: https://kasimovskie-zori.ru/news/konk-07.jpg | alt: ""
+- new: novosti/novosti-685.jpg | src: https://kasimovskie-zori.ru/news/konk-08.jpg | alt: ""
+- new: novosti/novosti-686.jpg | src: https://kasimovskie-zori.ru/news/konk-09.jpg | alt: ""
+- new: novosti/novosti-687.jpg | src: https://kasimovskie-zori.ru/news/konk-10.jpg | alt: ""
+- new: novosti/novosti-688.jpg | src: https://kasimovskie-zori.ru/news/konk-11.jpg | alt: ""
+- new: novosti/novosti-689.jpg | src: https://kasimovskie-zori.ru/news/konk-12.jpg | alt: ""
+- new: novosti/novosti-690.jpg | src: https://kasimovskie-zori.ru/news/konk-13.jpg | alt: ""
+- new: novosti/novosti-691.jpg | src: https://kasimovskie-zori.ru/news/konk-14.jpg | alt: ""
+- new: novosti/novosti-692.jpg | src: https://kasimovskie-zori.ru/news/konk-15.jpg | alt: ""
+- new: novosti/novosti-693.jpg | src: https://kasimovskie-zori.ru/news/konk-16.jpg | alt: ""
+- new: novosti/novosti-694.jpg | src: https://kasimovskie-zori.ru/news/konk-17.jpg | alt: ""
+- new: novosti/novosti-695.jpg | src: https://kasimovskie-zori.ru/news/cifr12-mini.jpg | alt: ""
+
+### Всероссийский форум «Цифровая Россия. Технологии и инвестиции в будущее». {#cifr12}
+
+05.12.2023
+
+1 декабря сотрудники санатория «КАСИМОВСКИЕ ЗОРИ» приняли участие  
+во Всероссийском форуме «Цифровая Россия.  
+Технологии и инвестиции в будущее», организатором которого выступило  
+Правительство Рязанской области.
+
+Форум собрал более 400 участников из 40 регионов России.
+
+В рамках деловой программы Форума обсуждались актуальные вопросы: применение цифровых сервисов, внедрение искусственного интеллекта, обеспечение информационной безопасности, переход на отечественное программное обеспечение, развитие проекта «Единая цифровая карта жителя» для бизнеса, программы лояльностиплатежной системы «Мир».
+
+Представители санатория приняли участие в панельной дискуссии Форума «Внедрение единой цифровой карты жителя и дальнейшее развитие проекта на 2024-2025 г.г.». Развитие проекта ЕЦК для бизнеса. Программа «Привет!».
+
+Санаторий "КАСИМОВСКИЕ ЗОРИ" один из первых стал партнёром данного проекта и запустил систему ЕЦК жителя Рязанской области. Предъявителям ЕЦК можно купить санаторно-курортную путёвку и получить скидку 3% на программу «Базовая лечебная» или сэкономить 5% от стоимости проживания по тарифу «Проживание с питанием».
+
+**Картинки секции:**
+- new: novosti/novosti-696.jpg | src: https://kasimovskie-zori.ru/news/cifr12-01.jpg | alt: ""
+- new: novosti/novosti-697.jpg | src: https://kasimovskie-zori.ru/news/cifr12-02.jpg | alt: ""
+- new: novosti/novosti-698.jpg | src: https://kasimovskie-zori.ru/news/cifr12-03.jpg | alt: ""
+- new: novosti/novosti-699.jpg | src: https://kasimovskie-zori.ru/news/zaria-mini.jpg | alt: ""
+
+### Подготовка к фестивалю «Заря-Заряница» {#zaria}
+
+20.11.2023
+
+Кто-то ждет наступление январских каникул, а мы готовимся к новому мероприятию – фестивалю «Заря-Заряница»!
+
+9 декабря впервые на территории санатория «Касимовские зори» пройдет зимний праздник. Пока обсуждаем все детали, но уже сейчас приглашаем желающих поучаствовать в конкурсе фантазийного костюма и побороться за главный приз – отдых в санатории «Касимовские зори».
+
+**Картинки секции:**
+- new: novosti/novosti-700.jpg | src: https://kasimovskie-zori.ru/news/zaria-01.jpg | alt: ""
+- new: novosti/novosti-701.jpg | src: https://kasimovskie-zori.ru/news/kidpro-mini.jpg | alt: ""
+
+### Сотрудники санатория "КАСИМОВСКИЕ ЗОРИ" приняли участие в работе конференции КИДПРО {#kidpro}
+
+13.11.2023
+
+Сотрудники санатория "КАСИМОВСКИЕ ЗОРИ" приняли участие в работе конференции КИДПРО
+
+10-11 ноября в бизнес-отеле «МонАрх» прошла VIII Конференция «Индустрия детского полезного развивающего отдыха» (КИДПРО). Организатором традиционно выступил МОСГОРТУР, подведомственный Департаменту культуры города Москвы.
+
+Это уникальная профессиональная площадка по обмену опытом и мнениями в сфере практических тенденций развития детского отдыха и туризма,
+
+путей и перспектив взаимодействия профессионального сообщества, поиска новых партнеров, поставщиков товаров и услуг.
+
+В числе основных тем КИДПРО – система реализации сертификатов на отдых и оздоровление, меры поддержки индустрии отдыха и туризма, возможности взаимодействия в сфере организации отдыха детей, находящихся в трудной жизненной ситуации.
+
+**Картинки секции:**
+- new: novosti/novosti-702.jpg | src: https://kasimovskie-zori.ru/news/kidpro-01.jpg | alt: ""
+- new: novosti/novosti-703.jpg | src: https://kasimovskie-zori.ru/news/kidpro-02.jpg | alt: ""
+- new: novosti/novosti-704.jpg | src: https://kasimovskie-zori.ru/news/kidpro-03.jpg | alt: ""
+- new: novosti/novosti-705.jpg | src: https://kasimovskie-zori.ru/news/kidpro-04.jpg | alt: ""
+- new: novosti/novosti-706.jpg | src: https://kasimovskie-zori.ru/news/kidpro-05.jpg | alt: ""
+- new: novosti/novosti-707.jpg | src: https://kasimovskie-zori.ru/news/sertifi-mini.jpg | alt: ""
+
+### Онлайн-форум для отелей и санаториев {#sertifi}
+
+13.11.2023
+
+В ноябре 2023 года сотрудники санатория "КАСИМОВСКИЕ ЗОРИ" приняли участие в онлайн-форуме для отелей и санаториев.
+
+В режиме онлайн более 20 практикующих экспертов в области гостиничного бизнеса делились лучшими решениями в организации питания в отелях/санаториях, в том числе шведской линии.
+
+Организация питания — это ключевой фактор возвратности гостей!
+
+С помощью организации питания мы определяем целевого гостя и создаем положительные впечатления об отеле!
+
+На Форуме обсуждалось, как развивать предприятия питания в отеле и санатории, зарабатывать на продаже дополнительных услуг питания и обеспечить пищевую безопасность гостей.
+
+**Картинки секции:**
+- new: novosti/novosti-708.jpg | src: https://kasimovskie-zori.ru/news/sertifi-01.jpg | alt: ""
+- new: novosti/novosti-709.jpg | src: https://kasimovskie-zori.ru/news/sertifi-02.jpg | alt: ""
+- new: novosti/novosti-710.jpg | src: https://kasimovskie-zori.ru/news/liz-mini.jpg | alt: ""
+
+### Санаторию "КАСИМОВСКИЕ ЗОРИ" присвоена категория 4 звезды {#liz}
+
+09.11.2023
+
+Дорогие наши гости, партнёры и друзья!
+
+Мы рады сообщить, что ООО «КАСИМОВСКИЕ ЗОРИ» подтвердило классификацию объектов «Загородный отель, пансионат» и по её итогам нам присвоено 4 звезды. Это отличный результат!
+
+Категорию гостиницы должны подтверждать каждые три года. В ходе классификации оценивается площадь
+
+номерного фонда, техническое оснащение гостиницы, санитарное состояние, соответствие требованиям пожарной и антитеррористической безопасности, уровень подготовки персонала, оформление номеров и др.
+
+Поздравляем весь персонал ООО «КАСИМОВСКИМЕ ЗОРИ» с успешным прохождением классификации!
+
+**Картинки секции:**
+- new: novosti/novosti-711.jpg | src: https://kasimovskie-zori.ru/news/liz-01.jpg | alt: ""
+- new: novosti/novosti-712.jpg | src: https://kasimovskie-zori.ru/news/liz-02.jpg | alt: ""
+- new: novosti/novosti-713.jpg | src: https://kasimovskie-zori.ru/news/liz-03.jpg | alt: ""
+- new: novosti/novosti-714.jpg | src: https://kasimovskie-zori.ru/news/dr20231109-mini.jpg | alt: ""
+
+### Сегодня свой юбилей отмечает отдыхающая санатория Раиса Ивановна {#dr20231109}
+
+09.11.2023
+
+Сегодня свой юбилей отмечает отдыхающая санатория «КАСИМОВСКИЕ ЗОРИ» Раиса Ивановна
+
+Она приехала из города Рязани и проходит лечение в нашем санатории впервые.
+
+«Мне очень нравится в санатории, отличные условия и великолепная природа. Я первый раз приехала к вам и хочу отметить работу сотрудников. Это прекрасный персонал, который дарит нам заботу, внимание и комфорт, делая наш
+
+отдых по-настоящему незабываемым. Я обязательно еще приеду в это замечательное место» - сказала Раиса Ивановна.
+
+Пожелаем имениннице крепкого здоровья, радости, гармонии и благополучия! Пусть в доме всегда будет мир, уют и семейное счастье!
+
+**Картинки секции:**
+- new: novosti/novosti-715.jpg | src: https://kasimovskie-zori.ru/news/dr20231109-01.jpg | alt: ""
+- new: novosti/novosti-716.jpg | src: https://kasimovskie-zori.ru/news/nov7-mini.jpg | alt: ""
+
+### День народного единства {#nov7}
+
+08.11.2023
+
+4 ноября вся наша страна отметила еще совсем молодой праздник –  
+День народного единства!
+
+Это дата исторической мудрости российского народа, символ независимости, государственности и жизнестойкости России. Мы по праву гордимся нашей страной, ее успехами и достижениями, верим в ее будущее. Всех нас объединяет чувство гордости за нашу Родину, за ее славную историю. И в этот праздник с особенной силой ощущаем, что мы – единый и могучий русский народ, и у нас одно Отечество – Россия.
+
+В этот праздничный день в санатории "КАСИМОВСКИЕ ЗОРИ" прошёл концерт, посвященный Дню народного единства. В зале присутствовали не только отдыхающие санатория, но и гости из города Касимова и Касимовского района. В течение 2 часов шёл концерт, в зале царила атмосфера всеобщего воодушевления. Со сцены звучали песни о родине, о России, о любви. Выступление Николая Семенова сложилось в яркую интересную программу, которая подарила отличное настроение гостям праздничного концерта.
+
+**Картинки секции:**
+- new: novosti/novosti-717.jpg | src: https://kasimovskie-zori.ru/news/nov7-01.jpg | alt: ""
+- new: novosti/novosti-718.jpg | src: https://kasimovskie-zori.ru/news/nov7-02.jpg | alt: ""
+- new: novosti/novosti-719.jpg | src: https://kasimovskie-zori.ru/news/nov7-03.jpg | alt: ""
+- new: novosti/novosti-720.jpg | src: https://kasimovskie-zori.ru/news/nov7-04.jpg | alt: ""
+- new: novosti/novosti-721.jpg | src: https://kasimovskie-zori.ru/news/egor-mini.jpg | alt: ""
+
+### Cотрудники санатория посетили город Егорьевска Московской области {#egor}
+
+03.11.2023
+
+26 октября сотрудники санатория «КАСИМОВСКИЕ ЗОРИ» посетили ряд предприятий и учреждений города Егорьевска Московской области.
+
+Большой интерес у работников вызвали программы оздоровления, ведь санаторий «КАСИМОВСКИЕ ЗОРИ» специализирован на лечении заболеваний опорно-двигательного аппарата, сердечно-сосудистой, нервной системы, а также заболеваний органов дыхания. Для лиц с избыточным весом есть программа «Стремление к совершенству».
+
+В санатории можно отдохнуть и поправить здоровье не только в рамках лечебных программ, но и приобрести путевку выходного дня, приехать в санаторий по программе «Релакс. Также менеджеры санатория могут составить индивидуальную программу отдыха для групповых заездов.
+
+Встречи прошли плодотворно и интересно, сотрудники предприятий и учреждений Егорьевска получили приглашение на отдых и оздоровление в «КАСИМОВСКИЕ ЗОРИ».
+
+**Картинки секции:**
+- new: novosti/novosti-722.jpg | src: https://kasimovskie-zori.ru/news/egor-01.jpg | alt: ""
+- new: novosti/novosti-723.jpg | src: https://kasimovskie-zori.ru/news/egor-02.jpg | alt: ""
+- new: novosti/novosti-724.jpg | src: https://kasimovskie-zori.ru/news/egor-03.jpg | alt: ""
+- new: novosti/novosti-725.jpg | src: https://kasimovskie-zori.ru/news/egor-04.jpg | alt: ""
+- new: novosti/novosti-726.jpg | src: https://kasimovskie-zori.ru/news/eck-mini.jpg | alt: ""
+
+### Отдыхайте в санатории со скидкой по ЕЦК {#eck2023}
+
+30.10.2023
+
+Отдыхайте в санатории со скидкой по ЕЦК
+
+«Касимовские зори» — место, где природа сочетается с уютной атмосферой, способной унести в мир гармонии и покоя. Расположенный в живописном уголке природы, санаторий предлагает уникальные программы восстановления здоровья, дополненные современными номерами и полезной кухней, чтобы каждый гость мог чувствовать себя комфортно и отдохнуть от суеты повседневности.
+
+С ЕЦК можно купить санаторно-курортную путёвку и получить скидку 3% на программу «Базовая лечебная» или сэкономить 5% от стоимости проживания по тарифу «Проживание с питанием»:
+
+Скидки действуют до 31 декабря 2023 года при предъявлении ЕЦК  
+и не суммируются с другими акциями.
+
+Реклама. ООО «РЕСУРСЫ ПАРТНЕРОВ РЯЗАНЬ»  
+ИНН: 6230047011
+
+**Картинки секции:**
+- new: novosti/novosti-726.jpg | src: https://kasimovskie-zori.ru/news/eck-mini.jpg | alt: ""
+- new: novosti/novosti-727.jpg | src: https://kasimovskie-zori.ru/news/mfp-mini.jpg | alt: ""
+
+### Санаторий «КАСИМОВСКИЕ ЗОРИ» присоединился к программе лояльности Московской Федерации профсоюзов {#mfp}
+
+26.10.2023
+
+Санаторий «КАСИМОВСКИЕ ЗОРИ» присоединился к программе лояльности Московской Федерации профсоюзов
+
+Программа лояльности Московской Федерации профсоюзов – это комплекс привилегий, направленный на повышение уровня благосостояния профсоюзных организаций города Москвы и их членов, путем получения особых условий при приобретении товаров и услуг.
+
+Всем участникам Программы лояльности Московской Федерации профсоюзов, владеющим Персональной картой члена профсоюзов или электронным аналогом карты в мобильном приложении "Мой профсоюз", предоставляется:  
+- 5%-скидка – на оплату проживания и питания в санатории «Касимовские Зори» с 1-го дня пребывания;
+- 15%-скидка – участникам Программы на санаторно-курортное лечение по программе «Общетерапевтическая для профсоюзов».
+
+**Картинки секции:**
+- new: novosti/novosti-728.jpg | src: https://kasimovskie-zori.ru/news/mfp-01.jpg | alt: ""
+- new: novosti/novosti-729.jpg | src: https://kasimovskie-zori.ru/news/mfp-02.jpg | alt: ""
+- new: novosti/novosti-730.jpg | src: https://kasimovskie-zori.ru/news/ivanovo-mini.jpg | alt: ""
+
+### 19 октября сотрудники санатория «КАСИМОВСКИЕ ЗОРИ» посетили организации и предприятия города Иваново {#ivanovo}
+
+26.10.2023
+
+19 октября сотрудники санатория «КАСИМОВСКИЕ ЗОРИ» посетили организации и предприятия города Иваново
+
+Многие десятилетия город Иваново традиционно считается центром текстильной промышленности, где качество производимых товаров признается одним из лучших в Мире. Много городских предприятий работает в этом направлении.
+
+Одна из встреч прошла с рабочими компании «ИНФОТЕКС Иваново», которая зарекомендовала себя как надежное
+
+предприятие, основным видом деятельности которого является производство готовых текстильных изделий. Сотрудники санатория рассказали о лечебных программах, условиях проживания и питания, ответили на многочисленные вопросы и пригласили на отдых и оздоровление в санаторий «КАСИМОВСКИЕ ЗОРИ».
+
+**Картинки секции:**
+- new: novosti/novosti-731.jpg | src: https://kasimovskie-zori.ru/news/ivanovo-01.jpg | alt: ""
+- new: novosti/novosti-732.jpg | src: https://kasimovskie-zori.ru/news/ivanovo-02.jpg | alt: ""
+- new: novosti/novosti-733.jpg | src: https://kasimovskie-zori.ru/news/ivanovo-03.jpg | alt: ""
+- new: novosti/novosti-734.jpg | src: https://kasimovskie-zori.ru/news/bday12102023-mini.jpg | alt: ""
+
+### Сегодня в санатории "КАСИМОВСКИЕ ЗОРИ" свой юбилей отмечал Александр Владимирович {#bday12102023}
+
+12.10.2023
+
+Сегодня в санатории "КАСИМОВСКИЕ ЗОРИ" свой юбилей отмечал гость из города Владимира  
+Александр Владимирович. Администратор Елена поздравила именинника и вручила ему подарок.
+
+"Мне очень нравится в санатории, особенно в осенний период, очень красивая природа и Ока в это время. Хорошее питание, кормят вкусно. Замечательно, что организован шведский стол на завтрак, а на обед и ужин заказное меню. Отдельное спасибо медицинскому персоналу санатория, в отделении чисто и уютно, удобная система распределения процедур,
+
+назначенных врачом. Проживаем мы в большом и хорошем номере, в котором есть все необходимое, в нем постоянно поддерживается чистота и порядок, уборка проводится ежедневно. В санаторий я приезжаю уже второй раз и обязательно приеду еще" - отметил Александр Владимирович.
+
+Мы желаем имениннику крепкого здоровья, позитивного настроения, добра и благополучия! Пусть в доме всегда будет мир, уют, семейное счастье!
+
+**Картинки секции:**
+- new: novosti/novosti-735.jpg | src: https://kasimovskie-zori.ru/news/bday12102023-01.jpg | alt: ""
+- new: novosti/novosti-736.jpg | src: https://kasimovskie-zori.ru/news/bday12102023-02.jpg | alt: ""
+- new: novosti/novosti-737.jpg | src: https://kasimovskie-zori.ru/news/utk-mini.jpg | alt: ""
+
+### Санаторий "КАСИМОВСКИЕ ЗОРИ" выступил спонсором Всероссийских соревнований по бильярдному спорту {#utk}
+
+08.10.2023
+
+Санаторий "КАСИМОВСКИЕ ЗОРИ" выступил спонсором Всероссийских соревнований по бильярдному спорту «Свободная пирамида».
+
+6-8 октября состоялись всероссийские соревнования по бильярдному спорту «Свободная пирамида» среди мужчин и женщин, посвященные 100-летию со дня рождения Российского ученого, конструктора, дважды героя Социалистического труда, лауреата Ленинской премии, академика АН СССР, Почётного гражданина Касимовского района Владимира Федоровича Уткина.
+
+55 спортсменов из 10 регионов нашей страны приняли участие в соревнованиях. Победители и призеры награждались кубками, медалями, грамотами и денежными призами спонсоров данного турнира.
+
+Генеральному директору ООО "КАСИМОВСКИЕ ЗОРИ" Олегу Мешкову была вручена благодарность дочери академика В.Ф. Уткина Натальи Владимировны Ситниковой за оказанную помощь в проведении соревнований.
+
+**Картинки секции:**
+- new: novosti/novosti-738.jpg | src: https://kasimovskie-zori.ru/news/utk-01.jpg | alt: ""
+- new: novosti/novosti-739.jpg | src: https://kasimovskie-zori.ru/news/utk-02.jpg | alt: ""
+- new: novosti/novosti-740.jpg | src: https://kasimovskie-zori.ru/news/arzamas-2023-mini.jpg | alt: ""
+
+### 5 октября сотрудники санатория "КАСИМОВСКИЕ ЗОРИ" посетили город Арзамас {#arzamas-2023}
+
+05.10.2023
+
+5 октября сотрудники санатория "КАСИМОВСКИЕ ЗОРИ" посетили город Арзамас  
+Нижегородской области, он расположен в 112 км к югу от Нижнего Новгорода.»
+
+Промышленный комплекс города представлен предприятиями машиностроения, радио- и приборостроения, стройиндустрии, пищевой промышленности.
+
+Встретились с сотрудниками крупнейших заводов оборонной промышленности - ОАО "Арзамасский машиностроительный
+
+завод", АО "Арзамасский приборостроительный завод им. П.И. Пландина" и других промышленных предприятий города. Рассказали о работе санатория "КАСИМОВСКИЕ ЗОРИ", его лечебных программах, современном медицинском оборудовании, условиях питания и проживания, ответили на многочисленные вопросы. Пригласили на отдых и оздоровление в санаторий.
+
+**Картинки секции:**
+- new: novosti/novosti-741.jpg | src: https://kasimovskie-zori.ru/news/arzamas-2023-01.jpg | alt: ""
+- new: novosti/novosti-742.jpg | src: https://kasimovskie-zori.ru/news/arzamas-2023-02.jpg | alt: ""
+- new: novosti/novosti-743.jpg | src: https://kasimovskie-zori.ru/news/arzamas-2023-03.jpg | alt: ""
+- new: novosti/novosti-744.jpg | src: https://kasimovskie-zori.ru/news/arzamas-2023-04.jpg | alt: ""
+- new: novosti/novosti-745.jpg | src: https://kasimovskie-zori.ru/news/samo-mini.jpg | alt: ""
+
+### Музей в Касимове {#samo}
+
+04.10.2023
+
+Музей в Касимове
+
+Музей был открыт в Касимове в день 850-летия города, в сентябре 2007 года. В его коллекции представлено около 300 разнокалиберных экспонатов, представляющих четыре века русского чаепития.
+
+Один из самых первых самоваров, выпущенных тульской фабрикой Назара Лисицина в 1778 году, — родоначальник всего собрания. Есть здесь самовары тульских фабрик Баташова, Тейле, братьев Маликовых, Санкт-Петербургской фабрики Дубынина и некоторых других: от гигантов вместительностью четыре ведра, стоявших на железнодорожных вокзалах, до малютки емкостью всего в один стакан.
+
+В музее можно увидеть самовары, из которых пили чай Николай II и великий князь Сергей Александрович, адмирал Колчак и Сергей Есенин, Александр Керенский и граф Бобринский.
+
+Касимовский музей «Русский самовар» уже стал одной из самых ярких достопримечательностей региона. Свое удивительное собрание сделал доступным для всех уроженец Тульской области, а теперь Почетный гражданин Касимова Михаил Силков. Коллекцию он собирал несколько десятков лет.
+
+В четырех залах музея площадью 320 кв. метров представлено более 400 самоваров различной формы и размера, изготовленных на тульских фабриках Баташёвых, Тейле, братьев Маликовых, Санкт-Петербургской фабрике Дубынина. Один из самых первых самоваров, выпущенных тульской фабрикой Назара Лисицина в 1778 г. – родоначальник всего собрания. В экспозиции музея также представлены сопутствующие чаепитию предметы русского быта.
+
+**Картинки секции:**
+- new: novosti/novosti-746.jpg | src: https://kasimovskie-zori.ru/news/samo-01.jpg | alt: ""
+- new: novosti/novosti-747.jpg | src: https://kasimovskie-zori.ru/news/samo-02.jpg | alt: ""
+- new: novosti/novosti-748.jpg | src: https://kasimovskie-zori.ru/news/samo-03.jpg | alt: ""
+- new: novosti/novosti-749.jpg | src: https://kasimovskie-zori.ru/news/samo-04.jpg | alt: ""
+- new: novosti/novosti-750.jpg | src: https://kasimovskie-zori.ru/news/fedo-mini.jpg | alt: ""
+
+### Творческий вечер Федосовой Валентины Ивановны в санатории "КАСИМОВСКИЕ ЗОРИ". {#fedo}
+
+02.10.2023
+
+30 сентября состоялся творческий вечер Федосовой Валентины Ивановны в санатории "КАСИМОВСКИЕ ЗОРИ".
+
+Зрители на протяжении всего концерта подпевали народные песни, романсы и танцевали под замечательную музыку. А как иначе? Ведь не обошлось без музыкальных сюрпризов – на сцену выходили отдыхающие и сотрудники санатория со своими собственными номерами, все пришли поддержать нашу дорогую Валентину Ивановну.
+
+Огромный восторг зрителей вызвало её выступление под великолепную игру Евгения Коржевина.
+
+Столько души и тепла было в этих песнях. Женщина-звезда. Женщина-вселенная. Ее обожают поклонники. Она всегда звучит ярко, на сцене не играет, а просто живет, отдает часть своего сердца и души.
+
+Она обладает большим человеческим обаянием. Валентина Ивановна эмоционально щедра и отзывчива, она любит своё искусство и свою публику, и они отвечают ей тем же.
+
+Концерт прошел на одном дыхании, а в завершении вечера Валентине Ивановне вручили цветы и подарок от коллектива санатория "КАСИМОВСКИЕ ЗОРИ".
+
+[встраивание: https://www.youtube.com/embed/jISRNrPTYlg?si=rV9yp3oYVnb9sp8Q]
+
+**Картинки секции:**
+- new: novosti/novosti-751.jpg | src: https://kasimovskie-zori.ru/news/fedo-01.jpg | alt: ""
+- new: novosti/novosti-752.jpg | src: https://kasimovskie-zori.ru/news/fedo-02.jpg | alt: ""
+- new: novosti/novosti-753.jpg | src: https://kasimovskie-zori.ru/news/fedo-03.jpg | alt: ""
+- new: novosti/novosti-754.jpg | src: https://kasimovskie-zori.ru/news/fedo-04.jpg | alt: ""
+- new: novosti/novosti-755.jpg | src: https://kasimovskie-zori.ru/news/srtf-mini.jpg | alt: ""
+
+### Подарочные сертификаты {#srtf}
+
+25.09.2023
+
+Санаторий «КАСИМОВСКИЕ ЗОРИ» предлагает приобрести подарочные сертификаты на оказание медицинских и косметологических услуг.
+
+И сегодня наш санаторий посетила обладательница такого сертификата Нина Васильевна.
+
+«Мне очень понравился санаторий «КАСИМОВСКИЕ ЗОРИ», это прекрасное место не только для восстановления здоровья и реабилитации после болезни, профилактики заболеваний, но и для отличного отдыха всей семьей. Современное оборудование, высококвалифицированный персонал дают возможность получить гарантированный оздоровительный эффект.
+
+В рамках подарочного сертификата мне был представлен широкий спектр медицинских услуг: замечательная «жемчужна» ванна, общий ручной массаж с несколькими
+
+видами аппаратного массажа, бассейн, соляная пещера, фитобар, кислородный коктейль.
+
+Очень приятно получить такой важный, нужный и полезный подарок, ведь это столько положительных эмоций, расслабления, тепла и здоровья.
+
+Выражаю слова благодарности медицинскому персоналу санатория, лично главному врачу Фоминой Ольге Васильевне за очень внимательное отношение к людям, теплоту и заботу. Санаторий «КАСИМОВСКИЕ ЗОРИ» - это место куда хочется возвращаться вновь и вновь. Спасибо руководителям и коллективу за такую работу» - отметила Нина Васильевна.
+
+**Картинки секции:**
+- new: novosti/novosti-756.jpg | src: https://kasimovskie-zori.ru/news/crtf-01.jpg | alt: ""
+- new: novosti/novosti-757.jpg | src: https://kasimovskie-zori.ru/news/quality-mini.jpg | alt: ""
+
+### Санаторий "КАСИМОВСКИЕ ЗОРИ" в едином реестре «РЯЗАНСКОЕ КАЧЕСТВО». {#srtf}
+
+20.09.2023
+
+Санаторий "КАСИМОВСКИЕ ЗОРИ" состоит в едином реестре сведений о присвоенных знаках «РЯЗАНСКОЕ КАЧЕСТВО».
+
+Все предприятия, удостоенные знака, имеют сертификаты соответствия «Рязанское качество», безупречную репутацию, предоставляют льготы для отдельных категорий граждан, проводят большую работу по повышению профессионального уровня работников, участвуют в специализированных конкурсах. Присуждение регионального знака «Рязанское качество» свидетельствует о высоком качестве производимой продукции, отсутствие претензий по качеству оказанных услуг (работ). Решение о присвоении регионального знака «Рязанское качество» принимается межведомственной комиссией, в состав которой входят представители министерства экономического развития и торговли Рязанской области,
+
+министерства сельского хозяйства и продовольствия региона, контролирующих и надзорных органов, общественных организаций.
+
+Именно качество дает потребителю уверенность в правильности выбора товара или услуги. Знак «Рязанское качество» стал узнаваемым брендом для всех жителей области и гостей нашего региона. А для предприятий это дополнительный стимул, который позволяет укрепить доверие потребителей и получить общественное признание.
+
+**Картинки секции:**
+- new: novosti/novosti-758.jpg | src: https://kasimovskie-zori.ru/news/quality-01.jpg | alt: ""
+- new: novosti/novosti-759.jpg | src: https://kasimovskie-zori.ru/news/leisure2023-mini.jpg | alt: ""
+
+### Сотрудники санатория "КАСИМОВСКИЕ ЗОРИ" приняли участие в международном форуме {#leisure2023}
+
+18.09.2023
+
+Сотрудники санатория "КАСИМОВСКИЕ ЗОРИ" приняли участие в международном форуме-выставке по туризму ОТДЫХ Leisure 2023.
+
+На площадке форума собрались ведущие экономисты, стратеги, маркетологи и технологи – люди, создающие и определяющие будущее путешествий, чтобы обсудить и скорректировать свои взгляды для решения самых серьезных проблем туристической отрасли.
+
+Свои стенды представили: Китай, Индия, Египет, Венесуэла, Кипр, Турция, Тунис, Эфиопия, Кения, Мальдивы, Малайзия, Таиланд, Шри-Ланка, Белоруссия, Казахстан, Узбекистан и другие.
+
+На стенде «Касимовский край» был представлен туристический потенциал города Касимова и Касимовского района, в том числе санаторий «Касимовские зори». Сотрудники санаторий активно сотрудничали с представителями туристических организаций, турагентствами и туроператорами.
+
+Подобные выставки—это уникальная возможность заявить о себе, найти новых партнёров, увеличить количество клиентов, одним словом, продвинуть себя и свой турпродукт. Кроме того, такие выставки помогают изучить туристический рынок: узнать спрос и увидеть актуальные предложения и новые тренды.
+
+Форум проходил с 12 по 14 сентября под девизом года «Отдых: код будущего» и все три дня на стендах иностранных и российских участников велась активная работа: встречи, переговоры, деловое общение.
+
+Участие в выставке стало возможным благодаря всесторонней поддержке АНО «Агентство развития бизнеса Рязанской области», Центра «Мой бизнес» в рамках реализации нацпроекта «Малое и среднее предпринимательство и поддержка индивидуальной предпринимательской инициативы».
+
+**Картинки секции:**
+- new: novosti/novosti-760.jpg | src: https://kasimovskie-zori.ru/news/leisure2023-01.jpg | alt: ""
+- new: novosti/novosti-761.jpg | src: https://kasimovskie-zori.ru/news/leisure2023-02.jpg | alt: ""
+- new: novosti/novosti-762.jpg | src: https://kasimovskie-zori.ru/news/leisure2023-03.jpg | alt: ""
+- new: novosti/novosti-763.jpg | src: https://kasimovskie-zori.ru/news/leisure2023-04.jpg | alt: ""
+- new: novosti/novosti-764.jpg | src: https://kasimovskie-zori.ru/news/leisure2023-05.jpg | alt: ""
+- new: novosti/novosti-765.jpg | src: https://kasimovskie-zori.ru/news/leisure2023-06.jpg | alt: ""
+- new: novosti/novosti-766.jpg | src: https://kasimovskie-zori.ru/news/leisure2023-07.jpg | alt: ""
+- new: novosti/novosti-767.jpg | src: https://kasimovskie-zori.ru/news/leisure2023-08.jpg | alt: ""
+- new: novosti/novosti-768.jpg | src: https://kasimovskie-zori.ru/news/leisure2023-09.jpg | alt: ""
+- new: novosti/novosti-769.jpg | src: https://kasimovskie-zori.ru/news/leisure2023-10.jpg | alt: ""
+- new: novosti/novosti-770.jpg | src: https://kasimovskie-zori.ru/news/leisure2023-11.jpg | alt: ""
+- new: novosti/novosti-771.jpg | src: https://kasimovskie-zori.ru/news/leisure2023-12.jpg | alt: ""
+- new: novosti/novosti-772.jpg | src: https://kasimovskie-zori.ru/news/leisure2023-13.jpg | alt: ""
+- new: novosti/novosti-773.jpg | src: https://kasimovskie-zori.ru/news/leisure2023-14.jpg | alt: ""
+- new: novosti/novosti-774.jpg | src: https://kasimovskie-zori.ru/news/pavlovo-mini.jpg | alt: ""
+
+### Сотрудники санатория «КАСИМОВСКИЕ ЗОРИ» посетили город Павлово Нижегородской области {#pavlovo}
+
+07.09.2023
+
+6 сентября сотрудники санатория «КАСИМОВСКИЕ ЗОРИ» посетили город Павлово Нижегородской области
+
+В ходе программы визита они провели встречи с руководителями и сотрудниками предприятий и учреждений города, на которых обсуждались вопросы взаимного сотрудничества, оказание медицинской помощи при санаторно-курортном лечении, организации отдыха и досуга.
+
+С большим интересом присутствующие слушали информацию об использовании в лечении уникальной Сапожковской грязи.
+
+Лечебная грязь – это природное образование, которое состоит из минеральных и органических веществ. В санатории "КАСИМОВСКИЕ ЗОРИ" используется известная в России более 50 лет и единственная по своим свойствам Сапожковская торфяная грязь с собственного участка добычи.
+
+Исследования Федерального научного центра восстановительной медицины и курортологии показали, что эта грязь обладает антибактериальными свойствами, оказывает тепловое и химическое действие, обладает выраженным обезболивающим и противоотечным действием, уменьшает воспалительный процесс и способствует его ликвидации, улучшает питание тканей, тонус мышц, обеспечивает процессы восстановления поврежденных тканей, повышение двигательной активности, участвует в формировании оболочек нервов.
+
+Грязь применяется в виде аппликаций на пораженный орган и с помощью электрофореза как электрогрязь.
+
+Показания для применения грязи очень обширны – болезни костно-мышечной системы и соединительной ткани, последствия травм опорно-двигательного аппарата и реабилитация после операций на костях и суставах, заболевания периферической нервной системы, болезни органов дыхания, болезни органов пищеварения, гинекологические заболевания.
+
+Грязелечение является одной из самых эффективных процедур. Лечебная грязь Сапожковского месторождения успешно используются в нашем санатории для лечения отдыхающих. На грязелечение приезжают больные из самых разных уголков нашей страны. Оно широко сочетается с лечебными ваннами, в т.ч. подводным вытяжением, электролечением, лечебной физкультурой.
+
+Встречи прошли в теплой и дружественной обстановке, сотрудники санатория ответили на многочисленные вопросы и пригласили представителей предприятий и учреждений города Павлово посетить "КАСИМОВСКИЕ ЗОРИ".
+
+**Картинки секции:**
+- new: novosti/novosti-775.jpg | src: https://kasimovskie-zori.ru/news/pavlovo-01.jpg | alt: ""
+- new: novosti/novosti-776.jpg | src: https://kasimovskie-zori.ru/news/valnik-mini.jpg | alt: ""
+
+### В санатории "КАСИМОВСКИЕ ЗОРИ" продолжается добрая традиция поздравления отдыхающих с днем рождения. {#valnik}
+
+07.09.2023
+
+В санатории "КАСИМОВСКИЕ ЗОРИ" продолжается добрая традиция поздравления отдыхающих с днем рождения.
+
+Сегодня мы чествовали Валерия Леонидовича, который приехал к нам из города Рязани.
+
+"Я впервые посетил ваш санаторий и хочу сказать большое спасибо всем сотрудникам за доброе отношение к отдыхающим, за вкусную кухню, прекрасные медицинские процедуры, за чистоту и свежесть в номерах.
+
+Отдельное спасибо главному врачу санатория Фоминой Ольге Васильевне и администратору Инне за профессионализм и добрую душу. Ну, и конечно, спасибо руководству за слаженную работу всего санатория!", - отметил Валерий Леонидович.
+
+Мы желаем имениннику крепкого здоровья, счастья, удачи и благополучия!
+
+**Картинки секции:**
+- new: novosti/novosti-777.jpg | src: https://kasimovskie-zori.ru/news/valnik-01.jpg | alt: ""
+- new: novosti/novosti-778.jpg | src: https://kasimovskie-zori.ru/news/valnik-02.jpg | alt: ""
+- new: novosti/novosti-779.jpg | src: https://kasimovskie-zori.ru/news/dinamo-mini.jpg | alt: ""
+
+### Санаторий "КАСИМОВСКИЕ ЗОРИ" выступил партнером открытого кубка по пляжному волейболу... {#dinamo}
+
+07.09.2023
+
+Санаторий "КАСИМОВСКИЕ ЗОРИ" выступил партнером проведения открытого кубка общества «Динамо» по пляжному волейболу, посвящённого 100-летию спортивного общества.
+
+Мероприятие состоялось 2 и 3 сентября на спортивной базе «Динамо» имени Н.Н. Родионова, которая расположена на берегу озера в поселке Сынтул в Касимовском районе.
+
+В соревнованиях приняли участие 40 спортсменов, которые приехали в наш регион из Нижнего Новгорода,
+
+Воронежа, Липецка, Московской области, также участвовали представители Рязани и Касимова.
+
+Поздравляем всех специалистов спортивной базы, тренеров, спортсменов, ветеранов спорта со 100-летием "Динамо". Желаем всем процветания, успехов, крепкого здоровья и новых спортивных побед и достижений!
+
+**Картинки секции:**
+- new: novosti/novosti-780.jpg | src: https://kasimovskie-zori.ru/news/dinamo-01.jpg | alt: ""
+- new: novosti/novosti-781.jpg | src: https://kasimovskie-zori.ru/news/dinamo-02.jpg | alt: ""
+- new: novosti/novosti-782.jpg | src: https://kasimovskie-zori.ru/news/8year-mini.jpg | alt: ""
+
+### 25 августа 2023 года санаторий «Касимовские Зори» отметил 8 лет со дня основания. {#8year}
+
+25.08.2023
+
+25 августа 2023 года санаторий «Касимовские Зори» отметил 8 лет со дня основания.
+
+Генеральный директор ООО «КАСИМОВСКИЕ ЗОРИ» Мешков Олег Юрьевич поздравил весь коллектив санатория и гостей с 8-летием со дня образования санатория и вручил Почетные грамоты и ценные подарки лучшим сотрудникам.
+
+«Наш санаторий прошел интересный и важный путь развития, уже накопив опыт, мудрость и традиции. Касимовские Зори — личная гордость Зорина Виктора Николаевича, который всегда мечтал и воплощал свои мечты в жизнь. Нам есть чем гордиться!
+
+И это результат добросовестной работы всего коллектива, который каждый день создаёт успешное будущее и стойко преодолевает сложности. Уверен, что впереди всех нас ждут новые победы, радости, успехи, достижения и процветание! Я желаю насыщенных яркими событиями дней, исполнения желаний, интересных проектов, крепкого здоровья, успехов и семейного тепла!» – отметил Олег Юрьевич.
+
+**Картинки секции:**
+- new: novosti/novosti-783.jpg | src: https://kasimovskie-zori.ru/news/8year-01.jpg | alt: ""
+- new: novosti/novosti-784.jpg | src: https://kasimovskie-zori.ru/news/8year-02.jpg | alt: ""
+- new: novosti/novosti-785.jpg | src: https://kasimovskie-zori.ru/news/8year-03.jpg | alt: ""
+- new: novosti/novosti-786.jpg | src: https://kasimovskie-zori.ru/news/8year-04.jpg | alt: ""
+- new: novosti/novosti-787.jpg | src: https://kasimovskie-zori.ru/news/8year-05.jpg | alt: ""
+- new: novosti/novosti-788.jpg | src: https://kasimovskie-zori.ru/news/8year-06.jpg | alt: ""
+- new: novosti/novosti-789.jpg | src: https://kasimovskie-zori.ru/news/8year-07.jpg | alt: ""
+- new: novosti/novosti-790.jpg | src: https://kasimovskie-zori.ru/news/8year-08.jpg | alt: ""
+- new: novosti/novosti-791.jpg | src: https://kasimovskie-zori.ru/news/8year-09.jpg | alt: ""
+- new: novosti/novosti-792.jpg | src: https://kasimovskie-zori.ru/news/8year-10.jpg | alt: ""
+- new: novosti/novosti-793.jpg | src: https://kasimovskie-zori.ru/news/8year-11.jpg | alt: ""
+- new: novosti/novosti-794.jpg | src: https://kasimovskie-zori.ru/news/8year-12.jpg | alt: ""
+- new: novosti/novosti-795.jpg | src: https://kasimovskie-zori.ru/news/8year-13.jpg | alt: ""
+- new: novosti/novosti-796.jpg | src: https://kasimovskie-zori.ru/news/8year-14.jpg | alt: ""
+- new: novosti/novosti-797.jpg | src: https://kasimovskie-zori.ru/news/8year-15.jpg | alt: ""
+- new: novosti/novosti-798.jpg | src: https://kasimovskie-zori.ru/news/8year-16.jpg | alt: ""
+- new: novosti/novosti-799.jpg | src: https://kasimovskie-zori.ru/news/8year-17.jpg | alt: ""
+- new: novosti/novosti-800.jpg | src: https://kasimovskie-zori.ru/news/8year-18.jpg | alt: ""
+- new: novosti/novosti-801.jpg | src: https://kasimovskie-zori.ru/news/8year-19.jpg | alt: ""
+- new: novosti/novosti-802.jpg | src: https://kasimovskie-zori.ru/news/spas-mini.jpg | alt: ""
+
+### Первый фестиваль "Яблочный Спас". {#spas}
+
+20.08.2023
+
+20 августа состоялся первый фестиваль "Яблочный Спас"  
+на территории санатория "КАСИМОВСКИЕ ЗОРИ".
+
+Участников мероприятия приветствовали заместитель главы администрации Касимовского района по социальной политике Эльвира Андрианова, генеральный директор ООО «Касимовские зори» Олег Мешков, глава Крутоярского сельского поселения Юлия Кадимова.
+
+Много работало интересных площадок, особенной популярностью пользовалось путешествие на катере по Оке, различные мастер-классы и яблочные угощения. Повара нашего санатория не остались в стороне, они приготовили вкуснейший яблочный взвар, испекли пироги с яблочным вареньем и с удовольствием угощали всех гостей фестиваля.
+
+Праздничное настроение создавали песенные и танцевальные коллективы из Рязани, Касимова и Касимовского района.
+
+В честь проведения первого фестиваля был высажен саженец яблони, он стал продолжением фруктового сада нашего санатория, в котором насчитывается уже более 400 деревьев.
+
+Центральной частью праздника стал конкурс на лучшую выпечку из яблок и конкурс фотографий "Эх, яблочко". Сотрудники санатория вошли в состав жюри и строго оценивали каждую работу. Коммерческий директор ООО "КАСИМОВСКИЕ ЗОРИ" Татьяна Соловьева поздравила присутствующих с праздником, поблагодарила всех участников и вручила победителям подарки от санатория.
+
+Приятно было видеть большое количество гостей и слышать положительные отзывы об организации праздника.
+
+Мы проделали большую работу и можно смело сказать, что все удалось! Первый фестиваль состоялся и он обязательно будет жить, приумножаться и процветать!
+
+Фестиваль подошёл к концу, а нам он оставил яркие впечатления, радость и хорошее настроение. Мы с нетерпением будем ждать следующего года, когда вновь гостеприимная земля Касимовских зорей будет встречать гостей "Яблочного Спаса".
+
+**Картинки секции:**
+- new: novosti/novosti-803.jpg | src: https://kasimovskie-zori.ru/news/spas-01.jpg | alt: ""
+- new: novosti/novosti-804.jpg | src: https://kasimovskie-zori.ru/news/spas-02.jpg | alt: ""
+- new: novosti/novosti-805.jpg | src: https://kasimovskie-zori.ru/news/spas-03.jpg | alt: ""
+- new: novosti/novosti-806.jpg | src: https://kasimovskie-zori.ru/news/spas-04.jpg | alt: ""
+- new: novosti/novosti-807.jpg | src: https://kasimovskie-zori.ru/news/spas-05.jpg | alt: ""
+- new: novosti/novosti-808.jpg | src: https://kasimovskie-zori.ru/news/spas-06.jpg | alt: ""
+- new: novosti/novosti-809.jpg | src: https://kasimovskie-zori.ru/news/spas-07.jpg | alt: ""
+- new: novosti/novosti-810.jpg | src: https://kasimovskie-zori.ru/news/spas-08.jpg | alt: ""
+- new: novosti/novosti-811.jpg | src: https://kasimovskie-zori.ru/news/spas-09.jpg | alt: ""
+- new: novosti/novosti-812.jpg | src: https://kasimovskie-zori.ru/news/spas-10.jpg | alt: ""
+- new: novosti/novosti-813.jpg | src: https://kasimovskie-zori.ru/news/spas-11.jpg | alt: ""
+- new: novosti/novosti-814.jpg | src: https://kasimovskie-zori.ru/news/spas-12.jpg | alt: ""
+- new: novosti/novosti-815.jpg | src: https://kasimovskie-zori.ru/news/spas-13.jpg | alt: ""
+- new: novosti/novosti-816.jpg | src: https://kasimovskie-zori.ru/news/spas-14.jpg | alt: ""
+- new: novosti/novosti-817.jpg | src: https://kasimovskie-zori.ru/news/spas-15.jpg | alt: ""
+- new: novosti/novosti-818.jpg | src: https://kasimovskie-zori.ru/news/spas-16.jpg | alt: ""
+- new: novosti/novosti-819.jpg | src: https://kasimovskie-zori.ru/news/spas-17.jpg | alt: ""
+- new: novosti/novosti-820.jpg | src: https://kasimovskie-zori.ru/news/spas-18.jpg | alt: ""
+- new: novosti/novosti-821.jpg | src: https://kasimovskie-zori.ru/news/spas-19.jpg | alt: ""
+- new: novosti/novosti-822.jpg | src: https://kasimovskie-zori.ru/news/spas-20.jpg | alt: ""
+- new: novosti/novosti-823.jpg | src: https://kasimovskie-zori.ru/news/apple23-mini.jpg | alt: ""
+
+### Фестиваль «Яблочный Спас» {#apple23}
+
+18.08.2023
+
+Уже 20 августа в 15.00 часов в санатории "КАСИМОВСКИЕ ЗОРИ" пройдет одно из самых заметных событий этого сезона - фестиваль «Яблочный Спас».
+
+Совместно с администрацией Касимовского района мы очень готовимся к этому празднику. У жителей и гостей нашего района будут уникальные возможности для развлечений и отдыха.
+
+Вас ждёт концерт творческих коллективов и солистов из Рязани, Касимова и Касимовского района. Вы сможете совершить путешествие на катере по р. Ока, покататься на лошадях, принять участие в мастер-классах и полакомиться яблочными изысками.
+
+В рамках фестиваля пройдет конкурс фотографий «Эх, яблочко» и конкурс на лучшую выпечку из яблок. Санаторий «КАСИМОВСКИЕ ЗОРИ» подготовил замечательные подарки для победителей, которые точно порадуют каждого участника!
+
+Жители города Касимова могут добраться до места проведения праздника на бесплатном автобусе. Посадка будет производиться на улице Советская (остановка "Радиоузел") в 14.30 час и в микрорайоне Приокский (остановка "Налоговая служба").
+
+Ждем всех желающих!
+
+**Картинки секции:**
+- new: novosti/novosti-824.jpg | src: https://kasimovskie-zori.ru/news/apple23-01.jpg | alt: ""
+- new: novosti/novosti-825.jpg | src: https://kasimovskie-zori.ru/news/apple23-02.jpg | alt: ""
+- new: novosti/novosti-826.jpg | src: https://kasimovskie-zori.ru/news/apple23-03.jpg | alt: ""
+- new: novosti/novosti-827.jpg | src: https://kasimovskie-zori.ru/news/apple23-04.jpg | alt: ""
+- new: novosti/novosti-828.jpg | src: https://kasimovskie-zori.ru/news/bir-mini.jpg | alt: ""
+
+### Поздравление с днем рождения отдыхающих санатория «КАСИМОВСКИЕ ЗОРИ» {#bir}
+
+08.08.2023
+
+Стало доброй традицией поздравление с днем рождения  
+отдыхающих санатория «КАСИМОВСКИЕ ЗОРИ»
+
+Сегодня мы чествовали сразу двоих гостей санатория. Зинаида Петровна приехала к нам из Сасовского района, она человек с удивительной судьбой, около 25 лет отработала учителем русского языка и литературы в школе, всю свою жизнь посвятив детям. Уже второй раз она отдыхает в нашем санатории и говорит, что ей очень приятно в этот день получить столько внимания и даже подарок. Завтра Зинаида Петровна уезжает домой и благодарит персонал санатория за доброжелательное отношение к отдыхающим. Льву Николаевичу сегодня исполнилось 82 года, он вместе с супругой Аллой Гавриловной не первый год отдыхает и проходит лечение в нашем санатории.
+
+Говорит, что администраторы — это очаровательные, милые, доброжелательные и улыбчивые люди, они с радостью принимают любого постояльца, рассказывают о правилах нахождения в санатории, направляют к врачу и в любое время отвечают на все наши вопросы.
+
+— Прекрасно организовано лечение, работает грамотный медицинский персонал, — говорит Лев Николаевич, — обязательно приеду к вам еще.
+
+Мы желаем дорогим именинникам крепкого здоровья, счастья, успехов в делах и исполнения желаний!
+
+**Картинки секции:**
+- new: novosti/novosti-829.jpg | src: https://kasimovskie-zori.ru/news/bir-01.jpg | alt: ""
+- new: novosti/novosti-830.jpg | src: https://kasimovskie-zori.ru/news/bir-02.jpg | alt: ""
+- new: novosti/novosti-831.jpg | src: https://kasimovskie-zori.ru/news/kovrov-mini.jpg | alt: ""
+
+### 3 августа сотрудники санатория «КАСИМОВСКИЕ ЗОРИ» посетили город Ковров {#kovrov}
+
+08.08.2023
+
+3 августа сотрудники санатория «КАСИМОВСКИЕ ЗОРИ»  
+посетили город Ковров Владимирской области
+
+В ходе визита в Ковров сотрудники ООО «КАСИМОВСКИЕ ЗОРИ» посетили завод имени В.А. Дегтярева, который является самым крупным промышленным предприятием города, здесь производят огнестрельное и другое оружие, мотоциклы, мотовездеходы, промышленные швейные машины и оборудование для пищевой промышленности. С председателем первичной профсоюзной организации Романом Рябиковым и заместителем председателя профкома Владимиром Шиловым обсудили варианты сотрудничества с санаторием "КАСИМОВСКИЕ ЗОРИ", который предлагает специальную долгосрочную лечебную программу «Общетерапевтическая для профсоюзов» со скидкой 15% для работающих и ветеранов предприятия.
+
+Также плодотворно и интересно прошли встречи на других предприятиях и в учреждениях города, на которых сотрудники получили приглашение на отдых и оздоровление в КАСИМОВСКИЕ ЗОРИ.
+
+Уже давно не секрет, что состояние здоровья, самочувствие и даже настроение пациентов зависит не только от профессионализма врачей, качества оздоровительных программ, но и от места, где проходит лечение. Комфортабельность нашего санатория, хорошая инфраструктура и ухоженная территория вызывают положительные эмоции, настраивают на позитивный лад и способствуют хорошему отдыху и скорейшему выздоровлению.
+
+**Картинки секции:**
+- new: novosti/novosti-832.jpg | src: https://kasimovskie-zori.ru/news/kovrov-01.jpg | alt: ""
+- new: novosti/novosti-833.jpg | src: https://kasimovskie-zori.ru/news/kovrov-02.jpg | alt: ""
+- new: novosti/novosti-834.jpg | src: https://kasimovskie-zori.ru/news/nujdin-mini.jpg | alt: ""
+
+### Творческий вечер-встреча с Виктором Михайловичем Нуждиным {#nujdin}
+
+30.07.2023
+
+Творческий вечер-встреча с Виктором Михайловичем Нуждиным
+
+Стало доброй традицией проведение в санатории "КАСИМОВСКИЕ ЗОРИ" творческих вечеров-встреч с Виктором Михайловичем Нуждиным, который дарит отдыхающим хорошее настроение и радость. Гости санатория получают настоящее удовольствие от живой музыки, народных и авторских песен, романсов,
+
+частушек, а главное - виртуозной игры на гармони. Положительная энергия и непосредственное выражение зрительских симпатий создают действительно праздничную, весёлую атмосферу на таких встречах в нашем санатории.
+
+**Картинки секции:**
+- new: novosti/novosti-835.jpg | src: https://kasimovskie-zori.ru/news/nujdin-01.jpg | alt: ""
+- new: novosti/novosti-836.jpg | src: https://kasimovskie-zori.ru/news/nujdin-02.jpg | alt: ""
+- new: novosti/novosti-837.jpg | src: https://kasimovskie-zori.ru/news/nujdin-03.jpg | alt: ""
+- new: novosti/novosti-838.jpg | src: https://kasimovskie-zori.ru/news/degree-mini.jpg | alt: ""
+
+### 27 июля отдыхающие посетили музей денег «Бабосики» и интерактивный музей «Тара под градусом». {#axl}
+
+28.07.2023
+
+27 июля отдыхающие санатория «КАСИМОВСКИЕ ЗОРИ» посетили Касимовский музей денег «Бабосики» и интерактивный музей  
+«Тара под градусом».
+
+Для гостей нашего города были проведены экскурсии и мастер-классы по чеканке «счастливых монет», они также смогли принять участие  
+в монетном атракционе и изготовить своими руками сувенирную «Монету счастья».
+
+Еще один музей, который запомнится отдыхающим, музей "Тара под градусом". Гости увидели уникальную коллекцию тары и алкогольных напитков, узнали об истории происхождения популярных напитков и производстве алкогольной продукции в Касимове.
+
+В этот день для них был подготовлен настоящий кулинарный шедевр – дегустация фирменных настоек. Присутствующие смогли насладиться разнообразием ароматов и оттенков, ощутить тонкие нюансы вкуса и впитать в себя богатство каждого настоя.
+
+Отдыхающие санатория "КАСИМОВСКИЕ ЗОРИ" выразили слова благодарности организаторам данных мероприятий, пожелали музеям дальнейшего развития и процветания, а коллективу — профессиональных успехов, вдохновения и благополучия.
+
+**Картинки секции:**
+- new: novosti/novosti-839.jpg | src: https://kasimovskie-zori.ru/news/degree-01.jpg | alt: ""
+- new: novosti/novosti-840.jpg | src: https://kasimovskie-zori.ru/news/degree-02.jpg | alt: ""
+- new: novosti/novosti-841.jpg | src: https://kasimovskie-zori.ru/news/degree-03.jpg | alt: ""
+- new: novosti/novosti-842.jpg | src: https://kasimovskie-zori.ru/news/degree-04.jpg | alt: ""
+- new: novosti/novosti-843.jpg | src: https://kasimovskie-zori.ru/news/degree-05.jpg | alt: ""
+- new: novosti/novosti-844.jpg | src: https://kasimovskie-zori.ru/news/degree-06.jpg | alt: ""
+- new: novosti/novosti-845.jpg | src: https://kasimovskie-zori.ru/news/degree-07.jpg | alt: ""
+- new: novosti/novosti-846.jpg | src: https://kasimovskie-zori.ru/news/degree-08.jpg | alt: ""
+- new: novosti/novosti-847.jpg | src: https://kasimovskie-zori.ru/news/degree-09.jpg | alt: ""
+- new: novosti/novosti-848.jpg | src: https://kasimovskie-zori.ru/news/degree-10.jpg | alt: ""
+- new: novosti/novosti-849.jpg | src: https://kasimovskie-zori.ru/news/fish-mini.jpg | alt: ""
+
+### Отдыхающие санатория посетили фестиваль «Рыбная феерия бабы Гали Ершистой» {#fish}
+
+22.07.2023
+
+Отдыхающие санатория «КАСИМОВСКИЕ ЗОРИ» посетили фестиваль  
+«Рыбная феерия бабы Гали Ершистой»
+
+22 июля отдыхающие санатория «КАСИМОВСКИЕ ЗОРИ» посетили первый фестиваль «Рыбная феерия бабы Гали Ершистой», который состоялся на конном дворе в д. Лощинино Касимовского района. Для всех гостей праздника была подготовлена интересная программа: театрализованные музыкальные номера от коллектива Лашманского сельского дома культуры, выставка творческих работ «Рыбка моей мечты»,
+
+работала площадка мастеров декоративно-прикладного творчества, проводились различные конкурсы и мастер-классы. Также были подведены итоги конкурса на лучший эскиз образа «Бабы Гали Ершистой». На протяжении всего фестиваля присутствующие смогли отведать ухи по специальному рецепту.
+
+Гости санатория выразили слова благодарности организаторам и участникам праздника и пожелали фестивалю «Рыбная феерия от бабы Гали Ершистой» дальнейшего развития и процветания.
+
+**Картинки секции:**
+- new: novosti/novosti-850.jpg | src: https://kasimovskie-zori.ru/news/fish-01.jpg | alt: ""
+- new: novosti/novosti-851.jpg | src: https://kasimovskie-zori.ru/news/fish-02.jpg | alt: ""
+- new: novosti/novosti-852.jpg | src: https://kasimovskie-zori.ru/news/fish-03.jpg | alt: ""
+- new: novosti/novosti-853.jpg | src: https://kasimovskie-zori.ru/news/fish-04.jpg | alt: ""
+- new: novosti/novosti-854.jpg | src: https://kasimovskie-zori.ru/news/fish-05.jpg | alt: ""
+- new: novosti/novosti-855.jpg | src: https://kasimovskie-zori.ru/news/fish-06.jpg | alt: ""
+- new: novosti/novosti-856.jpg | src: https://kasimovskie-zori.ru/news/fish-07.jpg | alt: ""
+- new: novosti/novosti-857.jpg | src: https://kasimovskie-zori.ru/news/vyxa-mini.jpg | alt: ""
+
+### 20 июля сотрудники санатория «КАСИМОВСКИЕ ЗОРИ» посетили город Выксу Нижегородской области {#vyxa}
+
+25.07.2023
+
+20 июля сотрудники санатория «КАСИМОВСКИЕ ЗОРИ»  
+посетили город Выксу Нижегородской области
+
+В ходе программы визита они провели встречи с руководством и сотрудниками крупных предприятий города, на которых обсуждались вопросы взаимного сотрудничества, оказание медицинской помощи при санаторно-курортном лечении, организации отдыха и досуга.
+
+Особый интерес у работников предприятий вызвало санаторно-курортное лечение лиц, пострадавших вследствие профессиональных заболеваний. Важно, что в нашем многопрофильном санатории разрабатываются индивидуальные программы лечения соматических и профзаболеваний для каждого пациента, при этом учитываются симптомы болезни, механизм ее развития и лечение. Комплекс мер поможет уменьшить проявления болезни,
+
+предотвратить развитие осложнений, улучшить общее состояние и повысить работоспособность. Санаторий располагает хорошей лечебной базой и современным, новейшим оборудованием. Совместно с природными факторами (широколиственные леса, река) используются лечебная грязь уникального сапожковского месторождения и знаменитая минеральная вода «Пушкарская». Также в санатории действуют базовые путевки, рассчитанные на разные сроки пребывания, экспресс-отдых и путевки выходного дня.
+
+Сотрудники предприятий Выксы получили приглашение на лечение, оздоровление и отдых в санаторий «КАСИМОВСКИЕ ЗОРИ».
+
+**Картинки секции:**
+- new: novosti/novosti-858.jpg | src: https://kasimovskie-zori.ru/news/vyxa-01.jpg | alt: ""
+- new: novosti/novosti-859.jpg | src: https://kasimovskie-zori.ru/news/vyxa-02.jpg | alt: ""
+- new: novosti/novosti-860.jpg | src: https://kasimovskie-zori.ru/news/vyxa-03.jpg | alt: ""
+- new: novosti/novosti-861.jpg | src: https://kasimovskie-zori.ru/news/vyxa-04.jpg | alt: ""
+- new: novosti/novosti-862.jpg | src: https://kasimovskie-zori.ru/news/paint-mini.jpg | alt: ""
+
+### Творческая встреча с художником Татьяной Николаевной Соломатиной {#paint}
+
+18.07.2023
+
+Творческая встреча с художником  
+Татьяной Николаевной Соломатиной.
+
+18 июля в стенах санатория "КАСИМОВСКИЕ ЗОРИ" состоялась творческая встреча с художником Татьяной Николаевной Соломатиной, знакомство с ее персональной выставкой «Поворот на Касимов».
+
+Татьяна Соломатина - член Московского Союза Художников, ее работы находятся в Художественном фонде СССР, частных собраниях России, Германии, Франции, Словакии и Китая. Она разносторонний человек, легкая на подъем и готовая работать в любых условиях.
+
+Так, в процессе показа своей выставки, Татьяна Николаевна поделилась историей создания картин, о жанровой особенности их написания.
+
+Встреча прошла в теплой, дружественной обстановке, получилась интересной и познавательной. Отдыхающие санатория с большим интересом слушали автора, задавали много вопросов, они выразили слова благодарности художнику за проделанный труд и пожелали автору картин неиссякаемого заряда энергии и вдохновения.
+
+**Картинки секции:**
+- new: novosti/novosti-863.jpg | src: https://kasimovskie-zori.ru/news/paint-01.jpg | alt: ""
+- new: novosti/novosti-864.jpg | src: https://kasimovskie-zori.ru/news/paint-02.jpg | alt: ""
+- new: novosti/novosti-865.jpg | src: https://kasimovskie-zori.ru/news/paint-03.jpg | alt: ""
+- new: novosti/novosti-866.jpg | src: https://kasimovskie-zori.ru/news/paint-04.jpg | alt: ""
+- new: novosti/novosti-867.jpg | src: https://kasimovskie-zori.ru/news/paint-05.jpg | alt: ""
+- new: novosti/novosti-868.jpg | src: https://kasimovskie-zori.ru/news/paint-06.jpg | alt: ""
+- new: novosti/novosti-869.jpg | src: https://kasimovskie-zori.ru/news/paint-07.jpg | alt: ""
+- new: novosti/novosti-870.jpg | src: https://kasimovskie-zori.ru/news/goose-mini.jpg | alt: ""
+
+### Отдыхающие санатория "КАСИМОВСКИЕ ЗОРИ" посетили "Гусевские забавы". {#goose}
+
+15.07.2023
+
+Отдыхающие санатория "КАСИМОВСКИЕ ЗОРИ"  
+посетили "Гусевские забавы".
+
+15 июля в рабочем поселке Гусь-Железный Касимовского района состоялся праздник «Гусевские забавы», который посетили отдыхающие санатория "КАСИМОВСКИЕ ЗОРИ". В старинной усадьбе Баташевых гости праздника смогли посетить «амурную алею», на которой замерли живые статуи, гастрономическую выставку, пройтись по ярмарке мастеров – ремесленников, стать зрителями состязаний с участием пернатых спортсменов.
+
+Вечером гостей праздника порадовал прекрасный концерт, в котором приняли участие не только коллективы Касимовского района, но и исполнители с других городов России.
+
+Гости праздника выразили благодарность организаторам мероприятия и пожелали дальнейших успехов в реализации данного проекта.
+
+**Картинки секции:**
+- new: novosti/novosti-871.jpg | src: https://kasimovskie-zori.ru/news/goose-01.jpg | alt: ""
+- new: novosti/novosti-872.jpg | src: https://kasimovskie-zori.ru/news/goose-02.jpg | alt: ""
+- new: novosti/novosti-873.jpg | src: https://kasimovskie-zori.ru/news/goose-03.jpg | alt: ""
+- new: novosti/novosti-874.jpg | src: https://kasimovskie-zori.ru/news/goose-04.jpg | alt: ""
+- new: novosti/novosti-875.jpg | src: https://kasimovskie-zori.ru/news/goose-05.jpg | alt: ""
+- new: novosti/novosti-876.jpg | src: https://kasimovskie-zori.ru/news/goose-06.jpg | alt: ""
+- new: novosti/novosti-877.jpg | src: https://kasimovskie-zori.ru/news/goose-07.jpg | alt: ""
+- new: novosti/novosti-878.jpg | src: https://kasimovskie-zori.ru/news/goose-08.jpg | alt: ""
+- new: novosti/novosti-879.jpg | src: https://kasimovskie-zori.ru/news/navashino-mini.jpg | alt: ""
+
+### 6 июля сотрудники санатория «КАСИМОВСКИЕ ЗОРИ» посетили город Навашино Нижегородской области. {#navashino}
+
+10.07.2023
+
+6 июля сотрудники санатория «КАСИМОВСКИЕ ЗОРИ»  
+посетили город Навашино Нижегородской области.
+
+В ходе визита в Навашино сотрудники ООО «КАСИМОВСКИЕ ЗОРИ» посетили ряд предприятий и учреждений.
+
+Большой интерес у работников вызвали программы оздоровления нашего санатория, особенно базовая программа, которая включает в себя проживание в комфортабельных номерах выбранной категории, сбалансированное четырехразовое питание по выбору меню, качественные медицинские процедуры,
+
+в которые входят грязевые аппликации Сапожковской торфяной грязью с собственного участка добычи.
+
+Многопрофильность санатория дает возможность принимать отдыхающих по лечебным, оздоровительным и СПА программам. Встречи прошли плодотворно и интересно, сотрудники предприятий и учреждений Навашино получили приглашение на отдых и оздоровление в КАСИМОВСКИЕ ЗОРИ.
+
+**Картинки секции:**
+- new: novosti/novosti-880.jpg | src: https://kasimovskie-zori.ru/news/navashino-01.jpg | alt: ""
+- new: novosti/novosti-881.jpg | src: https://kasimovskie-zori.ru/news/navashino-02.jpg | alt: ""
+- new: novosti/novosti-882.jpg | src: https://kasimovskie-zori.ru/news/gymna-mini.jpg | alt: ""
+
+### Славянская гимнастика в санатории "КАСИМОВСКИЕ ЗОРИ" {#gymna}
+
+04.07.2023
+
+Славянская гимнастика в санатории "КАСИМОВСКИЕ ЗОРИ"
+
+Впервые в санатории "КАСИМОВСКИЕ ЗОРИ" 4 июля прошел мастер-класс студии Славянской гимнастики ЦКР г. Касимов.
+
+Руководитель студии Кураксина Елена Николаевна - кандидат наук, практический психолог, ведущая образовательных программ и практик по здоровому образу жизни, провела мастер-класс вместе с участницами студии.
+
+Женская славянская гимнастика - это уникальный набор упражнений, который позволяет развить гибкость, пластику, женственность, грациозность, сделать самомассаж
+
+эндокринной системы и, тем самым, продлить женскую молодость, здоровье, активность!
+
+А, в сочетании с ЛЕЧЕБНЫМИ процедурами САНАТОРИЯ, это без преувеличения, путь в Женское Долголетие!
+
+Прекрасная атмосфера в женском круге на живописном берегу Оки, затем отдых в беседке на утёсе, купание на закате... надолго будут в памяти участниц потрясающего мероприятия!
+
+**Картинки секции:**
+- new: novosti/novosti-883.jpg | src: https://kasimovskie-zori.ru/news/gymna-01.jpg | alt: ""
+- new: novosti/novosti-884.jpg | src: https://kasimovskie-zori.ru/news/gymna-02.jpg | alt: ""
+- new: novosti/novosti-885.jpg | src: https://kasimovskie-zori.ru/news/gymna-03.jpg | alt: ""
+- new: novosti/novosti-886.jpg | src: https://kasimovskie-zori.ru/news/birthday-mini.jpg | alt: ""
+
+### В санатории «КАСИМОВСКИЕ ЗОРИ» вошло в добрую традицию... {#birthday}
+
+04.07.2023
+
+День рождения – это день,  
+который есть в жизни каждого человека.
+
+В детстве мы с нетерпением ждём его, предвкушая приход друзей, вкусное торжество и, конечно же, подарков.
+
+В санатории «КАСИМОВСКИЕ ЗОРИ» вошло в добрую традицию поздравлять отдыхающих с празднованием знаменательных дат - дни рождения, юбилейные семейные даты, но особенно юбилейные дни рождения.
+
+Так, 4 июля состоялось поздравление Елены Николаевны Кураксиной с днем рождения, отдыхающей в санатории «КАСИМОВСКИЕ ЗОРИ».
+
+**Картинки секции:**
+- new: novosti/novosti-887.jpg | src: https://kasimovskie-zori.ru/news/birthday-01.jpg | alt: ""
+- new: novosti/novosti-888.jpg | src: https://kasimovskie-zori.ru/news/povara-mini.jpg | alt: ""
+
+### Повара санатория "КАСИМОВСКИЕ ЗОРИ" приняли участие в мастер-классе {#povara}
+
+03.07.2023
+
+3 июля повара санатория "КАСИМОВСКИЕ ЗОРИ" приняли участие в мастер-классе, который провел известный ресторатор, ведущий кулинарной программы на телеканале «Еда» Сергей Малаховский.
+
+Участники учились готовить блюда из речной рыбы: судак, припущенный в крепком бульоне, судачьи кнели под соусом из сморчков, судак жареный с медом и лимонной цедрой.
+
+Эти блюда шеф-повар разработал специально для нашего города Касимова. Ресторатор также поделился секретами мастерства, рассказал, как продвигать собственные бренды и заведения.
+
+СВЕЖИЕ  
+НОВОСТИ
+
+НОВОСТИ  
+2025 года
+
+НОВОСТИ  
+2024 года
+
+НОВОСТИ  
+2023 года
+
+**Картинки секции:**
+- new: novosti/novosti-889.jpg | src: https://kasimovskie-zori.ru/news/povara-01.jpg | alt: ""
+- new: novosti/novosti-890.jpg | src: https://kasimovskie-zori.ru/news/povara-02.jpg | alt: ""
+- new: _icons/_icons-50.jpg | src: https://kasimovskie-zori.ru/images/news.jpg | alt: ""

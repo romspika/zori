@@ -1,0 +1,37 @@
+slot,source,max_width,where
+hero,glavnaya/glavnaya-08.jpg,1920,Главная — первый экран
+ny-hero,glavnaya/glavnaya-07.jpg,1920,«Новый год» — первый экран
+ny-banner,glavnaya/glavnaya-01.jpg,1200,Главная — новогодний баннер
+tile-lechenie,medkabinety/medkabinety-12.jpg,700,Плитка «Лечение»
+tile-kosmetologiya,medkabinety/medkabinety-07.jpg,700,Плитка «Косметология»
+tile-spa,medkabinety/medkabinety-26.jpg,700,Плитка «СПА-комплекс»
+tile-varianty,glavnaya/glavnaya-04.jpg,700,Плитка «Варианты отдыха»
+tile-sport,kottedzhi/kottedzhi-28.jpg,700,Плитка «Спорт»
+tile-prozhivanie,nomera/nomera-01.jpg,700,Плитка «Проживание»
+tile-meropriyatiya,glavnaya/glavnaya-03.jpg,700,Плитка «Праздники и мероприятия»
+mud,glavnaya/glavnaya-09.jpg,700,Лечение — блок про грязь
+kosmetologiya,medkabinety/medkabinety-06.jpg,1000,Косметология
+spa-main,medkabinety/medkabinety-09.jpg,1200,СПА — хамам
+spa-sauna,medkabinety/medkabinety-25.jpg,700,СПА — сауна с бассейном
+var-health,medkabinety/medkabinety-14.jpg,800,Варианты — для здоровья
+var-family,glavnaya/glavnaya-02.jpg,800,Варианты — семьям
+var-corp,glavnaya/glavnaya-06.jpg,800,Варианты — корпоративным
+var-celebr,glavnaya/glavnaya-03.jpg,800,Варианты — торжества
+sport-pool,medkabinety/medkabinety-25.jpg,800,Спорт — бассейн
+sport-bowling,kottedzhi/kottedzhi-28.jpg,800,Спорт — бильярд
+sport-winter,glavnaya/glavnaya-07.jpg,800,Спорт — зимой
+sport-summer,glavnaya/glavnaya-04.jpg,800,Спорт — летом
+stay-rooms,nomera/nomera-02.jpg,1000,Проживание — номера
+stay-cottages,kottedzhi/kottedzhi-11.jpg,1000,Проживание — коттеджи
+stay-korpus2,vip-korpus/vip-korpus-02.jpg,1000,Проживание — корпус №2
+ev-wedding,glavnaya/glavnaya-02.jpg,1000,Мероприятия — свадьбы
+ev-business,glavnaya/glavnaya-06.jpg,1000,Мероприятия — бизнес
+ev-kids,glavnaya/glavnaya-01.jpg,1000,Мероприятия — семейные праздники
+terr-1,glavnaya/glavnaya-02.jpg,1400,Территория — большое фото
+terr-2,glavnaya/glavnaya-06.jpg,800,Территория
+terr-3,glavnaya/glavnaya-05.jpg,800,Территория
+ny-rooms,nomera/nomera-05.jpg,1000,«Новый год» — номер с завтраком
+ny-lite,medkabinety/medkabinety-26.jpg,1000,«Новый год» — путёвка «Лайт»
+ny-cottages,kottedzhi/kottedzhi-11.jpg,1000,«Новый год» — коттедж
+ny-programs,medkabinety/medkabinety-12.jpg,1000,«Новый год» — лечебные программы
+ny-poster,afisha/afisha-02.jpg,941,«Новый год» — афиша праздничной программы

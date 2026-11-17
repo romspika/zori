@@ -1,0 +1,42 @@
+                                   644   2178  60  45   32 | Номер Люкс | виджет: https://clients.streamwood.ru/StreamWood/sw.js метрика: https:
+booking.html                        32     67   0   0    0 |  | бронирование: https://pms.frontdesk24.ru/onlineWidget/bookWidget.js
+contact.html                       234      0  12   0    0 |  | карта: https://yandex.ru/map-widget/v1/?z=12&ol=biz&oid=29901253222
+corpus2/room201.html                62      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+corpus2/room202.html                63      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+corpus2/room203.html                62      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+corpus2/room204.html                63      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+corpus2/room205.html                62      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+corpus2/room206.html                63      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+corpus2/room301.html                62      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+corpus2/room302.html                63      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+corpus2/room303.html                62      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+corpus2/room304.html                63      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+corpus2/room305.html                62      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+corpus2/room306.html                63      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+corpus2/room401.html                62      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+corpus2/room402.html                63      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+corpus2/room403.html                62      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+corpus2/room404.html                63      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+corpus2/room405.html                62      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+corpus2/room406.html                63      0   0   0    0 | САНАТОРИЙ КАСИМОВСКИЕ ЗОРИ | 
+documents.html                   28272      0   8   1    0 |  | 
+dopuslugi-embed.html               529      0   0   0    0 |  | 
+dopuslugi.html                      85     67   0   1    0 | Санаторий «Касимовские Зори» | 
+live_in_corpus1.html               229    384   0   1    0 | Санаторий «Касимовские Зори» | 
+live_in_corpus2.html               234    384   0   1    0 | Санаторий «Касимовские Зори» | 
+live_in_cottegues.html            2223    384  77   1    0 | Санаторий «Касимовские Зори» | 
+live_in_cottegues_newyear.html     578     67   0   2    0 | Санаторий «Касимовские Зори» | 
+live_in_hotel-embed.html           529     67   0   0    0 |  | 
+live_in_hotel.html                 351    248   6   3    2 | Санаторий «Касимовские Зори» | 
+live_in_hotel_newyear.html         113     67   0   2    0 | Санаторий «Касимовские Зори» | 
+news.html                           25  16947   8   0  953 |  | карта: https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF2
+nomera.html                        112      0  18   0    0 |  | 
+pricehotel-newyear-embed.html      338     14   0   0    0 |  | 
+programms_all.html                  93     67   6   1    0 | Лечебные программы | Основные медицински | 
+programms_equipment.html           961     67   0   8    0 | Аппарат интерференцтерапии Радиус-01 Инт | карта: https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF2
+programms_izuminki.html           1066     67   0   7    0 | Грязелечение | Соляная пещера | Внутриве | карта: https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF2
+programms_medkabinets.html           3     67  26   0    0 |  | 
+programms_meduslugi.html          1260    597   0  17    0 | Водолечение | Теплолечение | Лечебно-диа | карта: https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF2
+programms_treatment.html          1507    234   4  14    2 | Базовая лечебная | Лечебно-оздоровительн | карта: https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF2
+questions.html                    1154      0   0   0    0 |  | 
+rooms.html                         143     67   5   1    0 | Проживание в коттеджах (без питания) | П | 

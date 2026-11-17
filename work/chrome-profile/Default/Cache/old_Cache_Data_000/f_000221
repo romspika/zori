@@ -1,0 +1,2307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Санаторий Касимовские Зори</title>
+<meta charset="windows-1251">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content=">Санаторий Касимовские Зори">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="styles/bootstrap-4.1.2/bootstrap.min.css">
+<link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
+<link href="plugins/colorbox/colorbox.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="styles/about.css">
+<link rel="stylesheet" type="text/css" href="styles/about_responsive.css">
+<link rel="stylesheet" type="text/css" href="styles/tables.css">
+<link rel="stylesheet" type="text/css" href="styles/style.css">
+	
+<script src="js/price_programs.js"></script> <!-- цены на программы-->	
+<script src="js/activemenu.js"></script> <!-- активный пункт меню-->		
+<script src="js/jquery-1.11.1.min.js"></script> 	
+<script src="js/changeprice.js"></script>
+	
+</head>
+<body >
+	
+
+<div class="super_container">
+	
+	<!-- Header -->
+	<script type="text/javascript" src="js/header.js"></script>
+	<script>setActiveMenu('menu2');</script>
+	
+	
+	<!-- Menu -->
+	<script type="text/javascript" src="js/menu.js"></script>
+	
+
+
+	<!-- Home -->
+	<script type="text/javascript" src="js/home.js"></script>	
+
+	
+	<!-- Search Box -->
+	<script type="text/javascript" src="js/frontdesk.js"></script>		
+
+	
+	
+	<!-- Intro Right -->
+	<div class="intro">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<div class=" text-center">
+						<div class="section_title" style="margin-top: 30px;"> <span class="fabrge-regular">Лечебные программы</span></div>
+					</div>
+				</div>	
+			</div>
+		</div>
+	</div>	
+	
+	
+	
+<a name="programbaze"></a>
+	<div class="intro_right intro">
+		<div class="container">
+			<div class="row row-xl-eq-height">
+				
+				<!-- Intro Image -->
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/001.jpg)"></div>
+					</div>
+				</div>
+
+				<!-- Intro Right Content -->
+				<div class="col-xl-6 intro_right_col">
+					<div class="intro_right_content" >
+						<div class=" text-center"  style="margin-top: -10px;" >
+							<div class="section_title"><h1>Базовая лечебная</h1></div>
+							<div class="section_text" style="margin-top: -10px;">с 01.02.2026 по 30.12.2026</div>
+							<div class="section_text" style="margin-top: -10px;">Рекомендуемый курс лечения: 6-21 день</div>
+							<span class="slideQ-price">от <strong><font size="+2" color="#FF080D"><script>show_price_program(1);</script></font></strong> руб/сутки</span>
+						</div>
+						
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">Разработана в соответствии со стандартами санаторно-курортного лечения министерства здравоохранения и социального развития РФ.<br><br>
+							<strong>Показания:</strong><br>
+     							• болезни костно-мышечной системы и соединительной ткани<br>
+    							• болезни органов дыхания<br>
+    							• болезни органов кровообращения<br>
+								• болезни нервной системы<br>
+								• болезни эндокринной системы<br>
+								• последствия травм опорно-двигательного аппарата<br>
+								• профессиональные заболевания<br>
+								• расстройства вегетативной нервной системы и невротическими расстройствами вне обострения<br><br>
+							<strong>Виды лечения:</strong><br>
+							    • водолечение<br>
+							    • теплолечение<br>
+								• массаж<br>
+							<br>
+								<i>Объем лечебных процедур определяется лечащим врачом в зависимости от состояния здоровья пациента с учетом показаний и противопоказаний для конкретного лечения.</i>
+						</div>
+						<!--
+						<div class="sig text-center" style="margin-top: 20px; overflow-x: auto; ">
+							<p>руб / сутки / номер</p>
+							<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+								<tr height="80px">
+									<th width="200px"><font size="+1">Тип размещения</th>
+									<th width="70px">Одноместный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт<br />на Оку</th>
+									<th width="70px">3-х<br />местный стандарт</th>
+									<th width="70px">Полу- люкс</th>
+									<th width="70px">Люкс</th>
+								</tr>
+								<tr>
+									<td align="left"><strong>1 человек</strong></td>
+									<td align="right">6800</td>
+									<td align="right">8400</td>
+									<td align="right">8700</td>
+									<td align="right">-</td>
+									<td align="right">8850</td>
+									<td align="right">8900</td>
+								</tr>
+								<tr>
+									<td align="left"><strong>2 человека</strong></td>
+									<td align="right">-</td>
+									<td align="right">13600</td>
+									<td align="right">13900</td>
+									<td align="right">15200</td>
+									<td align="right">15200</td>
+									<td align="right">15300</td>
+								</tr>
+								<tr>
+									<td align="left"><strong>3 человека</strong></td>
+									<td align="right">-</td>
+									<td align="right">-</td>
+									<td align="right">-</td>
+									<td align="right">20400</td>
+									<td align="right">-</td>
+									<td align="right">-</td>
+								</tr>
+								<!--tr>
+									<td align="left"><strong>Доп.место</strong></td>
+									<td align="right">-</td>
+									<td align="right">5500</td>
+									<td align="right">5500</td>
+									<td align="right">5500</td>
+									<td align="right">5500</td>
+									<td align="right">5500</td>
+								</tr-->
+								<!--tr>
+									<td colspan="7">&nbsp;</td>
+								</tr>  
+							</table>     							
+						</div> 	-->
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+
+	
+	<!-- Intro Left -->
+
+<a name="programchildren"></a>
+	<div class="intro_left intro">
+		<div class="container">
+			<div class="row">
+				
+				<!-- Intro Left Content -->
+				<div class="col-xl-6 order-xl-1 order-2">
+					<div class="intro_left_content" >
+						<div class="" style="margin-top: -20px; " >
+							<div class="section_title" ><h1>Лечебно-оздоровительная программа для детей</h1></div>
+							<div class="section_text" style="margin-top: -10px;">с 01.02.2026 по 30.12.2026</div>
+							<div class="section_text" style="margin-top: -10px;">Рекомендуемый курс лечения: 10-21 день</div>
+							<span class="slideQ-price">от <strong><font size="+2" color="#FF080D"><script>show_price_program(5);</script></font></strong> руб/сутки</span>							
+						</div>
+						
+
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">Разработана в соответствии со стандартами санаторно-курортного лечения министерства здравоохранения и социального развития РФ.<br><br>
+							<strong>Показания:</strong><br>
+							<ul>
+								<li>• болезни костно-мышечной системы и соединительной ткани</li>
+								<li>• болезни органов дыхания</li>
+								<li>• болезни органов кровообращения</li>
+								<li>• болезни нервной системы</li>
+								<li>• болезни эндокринной системы</li>
+								<li>• последствия травм опорно-двигательного аппарата</li>
+								<li>• расстройства вегетативной нервной системы и невротическими расстройствами вне обострения</li>
+							</ul><br><br>
+							<strong>Виды лечения:</strong><br>
+							    • водолечение<br>
+							    • теплолечение<br>
+								• массаж<br>
+							<br>
+								<i>Объем лечебных процедур определяется лечащим врачом в зависимости от состояния здоровья пациента с учетом показаний и противопоказаний для конкретного лечения.</i>
+						</div>
+						<!--
+						<div class="sig text-center" style="margin-top: 20px; overflow-x: auto; ">
+							<p>руб / сутки / номер</p>
+							<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+								<tr height="80px">
+									<th width="200px"><font size="+1">Тип размещения</th>
+									<th width="70px">Одноместный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт<br />на Оку</th>
+									<th width="70px">3-х<br />местный стандарт</th>
+									<th width="70px">Полу- люкс</th>
+									<th width="70px">Люкс</th>
+								</tr>
+   								<tr>
+	 								<td align="left"><strong>Основное место</strong></td>
+	 								<td align="right">-</td>
+	 								<td align="right">5150</td>
+	 								<td align="right">5150</td>
+	 								<td align="right">5150</td>
+     								<td align="right">5150</td>
+     								<td align="right">5150</td>
+   								</tr>
+								<tr>
+	 								<td align="left"><strong>Доп.место</strong></td>
+     								<td align="right">-</td>
+	 								<td align="right">5050</td>
+	 								<td align="right">5050</td>
+	 								<td align="right">5050</td>
+	 								<td align="right">5050</td>
+	 								<td align="right">5050</td>
+   								</tr>
+								<tr>
+									<td colspan="7">&nbsp;</td>
+								</tr>  
+							</table>     							
+
+						</div>		-->				
+
+						
+						
+					</div>
+				</div>
+
+				<!-- Intro Image -->
+				<div class="col-xl-6 order-xl-2 order-1">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/002.jpg)"></div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	
+	
+	
+<style>
+.button-left-right {
+	background-color: #FFF; 
+	/*background-image: url(images/arrows19.png);*/
+	background-position: 10px 10px;
+	background-repeat: no-repeat;
+	height: 70px; 
+	width: 90%;
+	padding-top: 25px; 
+	cursor: pointer;   
+	user-select: none;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	border: #333 solid 3px;
+}
+</style>	
+	
+	
+<!--	
+<a name="klimatoterapia"></a>
+	<div class="intro_right intro">
+		<div class="container">
+			<div class="row row-xl-eq-height">
+				
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/015.jpg)"></div>
+					</div>
+				</div>
+
+				<div class="col-xl-6 intro_right_col">
+					<div class="intro_right_content" >
+						<div class=" text-center"  style="margin-top: -10px;" >
+							<div class="section_title"><h1>Климатотерапия</h1></div>
+							<div class="section_text" style="margin-top: -10px;">с 01.02.2026 по 30.12.2026</div>
+							<div class="section_text" style="margin-top: -10px;">&nbsp;</div>
+							<span class="slideQ-price">от <strong><font size="+2" color="#FF080D"><script>show_price_program(15);</script></font></strong> руб/сутки</span>
+						</div>
+						
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">Разработана в соответствии со стандартами санаторно-курортного лечения министерства здравоохранения и социального развития РФ.<br><br>
+						<strong>В стоимость путёвки входит:</strong><br>
+     							• проживание в номере выбранной категории<br>
+    							• болезни органов дыхания<br>
+    							• 4-разовое питание по системе "Шведский стол"<br>
+								• бассейн<br>
+								• кислородный коктейль<br>
+								• фитобар<br>
+								• ЛФК<br>
+								• терренкур<br>
+							    • развлекательная программа<br>
+							    • библиотека<br>
+							    • караоке<br>
+								• дискотеки<br>
+							    • Wi-Fi<br>
+							<br>
+
+						</div>
+						<div class="sig text-center" style="margin-top: 20px; overflow-x: auto; ">
+							<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+								<tr height="80px" style="border-bottom: #9CE2F0 solid 2px;">
+									
+									<th ><div id="button-left" class="button-left-right" style="background-image: url(images/arrows19-left.png); border: #AA1619 solid 2px;" onClick="changeprice_klimato(-1);"></div></th>
+									
+									<th colspan="3"><font size="+1"><span id="periodklimato">-</span></th>
+										
+									<th colspan="3" align="right"><font size="+1"><div id="button-right" class="button-left-right" style="background-image: url(images/arrows19-right.png); background-position: top+10px right+10px;" onClick="changeprice_klimato(1);"></div></th>
+										
+								</tr>
+								<tr height="80px">
+									<th width="200px"><font size="+1">Тип размещения</th>
+									<th width="70px">Одноместный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт<br />на Оку</th>
+									<th width="70px">3-х<br />местный стандарт</th>
+									<th width="70px">Полу- люкс</th>
+									<th width="70px">Люкс</th>
+								</tr>
+								<tr>
+									<td align="left"><strong>1 человек</strong></td>
+									<td align="center"><span id="klimato0">-</span></td>
+									<td align="center"><span id="klimato1">-</span></td>
+									<td align="center"><span id="klimato5">-</span></td>
+									<td align="center">-</td>
+									<td align="center"><span id="klimato13">-</span></td>
+									<td align="center"><span id="klimato16">-</span></td>
+								</tr>
+								<tr>
+									<td align="left"><strong>2 человека</strong></td>
+									<td align="center">-</td>
+									<td align="center"><span id="klimato2">-</span></td>
+									<td align="center"><span id="klimato6">-</span></td>
+									<td align="center"><span id="klimato9">-</span></td>
+									<td align="center"><span id="klimato14">-</span></td>
+									<td align="center"><span id="klimato17">-</span></td>
+								</tr>
+								<tr>
+									<td align="left"><strong>3 человека</strong></td>
+									<td align="center">-</td>
+									<td align="center">-</td>
+									<td align="center">-</td>
+									<td align="center"><span id="klimato10">-</span></td>
+									<td align="center">-</td>
+									<td align="center">-</td>
+								</tr>
+								<tr>
+									<td align="left"><strong>Основное место для ребенка (3-14 лет)</strong></td>
+									<td align="center">-</td>
+									<td align="center"><span id="klimato3">-</span></td>
+									<td align="center"><span id="klimato7">-</span></td>
+									<td align="center"><span id="klimato11">-</span></td>
+									<td align="center">-</td>
+									<td align="center">-</td>
+								</tr>
+								<tr>
+									<td align="left"><strong>Доп.место</strong></td>
+									<td align="center">-</td>
+									<td align="center"><span id="klimato4">-</span></td>
+									<td align="center"><span id="klimato8">-</span></td>
+									<td align="center"><span id="klimato12">-</span></td>
+									<td align="center"><span id="klimato15">-</span></td>
+									<td align="center"><span id="klimato18">-</span></td>
+								</tr>
+								<tr>
+									<td colspan="7">&nbsp;</td>
+								</tr>  
+							</table>     							
+
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>	
+	
+	
+	
+	<script>changeprice_klimato(0);</script>	
+	
+	-->
+	
+	
+	
+	
+	<!-- Milestones -->
+
+	<div class="milestones">
+		<div class="container">
+			<div class="row">
+				
+				<!-- Milestone -->
+				<div class="col-xl-3 col-md-6 milestone_col">
+					<div class="milestone d-flex flex-row align-items-end justify-content-start">
+						<div class="milestone_icon"><img src="images/icon_34.png" alt=""></div>
+						<div class="milestone_content">
+							<div class="milestone_counter" data-end-value="23" data-sign-after="k">0</div>
+							<div class="milestone_text">Клиентов<br>со дня открытия</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Milestone -->
+				<div class="col-xl-3 col-md-6 milestone_col">
+					<div class="milestone d-flex flex-row align-items-end justify-content-start">
+						<div class="milestone_icon"><img src="images/icon_1.svg" alt=""></div>
+						<div class="milestone_content">
+							<div class="milestone_counter" data-end-value="450">0</div>
+							<div class="milestone_text">Комнат в санатории</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Milestone -->
+				<div class="col-xl-3 col-md-6 milestone_col">
+					<div class="milestone d-flex flex-row align-items-end justify-content-start">
+						<div class="milestone_icon"><img src="images/icon_32.png" alt=""></div>
+						<div class="milestone_content">
+							<div class="milestone_counter" data-end-value="12">0</div>
+							<div class="milestone_text">Лечебных программ</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Milestone -->
+				<div class="col-xl-3 col-md-6 milestone_col">
+					<div class="milestone d-flex flex-row align-items-end justify-content-start">
+						<div class="milestone_icon"><img src="images/icon_33.png" alt=""></div>
+						<div class="milestone_content">
+							<div class="milestone_counter" data-end-value="10">0</div>
+							<div class="milestone_text">Территория санатория, га</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	
+	<!-- Intro Right -->
+	
+<a name="programheart"></a>
+	<div class="intro_right intro">
+		<div class="container">
+			<div class="row row-xl-eq-height">
+				
+				<!-- Intro Image -->
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/003.jpg)"></div>
+					</div>
+				</div>
+
+				<!-- Intro Right Content -->
+				<div class="col-xl-6 intro_right_col">
+					<div class="intro_right_content" >
+						<div class=" text-center"  style="margin-top: -20px;" >
+							<div class="section_title"><h1>Здоровое сердце</h1></div>
+							<div class="section_text" style="margin-top: -10px;">с 01.02.2026 по 30.12.2026</div>
+							<div class="section_text" style="margin-top: -10px;">Рекомендуемый курс лечения: 6-21 день</div>
+							<span class="slideQ-price">от <strong><font size="+2" color="#FF080D"><script>show_price_program(4);</script></font></strong> руб/сутки</span>
+						</div>
+						
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">Разработана в соответствии со стандартами санаторно-курортного лечения министерства здравоохранения и социального развития РФ от 22 ноября 2004 года № 221, 222 и от 23 ноября 2004 № 276.<br><br>
+							<strong>Показания:</strong><br>
+							• пациенты с ишемической болезнью сердца: стенокардией, хронической ИБС<br>
+							• пациенты с болезнями, характеризующимися повышенным кровяным давлением<br>
+							• долечивание после острого инфаркта миокарда и стентирования сосудов сердца<br>
+							• цереброваскулярные болезни, в том числе долечивание после инсультов различной этиологии<br>
+							• хронические ревматические болезни сердца<br><br>
+							<strong>Общетерапевтические виды лечения к назначению медицинских процедур в программе:</strong><br>
+							    • водолечение<br>
+							    • теплолечение<br>
+							    • вибро-механотерапия<br>
+								• массаж<br>
+							    • аппаратная физиотерапия<br>
+							    • общеукрепляющая терапия<br><br>
+								Дополнительные процедуры к общетерапевтическим из всех видов лечения по профилю заболевания:<br><br>
+								• внутривенное лазерное облучение крови (ВЛОК)<br>
+								• ванна пароуглекислая<br><br>
+							<i>Объем лечебных процедур определяется лечащим врачом в зависимости от состояния здоровья пациента с учетом показаний и противопоказаний для конкретного лечения</i>.
+						</div>
+						<!--
+						<div class="sig text-center" style="margin-top: 20px; overflow-x: auto; ">
+							<p>руб / сутки / номер</p>
+							<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+								<tr height="80px">
+									<th width="200px"><font size="+1">Тип размещения</th>
+									<th width="70px">Одноместный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт<br />на Оку</th>
+									<th width="70px">3-х<br />местный стандарт</th>
+									<th width="70px">Полу- люкс</th>
+									<th width="70px">Люкс</th>
+								</tr>
+   <tr>
+	 <td align="left"><strong>1 человек</strong></td>
+	 <td align="right">7900</td>
+	 <td align="right">9550</td>
+	 <td align="right">9800</td>
+	 <td align="right">-</td>
+     <td align="right">9950</td>
+     <td align="right">10050</td>
+   </tr>
+   
+   <tr>
+     <td align="left"><strong>2 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">15800</td>
+     <td align="right">16400</td>
+     <td align="right">17400</td>
+     <td align="right">17400</td>
+     <td align="right">17500</td>
+   </tr>
+
+   <tr>
+     <td align="left"><strong>3 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">23700</td>
+     <td align="right">-</td>
+     <td align="right">-</td>
+   </tr>
+
+
+   <tr>
+	 <td align="left"><strong>Доп.место</strong></td>
+     <td align="right">-</td>
+	 <td align="right">7100</td>
+	 <td align="right">7100</td>
+	 <td align="right">7100</td>
+	 <td align="right">7100</td>
+	 <td align="right">7100</td>
+   </tr>
+								<tr>
+									<td colspan="7">&nbsp;</td>
+								</tr>  
+							</table>     							
+
+						</div> -->
+						
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	
+	<!-- Intro Left -->
+
+<a name="programbreath"></a>
+	<div class="intro_left intro">
+		<div class="container">
+			<div class="row">
+				
+				<!-- Intro Left Content -->
+				<div class="col-xl-6 order-xl-1 order-2">
+					<div class="intro_left_content" >
+						<div class="" style="margin-top: -20px; " >
+							<div class="section_title" ><h1>Свободное дыхание</h1></div>
+							<div class="section_text" style="margin-top: -10px;">с 01.02.2026 по 30.12.2026</div>
+							<div class="section_text" style="margin-top: -10px;">Рекомендуемый курс лечения: 6-21 день</div>
+							<span class="slideQ-price">от <strong><font size="+2" color="#FF080D"><script>show_price_program(6);</script></font></strong> руб/сутки</span>							
+						</div>
+						
+
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">Разработана в соответствии со стандартами санаторно-курортного лечения министерства здравоохранения и социального развития РФ от 22 ноября 2004 года № 222.<br><br>
+							<strong>Методики:</strong><br>
+							• электролечение (или электротерапия)<br>
+    						• механотерапия<br>
+    						• светолечение<br>
+    						• ингаляционная терапия<br>
+    						• лазерная терапия<br>
+    						• теплолечение<br>
+    						• водолечение<br><br><br>
+							<strong>Виды лечения:</strong><br>
+							    • водолечение<br>
+							    • теплолечение<br>
+							    • вибро-механотерапия<br>
+								• массаж<br>
+							    • аппаратная физиотерапия<br>
+							    • общеукрепляющая терапия<br>
+							<br>
+								<i>Объем лечебных процедур определяется лечащим врачом в зависимости от состояния здоровья пациента с учетом показаний и противопоказаний для конкретного лечения.</i>
+						</div>
+						<!--
+						<div class="sig text-center" style="margin-top: 20px; overflow-x: auto; ">
+							<p>руб / сутки / номер</p>
+							<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+								<tr height="80px">
+									<th width="200px"><font size="+1">Тип размещения</th>
+									<th width="70px">Одноместный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт<br />на Оку</th>
+									<th width="70px">3-х<br />местный стандарт</th>
+									<th width="70px">Полу- люкс</th>
+									<th width="70px">Люкс</th>
+								</tr>
+
+   <tr>
+	 <td align="left"><strong>1 человек</strong></td>
+	 <td align="right">7700</td>
+	 <td align="right">9400</td>
+	 <td align="right">9700</td>
+	 <td align="right">-</td>
+     <td align="right">9800</td>
+     <td align="right">9900</td>
+   </tr>
+   
+   <tr>
+     <td align="left"><strong>2 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">15500</td>
+     <td align="right">16050</td>
+     <td align="right">17100</td>
+     <td align="right">17100</td>
+     <td align="right">17200</td>
+   </tr>
+
+   <tr>
+     <td align="left"><strong>3 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">23100</td>
+     <td align="right">-</td>
+     <td align="right">-</td>
+   </tr>
+
+
+   <tr>
+	 <td align="left"><strong>Доп.место</strong></td>
+     <td align="right">-</td>
+	 <td align="right">7000</td>
+	 <td align="right">7000</td>
+	 <td align="right">7000</td>
+	 <td align="right">7000</td>
+	 <td align="right">7000</td>
+   </tr>
+
+								<tr>
+									<td colspan="7">&nbsp;</td>
+								</tr>  
+							</table>     							
+
+						</div>  -->						
+
+						
+						
+					</div>
+				</div>
+
+				<!-- Intro Image -->
+				<div class="col-xl-6 order-xl-2 order-1">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/004.jpg)"></div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	
+	
+
+	
+	<!-- Intro Right -->
+	
+<a name="programphysical"></a>
+	<div class="intro_right intro">
+		<div class="container">
+			<div class="row row-xl-eq-height">
+				
+				<!-- Intro Image -->
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/005.jpg)"></div>
+					</div>
+				</div>
+
+				<!-- Intro Right Content -->
+				<div class="col-xl-6 intro_right_col">
+					<div class="intro_right_content" >
+						<div class=" text-center"  style="margin-top: -20px;" >
+							<div class="section_title"><h1>Физическая активность</h1></div>
+							<div class="section_text" style="margin-top: -10px;">с 01.02.2026 по 30.12.2026</div>
+							<div class="section_text" style="margin-top: -10px;">Рекомендуемый курс лечения: 6-21 день</div>
+							<span class="slideQ-price">от <strong><font size="+2" color="#FF080D"><script>show_price_program(7);</script></font></strong> руб/сутки</span>
+						</div>
+						
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">разработана в соответствии со стандартами санаторно-курортного лечения министерства здравоохранения и социального развития РФ от 22 ноября 2004 года № 227 и от 23 ноября 2004 № 274.<br><br>
+							<strong>Показания:</strong><br>
+								• болезни костно-мышечной системы и соединительной ткани (артропатии, инфекционные артропатии, воспалительные артропатии, артрозы, другие поражения суставов)<br>
+								• заболевания и последствия травм спинного и головного мозга<br><br>
+
+							<strong>Общетерапевтические виды лечения к назначению медицинских процедур в программе:</strong><br>
+							    • водолечение<br>
+							    • теплолечение<br>
+							    • вибро-механотерапия<br>
+								• массаж<br>
+							    • аппаратная физиотерапия<br>
+							    • общеукрепляющая терапия<br><br>
+								Дополнительные процедуры к общетерапевтическим из всех видов лечения по профилю заболевания:<br><br>
+								• подводный душ-массаж (гидромассаж)<br>
+								• внутривенное лазерное облучение крови (ВЛОК)<br><br>
+
+							<i>Объем лечебных процедур определяется лечащим врачом в зависимости от состояния здоровья пациента с учетом показаний и противопоказаний для конкретного лечения</i>.
+						</div>
+						<!--
+						<div class="sig text-center" style="margin-top: 20px; overflow-x: auto; ">
+							<p>руб / сутки / номер</p>
+							<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+								<tr height="80px">
+									<th width="200px"><font size="+1">Тип размещения</th>
+									<th width="70px">Одноместный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт<br />на Оку</th>
+									<th width="70px">3-х<br />местный стандарт</th>
+									<th width="70px">Полу- люкс</th>
+									<th width="70px">Люкс</th>
+								</tr>
+   <tr>
+	 <td align="left"><strong>1 человек</strong></td>
+	 <td align="right">8500</td>
+	 <td align="right">10200</td>
+	 <td align="right">10500</td>
+	 <td align="right">-</td>
+     <td align="right">10700</td>
+     <td align="right">10750</td>
+   </tr>
+   
+   <tr>
+     <td align="left"><strong>2 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">17000</td>
+     <td align="right">17700</td>
+     <td align="right">18800</td>
+     <td align="right">18800</td>
+     <td align="right">18900</td>
+   </tr>
+
+   <tr>
+     <td align="left"><strong>3 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">25500</td>
+     <td align="right">-</td>
+     <td align="right">-</td>
+   </tr>
+
+
+   <tr>
+	 <td align="left"><strong>Доп.место</strong></td>
+     <td align="right">-</td>
+	 <td align="right">7800</td>
+	 <td align="right">7800</td>
+	 <td align="right">7800</td>
+	 <td align="right">7800</td>
+	 <td align="right">7800</td>
+   </tr>
+								<tr>
+									<td colspan="7">&nbsp;</td>
+								</tr>  
+							</table>     							
+
+						</div> -->
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	<!-- Intro Left -->
+
+<a name="programideal"></a>	
+	<div class="intro_left intro">
+		<div class="container">
+			<div class="row">
+				
+				<!-- Intro Left Content -->
+				<div class="col-xl-6 order-xl-1 order-2">
+					<div class="intro_left_content" >
+						<div class="" style="margin-top: -20px; " >
+							<div class="section_title" ><h1>Стремление к совершенству</h1></div>
+							<div class="section_text" style="margin-top: -10px;">с 01.02.2026 по 30.12.2026</div>
+							<div class="section_text" style="margin-top: -10px;">Для лиц с избыточным весом. Рекомендуемый курс лечения: 6 от дней</div>
+							<span class="slideQ-price">от <strong><font size="+2" color="#FF080D"><script>show_price_program(8);</script></font></strong> руб/сутки</span>							
+						</div>
+						
+
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">Разработана в соответствии со стандартами санаторно-курортного лечения министерства здравоохранения и социального развития РФ от 22 ноября 2004 года № 223.<br><br>
+							<strong>Показания:</strong><br>
+							• больные с ожирением и другими видами избыточности питания<br>
+    						<br>
+							<strong>Виды лечения:</strong><br>
+							    • водолечение<br>
+							    • теплолечение<br>
+							    • вибро-механотерапия<br>
+								• массаж<br>
+							    • аппаратная физиотерапия<br>
+							    • общеукрепляющая терапия<br>
+							<br>
+							Дополнительные процедуры к общетерапевтическим из всех видов лечения по профилю заболевания:<br><br>
+								• подводный душ-массаж (гидромассаж)<br>
+								• внутривенное лазерное облучение крови (ВЛОК)<br>
+							<br>
+								<i>Объем лечебных процедур определяется лечащим врачом в зависимости от состояния здоровья пациента с учетом показаний и противопоказаний для конкретного лечения.</i>
+						</div>
+						<!--
+						<div class="sig text-center" style="margin-top: 20px; overflow-x: auto; ">
+							<p>руб / сутки / номер</p>
+							<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+								<tr height="80px">
+									<th width="200px"><font size="+1">Тип размещения</th>
+									<th width="70px">Одноместный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт<br />на Оку</th>
+									<th width="70px">3-х<br />местный стандарт</th>
+									<th width="70px">Полу- люкс</th>
+									<th width="70px">Люкс</th>
+								</tr>
+   <tr>
+	 <td align="left"><strong>1 человек</strong></td>
+	 <td align="right">7500</td>
+	 <td align="right">9000</td>
+	 <td align="right">9450</td>
+	 <td align="right">-</td>
+     <td align="right">9600</td>
+     <td align="right">9700</td>
+   </tr>
+   
+   <tr>
+     <td align="left"><strong>2 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">15000</td>
+     <td align="right">15700</td>
+     <td align="right">16700</td>
+     <td align="right">16700</td>
+     <td align="right">16800</td>
+   </tr>
+
+   <tr>
+     <td align="left"><strong>3 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">22500</td>
+     <td align="right">-</td>
+     <td align="right">-</td>
+   </tr>
+   <tr>
+	 <td align="left"><strong>Доп.место (c 3до 14 лет)</strong></td>
+     <td align="right">-</td>
+	 <td align="right">6700</td>
+	 <td align="right">6700</td>
+	 <td align="right">6700</td>
+	 <td align="right">6700</td>
+	 <td align="right">6700</td>
+   </tr>
+
+								<tr>
+									<td colspan="7">&nbsp;</td>
+								</tr>  
+							</table>     							
+
+						</div>	-->
+						
+
+						
+						
+					</div>
+				</div>
+
+				<!-- Intro Image -->
+				<div class="col-xl-6 order-xl-2 order-1">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/006.jpg)"></div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	
+		
+	
+	
+	
+
+	
+	<!-- Intro Right -->
+
+<a name="programflexy"></a>		
+	<div class="intro_right intro">
+		<div class="container">
+			<div class="row row-xl-eq-height">
+				
+				<!-- Intro Image -->
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/007.jpg)"></div>
+					</div>
+				</div>
+
+				<!-- Intro Right Content -->
+				<div class="col-xl-6 intro_right_col">
+					<div class="intro_right_content" >
+						<div class=" text-center"  style="margin-top: -20px;" >
+							<div class="section_title"><h1>Гибкий позвоночник</h1></div>
+							<div class="section_text" style="margin-top: -10px;">с 01.02.2026 по 30.12.2026</div>
+							<div class="section_text" style="margin-top: -10px;">Рекомендуемый курс лечения: 6-21 день</div>
+							<span class="slideQ-price">от <strong><font size="+2" color="#FF080D"><script>show_price_program(9);</script></font></strong> руб/сутки</span>
+						</div>
+						
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">Разработана в соответствии со стандартами санаторно-курортного лечения министерства здравоохранения и социального развития РФ от 22 ноября 2004 года № 208,214 и от 23 ноября 2004 № 274.<br><br>
+							<strong>Показания:</strong><br>
+								• остеохондроз<br>
+    							• дорсопатии<br>
+    							• спондилопатии<br>
+    							• остеопатии<br>
+    							• хондропатии<br>
+    							• болезнь Бехтерева<br>
+    							• повреждение мышц позвоночника<br>
+    							• грыжи межпозвоночного диска<br>
+    							• поражение отдельных нервов, нервных корешков и сплетений<br>
+    							• полиневропатии<br>
+    							• другие поражения периферической нервной системы<br><br>
+
+							<strong>Общетерапевтические виды лечения к назначению медицинских процедур в программе:</strong><br>
+							    • водолечение<br>
+							    • теплолечение<br>
+							    • вибро-механотерапия<br>
+								• массаж<br>
+							    • аппаратная физиотерапия<br>
+							    • общеукрепляющая терапия<br><br>
+								Дополнительные процедуры к общетерапевтическим из всех видов лечения по профилю заболевания:<br><br>
+								• подводный душ-массаж (гидромассаж)<br>
+								• тракция и массаж, осевое вытяжение, тепловое, вибрационное и линейно-механическое воздействие на позвоночник на столе «Ормед-профессионал»<br><br>
+
+							<i>Объем лечебных процедур определяется лечащим врачом в зависимости от состояния здоровья пациента с учетом показаний и противопоказаний для конкретного лечения</i>.
+						</div>
+						<!--
+						<div class="sig text-center" style="margin-top: 20px; overflow-x: auto; ">
+							<p>руб / сутки / номер</p>
+							<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+								<tr height="80px">
+									<th width="200px"><font size="+1">Тип размещения</th>
+									<th width="70px">Одноместный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт<br />на Оку</th>
+									<th width="70px">3-х<br />местный стандарт</th>
+									<th width="70px">Полу- люкс</th>
+									<th width="70px">Люкс</th>
+								</tr>
+   
+   <tr>
+	 <td align="left"><strong>1 человек</strong></td>
+	 <td align="right">8050</td>
+	 <td align="right">9700</td>
+	 <td align="right">10000</td>
+	 <td align="right">-</td>
+     <td align="right">10100</td>
+     <td align="right">10200</td>
+   </tr>
+   
+   <tr>
+     <td align="left"><strong>2 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">16100</td>
+     <td align="right">16700</td>
+     <td align="right">17800</td>
+     <td align="right">17800</td>
+     <td align="right">17850</td>
+   </tr>
+
+   <tr>
+     <td align="left"><strong>3 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">24150</td>
+     <td align="right">-</td>
+     <td align="right">-</td>
+   </tr>
+   <tr>
+	 <td align="left"><strong>Доп.место (c 3до 14 лет)</strong></td>
+     <td align="right">-</td>
+	 <td align="right">7200</td>
+	 <td align="right">7200</td>
+	 <td align="right">7200</td>
+	 <td align="right">7200</td>
+	 <td align="right">7200</td>
+   </tr>								
+								<tr>
+									<td colspan="7">&nbsp;</td>
+								</tr>  
+							</table>     							
+
+						</div> -->
+						
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	<!-- Intro Left -->
+
+<a name="programcovid"></a>		
+	<div class="intro_left intro">
+		<div class="container">
+			<div class="row">
+				
+				<!-- Intro Left Content -->
+				<div class="col-xl-6 order-xl-1 order-2">
+					<div class="intro_left_content" >
+						<div class="" style="margin-top: -20px; " >
+							<div class="section_title" ><h1>Профилактика и реабилитация COVID-19</h1></div>
+							<div class="section_text" style="margin-top: -10px;">с 01.02.2026 по 30.12.2026</div>
+							<div class="section_text" style="margin-top: -10px;">Для лиц с избыточным весом. Рекомендуемый курс лечения: 6 от дней</div>
+							<span class="slideQ-price">от <strong><font size="+2" color="#FF080D"><script>show_price_program(3);</script></font></strong> руб/сутки</span>							
+						</div>
+						
+
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">Разработана в соответствии со стандартами санаторно-курортного лечения министерства здравоохранения и социального развития РФ от 22 ноября 2004 года № 208,214 и от 23 ноября 2004 № 274.<br><br>
+							<strong>Показания:</strong><br>
+							• восстановление после новой короновирусной инфекции COVID-19<br>
+    						<br>
+							<strong>Виды лечения:</strong><br>
+							    • водолечение<br>
+							    • теплолечение<br>
+							    • вибро-механотерапия<br>
+								• массаж<br>
+							    • аппаратная физиотерапия<br>
+							    • общеукрепляющая терапия<br>
+							<br>
+							Дополнительные процедуры к общетерапевтическим из всех видов лечения по профилю заболевания:<br><br>
+								• внутривенное лазерное облучение крови (ВЛОК)<br>
+								• пароуглекислая ванна<br>
+								• пенно-солодковая ванна<br>
+							<br>
+								<i>Объем лечебных процедур определяется лечащим врачом в зависимости от состояния здоровья пациента с учетом показаний и противопоказаний для конкретного лечения.</i>
+						</div>
+						<!--
+						<div class="sig text-center" style="margin-top: 20px; overflow-x: auto; ">
+							<p>руб / сутки / номер</p>
+							<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+								<tr height="80px">
+									<th width="200px"><font size="+1">Тип размещения</th>
+									<th width="70px">Одноместный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт<br />на Оку</th>
+									<th width="70px">3-х<br />местный стандарт</th>
+									<th width="70px">Полу- люкс</th>
+									<th width="70px">Люкс</th>
+								</tr>
+  <tr>
+	 <td align="left"><strong>1 человек</strong></td>
+	 <td align="right">7350</td>
+	 <td align="right">9000</td>
+	 <td align="right">9300</td>
+	 <td align="right">-</td>
+     <td align="right">9400</td>
+     <td align="right">9500</td>
+   </tr>
+   
+   <tr>
+     <td align="left"><strong>2 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">14700</td>
+     <td align="right">15300</td>
+     <td align="right">16300</td>
+     <td align="right">16300</td>
+     <td align="right">16400</td>
+   </tr>
+
+   <tr>
+     <td align="left"><strong>3 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">22050</td>
+     <td align="right">-</td>
+     <td align="right">-</td>
+   </tr>
+
+
+   <tr>
+	 <td align="left"><strong>Доп.место</strong></td>
+     <td align="right">-</td>
+	 <td align="right">6550</td>
+	 <td align="right">6550</td>
+	 <td align="right">6550</td>
+	 <td align="right">6550</td>
+	 <td align="right">6550</td>
+   </tr>
+
+								<tr>
+									<td colspan="7">&nbsp;</td>
+								</tr>  
+							</table>     							
+
+						</div>	-->
+						
+
+						
+						
+					</div>
+				</div>
+
+				<!-- Intro Image -->
+				<div class="col-xl-6 order-xl-2 order-1">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/008.jpg)"></div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	
+	
+	
+
+	
+
+	
+	<!-- Intro Right -->
+
+<a name="programcvo"></a>		
+	<div class="intro_right intro">
+		<div class="container">
+			<div class="row row-xl-eq-height">
+				
+				<!-- Intro Image -->
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/009.jpg)"></div>
+					</div>
+				</div>
+
+				<!-- Intro Right Content -->
+				<div class="col-xl-6 intro_right_col">
+					<div class="intro_right_content" >
+						<div class=" text-center"  style="margin-top: -20px;" >
+							<div class="section_title"><h1>Лечебная программа для участников СВО и членов их семей</h1></div>
+							<div class="section_text" style="margin-top: -10px;">с 01.02.2026 по 30.12.2026</div>
+							<div class="section_text" style="margin-top: -10px;">Рекомендуемый курс лечения: от 6 дней</div>
+							<span class="slideQ-price">от <strong><font size="+2" color="#FF080D"><script>show_price_program(12);</script></font></strong> руб/сутки</span>
+						</div>
+						
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">Разработана в соответствии со стандартами санаторно-курортного лечения министерства здравоохранения и социального развития РФот 22 ноября 2004 года № 212 и от 23 ноября 2004 № 274.<br><br>
+							<strong>Показания:</strong><br>
+								• болезни костно-мышечной системы и соединительной ткани<br>
+								• артропатии, инфекционные артропатии, воспалительные артропатии, артрозы, другие поражения суставов<br>
+								• заболевания и последствия травм опорно-двигательного аппарата<br><br>
+
+							<strong>Общетерапевтические виды лечения к назначению медицинских процедур в программе:</strong><br>
+							    • водолечение<br>
+							    • теплолечение<br>
+							    • вибро-механотерапия<br>
+								• массаж<br>
+							    • аппаратная физиотерапия<br>
+							    • общеукрепляющая терапия<br><br>
+
+							<i>Объем лечебных процедур определяется лечащим врачом в зависимости от состояния здоровья пациента с учетом показаний и противопоказаний для конкретного лечения</i>.
+						</div>
+						<!--
+						<div class="sig text-center" style="margin-top: 20px; overflow-x: auto; ">
+							<p>руб / сутки / номер</p>
+							<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+								<tr height="80px">
+									<th width="200px"><font size="+1">Тип размещения</th>
+									<th width="70px">Одноместный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт<br />на Оку</th>
+									<th width="70px">3-х<br />местный стандарт</th>
+									<th width="70px">Полу- люкс</th>
+									<th width="70px">Люкс</th>
+								</tr>
+   
+   <tr>
+	 <td align="left"><strong>1 человек</strong></td>
+	 <td align="right">8050</td>
+	 <td align="right">9700</td>
+	 <td align="right">10000</td>
+	 <td align="right">-</td>
+     <td align="right">10100</td>
+     <td align="right">10200</td>
+   </tr>
+   
+   <tr>
+     <td align="left"><strong>2 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">16100</td>
+     <td align="right">16700</td>
+     <td align="right">17800</td>
+     <td align="right">17800</td>
+     <td align="right">17850</td>
+   </tr>
+
+   <tr>
+     <td align="left"><strong>3 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">24150</td>
+     <td align="right">-</td>
+     <td align="right">-</td>
+   </tr>
+
+
+   <tr>
+	 <td colspan="7" align="left"><strong><div  class="intro_right_text" style="margin-top: -5px;"><strong><font color="##0C0F59">Лечебно- оздоровительная программа для детей участников СВО</font></strong></div>	</td>
+   </tr>
+								
+   <tr>
+	 <td align="left"><strong>Основное место</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">6200</td>
+	 <td align="right">6200</td>
+	 <td align="right">6200</td>
+     <td align="right">6200</td>
+     <td align="right">6200</td>
+   </tr>
+   
+   <tr>
+	 <td align="left"><strong>Доп.место</strong></td>
+     <td align="right">-</td>
+	 <td align="right">6050</td>
+	 <td align="right">6050</td>
+	 <td align="right">6050</td>
+	 <td align="right">6050</td>
+	 <td align="right">6050</td>
+   </tr>								
+								
+
+								<tr>
+									<td colspan="7">&nbsp;</td>
+								</tr>  
+							</table>     							
+
+						</div> -->
+						
+						
+						
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	<!-- Intro Left -->
+
+<a name="programprofsoyus"></a>		
+	<div class="intro_left intro">
+		<div class="container">
+			<div class="row">
+				
+				<!-- Intro Left Content -->
+				<div class="col-xl-6 order-xl-1 order-2">
+					<div class="intro_left_content" >
+						<div class="" style="margin-top: -20px; " >
+							<div class="section_title" ><h1>Общетерапевтическая<br>для профсоюзов</h1></div>
+							<div class="section_text" style="margin-top: -10px;">с 01.02.2026 по 30.12.2026</div>
+							<div class="section_text" style="margin-top: -10px;">Рекомендуемый курс лечения: от 6 дней</div>
+							<span class="slideQ-price">от <strong><font size="+2" color="#FF080D"><script>show_price_program(14);</script></font></strong> руб/сутки</span>							
+						</div>
+						
+
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">Разработана в соответствии со стандартами санаторно-курортного лечения министерства здравоохранения и социального развития РФ от 22 ноября 2004 года № 208,214 и от 23 ноября 2004 № 274.<br><br>
+							<strong>Показания:</strong><br>
+							• болезни костно-мышечной системы и соединительной ткани<br>
+							• болезни органов дыхания<br>
+							• болезни органов кровообращения<br>
+							• болезни нервной системы<br>
+							• болезни эндокринной системы<br>
+							• последствия травм опорно-двигательного аппарата<br>
+							• профессиональные заболевания<br>
+							• расстройства вегетативной нервной системы и невротическими расстройствами вне обострения<br><br>
+							
+							<strong>Виды лечения:</strong><br>
+							    • водолечение<br>
+							    • вибро-механотерапия<br>
+								• массаж<br>
+							    • общеукрепляющая терапия<br>
+							    • диагностическое обследование<br>
+							<br>
+								<i>Объем лечебных процедур определяется лечащим врачом в зависимости от состояния здоровья пациента с учетом показаний и противопоказаний для конкретного лечения.</i>
+						</div>
+						<!--
+						<div class="sig text-center" style="margin-top: 20px; overflow-x: auto; ">
+							<p>руб / сутки / номер</p>
+							<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+   <tr height="80px">
+     <th width="300px"><font size="+1">Тип размещения</th>
+     <th width="80px">Одноместный стандарт</th>
+     <th width="80px">2-х<br />местный стандарт</th>
+     <th width="80px">2-х<br />местный стандарт<br />на Оку</th>
+     <th width="80px">3-х<br />местный стандарт</th>
+   </tr>
+   <tr>
+	 <td align="left"><strong>1 человек</strong></td>
+	 <td align="right">5780</td>
+	 <td align="right">7140</td>
+	 <td align="right">7395</td>
+	 <td align="right">-</td>
+
+   </tr>
+   
+   <tr>
+     <td align="left"><strong>2 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">11560</td>
+     <td align="right">11814</td>
+     <td align="right">12920</td>
+   </tr>
+
+   <tr>
+     <td align="left"><strong>3 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">17340</td>
+   </tr>
+
+
+   <tr>
+	 <td align="left"><strong>Доп.место</strong></td>
+     <td align="right">-</td>
+	 <td align="right">4293</td>
+	 <td align="right">4293</td>
+	 <td align="right">4293</td>
+   </tr>
+
+								<tr>
+									<td colspan="7">&nbsp;</td>
+								</tr>  
+							</table>     							
+
+						</div> -->						
+
+						
+						
+					</div>
+				</div>
+
+				<!-- Intro Image -->
+				<div class="col-xl-6 order-xl-2 order-1">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/010.jpg)"></div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	
+		
+	
+	
+	
+	<!-- Intro Right -->
+	
+<style>
+.programtable tr {
+	height: 35px;	
+	background-color:#FFF;
+}
+.programtable td {
+	padding: 3px;
+}
+
+</style>
+
+<a name="programvacancy"></a>		
+	<div class="intro_right intro">
+		<div class="container">
+			<div class="row row-xl-eq-height">
+				
+				<!-- Intro Image -->
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/011.jpg)"></div>
+					</div>
+				</div>
+
+				<!-- Intro Right Content -->
+				<div class="col-xl-6 intro_right_col">
+					<div class="intro_right_content" >
+						<div class=" text-center"  style="margin-top: -20px;" >
+							<div class="section_title"><h1>Путевка выходного дня</h1></div>
+							<div class="section_text" style="margin-top: -10px;">с 01.02.2026 по 30.12.2026</div>
+							<div class="section_text" style="margin-top: -10px;">После тяжелой трудовой недели, возможность воспользоваться комплексом оздоровительных процедур, направленных на улучшение общего состояния организма.</div>
+							<span class="slideQ-price">от <strong><font size="+2" color="#FF080D"><script>show_price_program(10);</script></font></strong> руб/сутки</span>
+						</div>
+						
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">
+     <table class="programtable" cellpadding="5px" cellspacing="2px" border="1" style="width:100%; margin-left:0; border-collapse: collapse;"> 
+         	<tr>
+          		<td width="40px" style="background:#0C9;"><strong>№</strong></td>
+                <td width="400px" style="background:#0C9;"><strong>Название процедуры</strong></td>
+         	</tr>
+         	<tr>
+          		<td colspan="2" align="center"><strong>В день заезда</strong></td>
+         	</tr>
+         	<tr>
+          		<td>1</td>
+                <td>Ормед-релакс – профилактика заболеваний позвоночника</td>
+         	</tr>
+         	<tr>
+          		<td>2</td>
+                <td>Соляная пещера</td>
+         	</tr>
+         	<tr>
+          		<td>3</td>
+                <td>Банный комплекс: турецкий хамам + бассейн (группа 6 человек*) или...</td>
+         	</tr>
+         	<tr>
+          		<td></td>
+                <td>..кедровая бочка</td>
+         	</tr>
+         	<tr>
+          		<td colspan="2" align="center"><strong>Второй день</strong></td>
+         	</tr>
+         	<tr>          		
+                <td>4</td>
+                <td>Ормед-релакс – профилактика заболеваний позвоночника</td>
+         	</tr>
+         	<tr>
+          		<td>5</td>
+                <td>Соляная пещера</td>
+         	</tr>
+         	<tr>
+          		<td>6</td>
+                <td>Бассейн</td>
+         	</tr>
+         	<tr>
+          		<td colspan="2" align="center"><strong>В день выезда</strong></td>
+         	</tr>
+         	<tr>
+          		<td>7</td>
+                <td>Соляная пещера</td>
+         	</tr>
+         	<tr>
+          		<td>8</td>
+                <td>Бассейн</td>
+         	</tr>
+         </table>							
+						</div>
+						<!--
+						<div class="sig text-center" style="margin-top: 20px; overflow-x: auto; ">
+							<p>руб / сутки / номер</p>
+							<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+								<tr height="80px">
+									<th width="200px"><font size="+1">Тип размещения</th>
+									<th width="70px">Одноместный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт<br />на Оку</th>
+									<th width="70px">3-х<br />местный стандарт</th>
+									<th width="70px">Полу- люкс</th>
+									<th width="70px">Люкс</th>
+								</tr>
+   
+   <tr>
+	 <td align="left"><strong>1 человек</strong></td>
+	 <td align="right">11400</td>
+	 <td align="right">12300</td>
+	 <td align="right">12500</td>
+	 <td align="right">-</td>
+     <td align="right">13000</td>
+     <td align="right">13200</td>
+   </tr>
+   
+   <tr>
+     <td align="left"><strong>2 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">22800</td>
+     <td align="right">23200</td>
+     <td align="right">-</td>
+     <td align="right">23700</td>
+     <td align="right">23900</td>
+   </tr>
+
+   <tr>
+     <td align="left"><strong>3 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">32400</td>
+     <td align="right">-</td>
+     <td align="right">-</td>
+   </tr>
+
+
+   <tr>
+	 <td align="left"><strong>Доп.место</strong></td>
+     <td align="right">-</td>
+	 <td align="right">9400</td>
+	 <td align="right">9400</td>
+	 <td align="right">9400</td>
+	 <td align="right">9400</td>
+	 <td align="right">9400</td>
+   </tr>
+
+								<tr>
+									<td colspan="7">&nbsp;</td>
+								</tr>  
+							</table>     							
+
+						</div> -->
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+
+	<!-- Intro Left -->
+
+<a name="programexpress"></a>		
+	<div class="intro_left intro">
+		<div class="container">
+			<div class="row">
+				
+				<!-- Intro Left Content -->
+				<div class="col-xl-6 order-xl-1 order-2">
+					<div class="intro_left_content" >
+						<div class="" style="margin-top: -20px; " >
+							<div class="section_title" ><h1>Экспресс-отдых</h1></div>
+							<div class="section_text" style="margin-top: -10px;">с 01.02.2026 по 30.12.2026</div>							
+							<div class="section_text" style="margin-top: -10px;">Отдых и медицинские процедуры, направленные на оздоровление за 30 часов.</div>
+							<span class="slideQ-price">от <strong><font size="+2" color="#FF080D"><script>show_price_program(11);</script></font></strong> руб/сутки</span>							
+						</div>
+						
+
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">
+        <table class="programtable" cellpadding="2px" cellspacing="2px" border="1" style="width:100%; margin-left:0; border-collapse: collapse;">
+         	<tr>
+          		<td width="30px" style="background:#0C9;"><strong>№</strong></td>
+                <td width="400px" style="background:#0C9;"><strong>Название процедуры</strong></td>
+         	</tr>
+         	<tr>
+          		<td colspan="2" align="center"><strong>В день заезда</strong></td>
+         	</tr>
+         	<tr>
+          		<td>1</td>
+                <td>Ормед-релакс – профилактика заболеваний позвоночника</td>
+         	</tr>
+         	<tr>
+          		<td>2</td>
+                <td>Соляная пещера</td>
+         	</tr>
+         	<tr>
+          		<td>3</td>
+                <td>Аппаратный массаж стоп</td>
+         	</tr>
+         	<tr>
+          		<td>4</td>
+                <td>Банный комплекс: турецкий хамам + бассейн<br />(группа 6 человек*) или...</td>
+         	</tr>
+         	<tr>
+          		<td></td>
+                <td>..кедровая бочка</td>
+         	</tr>
+         	<tr>
+          		<td colspan="2" align="center"><strong>Второй день</strong></td>
+         	</tr>
+         	<tr>
+          		<td>5</td>
+                <td>Ормед-релакс – профилактика заболеваний позвоночника</td>
+         	</tr>
+         	<tr>
+          		<td>6</td>
+                <td>Соляная пещера</td>
+         	</tr>
+         	<tr>
+          		<td>7</td>
+                <td>Бассейн</td>
+         	</tr>
+         </table>							
+						</div>
+						<!--
+						<div class="sig text-center" style="margin-top: 20px; overflow-x: auto; ">
+							<p>руб / сутки / номер</p>
+							<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+    <tr height="80px">
+     <th width="200px"><font size="+1">Тип размещения</th>
+     <th width="70px">Одноместный стандарт</th>
+     <th width="70px">2-х<br />местный стандарт</th>
+     <th width="70px">2-х<br />местный стандарт<br />на Оку</th>
+     <th width="70px">3-х<br />местный стандарт</th>
+     <th width="70px">Полу- люкс</th>
+     <th width="70px">Люкс</th>
+   </tr>
+
+   <tr>
+	 <td align="left"><strong>1 человек</strong></td>
+	 <td align="right">8400</td>
+	 <td align="right">9350</td>
+	 <td align="right">9600</td>
+	 <td align="right">-</td>
+     <td align="right">9700</td>
+     <td align="right">9750</td>
+   </tr>
+   
+   <tr>
+     <td align="left"><strong>2 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">15100</td>
+     <td align="right">15500</td>
+     <td align="right">-</td>
+     <td align="right">16700</td>
+     <td align="right">16800</td>
+   </tr>
+
+   <tr>
+     <td align="left"><strong>3 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">22950</td>
+     <td align="right">-</td>
+     <td align="right">-</td>
+   </tr>
+
+
+   <tr>
+	 <td align="left"><strong>Доп.место</strong></td>
+     <td align="right">-</td>
+	 <td align="right">6800</td>
+	 <td align="right">6800</td>
+	 <td align="right">6800</td>
+	 <td align="right">6800</td>
+	 <td align="right">6800</td>
+   </tr>
+
+
+								<tr>
+									<td colspan="7">&nbsp;</td>
+								</tr>  
+							</table>     							
+
+						</div>	-->					
+
+						
+						
+					</div>
+				</div>
+
+				<!-- Intro Image -->
+				<div class="col-xl-6 order-xl-2 order-1">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/012.jpg)"></div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+		
+	
+	
+	
+		<!-- Intro Right -->
+	
+<style>
+.programtable tr {
+	height: 35px;	
+	background-color:#FFF;
+}
+.programtable td {
+	padding: 3px;
+}
+
+</style>
+
+<a name="programdetox"></a>		
+	<div class="intro_right intro">
+		<div class="container">
+			<div class="row row-xl-eq-height">
+				
+				<!-- Intro Image -->
+				<div class="col-xl-6">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/016.jpg)"></div>
+					</div>
+				</div>
+
+				<!-- Intro Right Content -->
+				<div class="col-xl-6 intro_right_col">
+					<div class="intro_right_content" >
+						<div class=" text-center"  style="margin-top: -20px;" >
+							<div class="section_title"><h1>Программа Детокс</h1></div>
+							<div class="section_text" style="margin-top: -10px;">с 01.04.2026 по 30.12.2026<br><font size="+2">Бронирование от 10 дней</font></div>
+<span class="slideQ-price">от <strong><font size="+2" color="#FF080D"><script>show_price_program(16);</script></font></strong> руб/сутки</span>							
+							<div class="section_text" style="margin-top: 10px; margin-bottom: 20px; line-height: 24px; font-weight: normal; text-align: left;"><font size="+1">Программа Детокс в санатории "Касимовские Зори" направлена на мягкое очищение организма и эффектное 	снижение веса. В ее основе - диетическое 5-разовое питание по столу №8, способствующее нормализации обмена веществ и постепенному похудению. <br><br>
+							 Комплекс дополняется оздоровительными процедурами: различные виды ванн, массажи, гидромассаж, душ Шарко, кедровая бочка и другие методики, которые усиливают выведение токсинов, улучшают кровообращение и помогают уменьшить объёмы тела.<br><br>
+							 Программа идеально подходит для тех, кто хочет безопасно снизить вес, почувствовать лёгкость и запустить процессы естественного восстановления организма.</font>
+ 
+ 							</div>
+							
+						</div>
+						
+						<!--div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">
+     <table class="programtable" cellpadding="5px" cellspacing="2px" border="1" style="width:100%; margin-left:0; border-collapse: collapse;"> 
+         	<tr>
+          		<td width="40px" style="background:#0C9;"><strong>№</strong></td>
+                <td width="400px" style="background:#0C9;"><strong>Название процедуры</strong></td>
+         	</tr>
+         	<tr>
+          		<td colspan="2" align="center"><strong>В день заезда</strong></td>
+         	</tr>
+         	<tr>
+          		<td>1</td>
+                <td>Ормед-релакс – профилактика заболеваний позвоночника</td>
+         	</tr>
+         	<tr>
+          		<td>2</td>
+                <td>Соляная пещера</td>
+         	</tr>
+         	<tr>
+          		<td>3</td>
+                <td>Банный комплекс: турецкий хамам + бассейн (группа 6 человек*) или...</td>
+         	</tr>
+         	<tr>
+          		<td></td>
+                <td>..кедровая бочка</td>
+         	</tr>
+         	<tr>
+          		<td colspan="2" align="center"><strong>Второй день</strong></td>
+         	</tr>
+         	<tr>          		
+                <td>4</td>
+                <td>Ормед-релакс – профилактика заболеваний позвоночника</td>
+         	</tr>
+         	<tr>
+          		<td>5</td>
+                <td>Соляная пещера</td>
+         	</tr>
+         	<tr>
+          		<td>6</td>
+                <td>Бассейн</td>
+         	</tr>
+         	<tr>
+          		<td colspan="2" align="center"><strong>В день выезда</strong></td>
+         	</tr>
+         	<tr>
+          		<td>7</td>
+                <td>Соляная пещера</td>
+         	</tr>
+         	<tr>
+          		<td>8</td>
+                <td>Бассейн</td>
+         	</tr>
+         </table>							
+						</div-->
+						<!--
+						<div class="sig text-center" style="margin-top: 20px; overflow-x: auto; ">
+							<p>руб / сутки / номер</p>
+							<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" style="padding-top: 4px;">
+								<tr height="80px">
+									<th width="200px"><font size="+1">Тип размещения</th>
+									<th width="70px">Одноместный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт</th>
+									<th width="70px">2-х<br />местный стандарт<br />на Оку</th>
+									<th width="70px">3-х<br />местный стандарт</th>
+									<th width="70px">Полу- люкс</th>
+									<th width="70px">Люкс</th>
+								</tr>
+   
+   <tr>
+	 <td align="left"><strong>1 человек</strong></td>
+	 <td align="right">9295</td>
+	 <td align="right">10595</td>
+	 <td align="right">10795</td>
+	 <td align="right">-</td>
+     <td align="right">11195</td>
+     <td align="right">11495</td>
+   </tr>
+   
+   <tr>
+     <td align="left"><strong>2 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">18590</td>
+     <td align="right">18940</td>
+     <td align="right">19290</td>
+     <td align="right">19490</td>
+     <td align="right">19890</td>
+   </tr>
+
+   <tr>
+     <td align="left"><strong>3 человека</strong></td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">-</td>
+	 <td align="right">27885</td>
+     <td align="right">-</td>
+     <td align="right">-</td>
+   </tr>
+
+
+   <!--tr>
+	 <td align="left"><strong>Доп.место</strong></td>
+     <td align="right">-</td>
+	 <td align="right">9400</td>
+	 <td align="right">9400</td>
+	 <td align="right">9400</td>
+	 <td align="right">9400</td>
+	 <td align="right">9400</td>
+   </tr-->
+
+								<!--tr>
+									<td colspan="7">&nbsp;</td>
+								</tr>  
+							</table>     							
+
+						</div>  -->
+						
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	
+
+	
+	
+	
+<style>
+/* Оформление панели */
+#side-checkbox {
+    display: none;
+}
+.side-panel {
+    position: fixed;
+    z-index: 999999;
+    top: 0;
+    left: -102%; /*-740px;*/
+    background: #337AB7;
+    transition: all 0.5s;   
+    width: 98%; /*640px;*/
+    height: 100vh;
+    box-shadow: 10px 0 20px rgba(0,0,0,0.4);
+    color: #FFF;
+    padding: 40px 20px;
+	overflow: scroll;
+}
+	
+
+.side-title {
+    font-size: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #BFE2FF;
+}
+/* Оформление кнопки на странице */
+.side-button-1-wr {
+    text-align: center; /* Контейнер для кнопки, чтобы было удобнее ее разместить */
+}
+.side-button-1 {
+    display: inline-block;
+}
+.side-button-1 .side-b {
+    margin: 10px;
+    text-decoration: none;
+    position: relative;
+    font-size: 20px;
+    line-height: 20px;
+    padding: 12px 30px;
+    color: #FFF;
+    font-weight: bold;
+    text-transform: uppercase; 
+    font-family: 'Roboto', Тahoma, sans-serif;
+    background: #337AB7;
+    cursor: pointer; 
+    border: 2px solid #BFE2FF;
+}
+.side-button-1 .side-b:hover,
+.side-button-1 .side-b:active,
+.side-button-1 .side-b:focus {
+    color: #FFF;
+}
+.side-button-1 .side-b:after,
+.side-button-1 .side-b:before {
+    position: absolute;
+    height: 4px;
+    left: 50%;
+    bottom: -6px;
+    content: "";
+    transition: all 280ms ease-in-out;
+    width: 0;
+}
+.side-button-1 .side-open:after,
+.side-button-1 .side-open:before {
+    background: green;
+}
+.side-button-1 .side-close:after,
+.side-button-1 .side-close:before {
+    background: red;
+}
+.side-button-1 .side-b:before {
+    top: -6px;
+}
+.side-button-1 .side-b:hover:after,
+.side-button-1 .side-b:hover:before {
+    width: 100%;
+    left: 0;
+}
+.side-button-1 .side-close {
+    display: none;
+}
+
+/* Переключатели кнопки 0 */
+#side-checkbox:checked + .side-panel + .side-button-1-wr .side-button-1 .side-open {
+    display: none;
+}
+#side-checkbox:checked + .side-panel + .side-button-1-wr .side-button-1 .side-close {
+    display: block;
+}
+#side-checkbox:checked + .side-panel {
+    left: 0;
+}
+
+/* Оформление кнопки на панеле */
+.side-button-2 {
+    font-size: 48px;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 1;
+    top: 8px;
+    right: 8px;
+    cursor: pointer;
+    transform: rotate(45deg);
+    color: #BFE2FF;    
+    transition: all 280ms ease-in-out;    
+}
+.side-button-2:hover {
+    transform: rotate(45deg) scale(1.1);    
+    color: #FFF;
+}
+</style>			
+	
+	
+	
+	<!-- Intro Left -->
+
+<a name="programlite"></a>		
+	<div class="intro_left intro">
+		<div class="container">
+			<div class="row">
+				
+				<!-- Intro Left Content -->
+				<div class="col-xl-6 order-xl-1 order-2">
+					<div class="intro_left_content" >
+						<div class="" style="margin-top: -20px; " >
+							<div class="section_title" ><h1>Оздоровительная программа «Лайт»</h1></div>
+							<div class="section_text" style="margin-top: -10px;">с 01.04.2026 по 27.12.2026</div>							
+							<div class="section_text" style="margin-top: -10px;">Проживание, завтрак, обед, ужин, бассейн</div>
+							<div class="section_text" style="margin-top: -10px;">Бронирование от 2-х суток, санаторно-курортная карта не требуется</div>
+							<span class="slideQ-price">от <strong><font size="+2" color="#FF080D"><script>show_price_program(17);</script></font></strong> руб/сутки</span>							
+						</div>
+						
+
+						<div class="intro_right_text" style="text-align: left; line-height: 22px; margin-top: 30px;">
+        							
+						</div>
+						<div class="sig text-center" style="margin-top: 20px; overflow-x: auto; ">
+							
+    						<input type="checkbox" id="side-checkbox" />
+							<div class="side-panel">
+    							<label class="side-button-2" for="side-checkbox">+</label>    
+    							<div class="side-title">
+									<font size="+2"><strong>Оздоровительная программа «Лайт»</strong></font>
+								</div>
+								<div style="width: 100%;  float: left;"> 
+									
+									<font size="+2">
+									<table class="stripetable" cellspacing="2px" cellpadding="4px" border="0" width="100%" >		
+   									<tr height="80px">
+     									<th width="37%"><font size="+1">Период / Категория номера</th>
+									    <th width="9%" style="text-align:center;"><script>show_period(0);</script></th>
+     									<th width="9%" style="text-align:center;"><script>show_period(1);</script></th>
+     									<th width="9%" style="text-align:center;"><script>show_period(2);</script></th>
+     									<th width="9%" style="text-align:center;"><script>show_period(3);</script></th>
+     									<th width="9%" style="text-align:center;"><script>show_period(4);</script></th>
+     									<th width="9%" style="text-align:center;"><script>show_period(5);</script></th>
+     									<th width="9%" style="text-align:center;"><script>show_period(6);</script></th>
+   									</tr> 										
+						   			<tr height="50px" style="border-top: #666 solid 2px;">
+					  			   		<td colspan="8" align="left" style="background-color:#50B9DF;"><strong><font size="+2">СТАНДАРТ одноместный</font></strong></td>	
+									</tr>
+					   				<tr>
+	 									<td align="left" width="30%">Одноместное размещение</strong></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(0, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(0, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(0, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(0, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(0, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(0, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(0, 6);</script></td>
+									</tr>
+						
+									<tr height="50px" style="border-top: #666 solid 2px;">
+						     			<td colspan="8" align="left" style="background-color:#50B9DF;" ><strong><font size="+2">СТАНДАРТ 2-местный однокомнатный</font></strong></td>
+						   			</tr>						
+
+									<tr>	   
+	 									<td align="left" width="30%">Одноместное размещение</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(1, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(1, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(1, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(1, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(1, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(1, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(1, 6);</script></td>   
+   									</tr>
+   									<tr>
+	     								<td align="left">Двухместное размещение</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(2, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(2, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(2, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(2, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(2, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(2, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(2, 6);</script></td>
+   									</tr>
+  									<tr>
+     									<td align="left">Осн. место для ребенка (3-14 лет)</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(3, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(3, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(3, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(3, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(3, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(3, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(3, 6);</script></td>
+   									</tr>						
+   									<tr>
+     									<td align="left">Доп. место (3-14 лет)</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(4, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(4, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(4, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(4, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(4, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(4, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(4, 6);</script></td>
+   									</tr>				
+								
+									<tr height="50px" style="border-top: #666 solid 2px;">
+						     			<td colspan="8" align="left" style="background-color:#50B9DF;" ><strong><font size="+2">СТАНДАРТ 2-местный однокомнатный (с видом на Оку)</font></strong></td>
+						   			</tr>									
+								
+									<tr>	   
+	 									<td align="left" width="30%">Одноместное размещение</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(5, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(5, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(5, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(5, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(5, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(5, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(5, 6);</script></td>   
+   									</tr>
+   									<tr>
+	     								<td align="left">Двухместное размещение</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(6, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(6, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(6, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(6, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(6, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(6, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(6, 6);</script></td>	 
+   									</tr>
+  									<tr>
+     									<td align="left">Осн. место для ребенка (3-14 лет)</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(7, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(7, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(7, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(7, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(7, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(7, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(7, 6);</script></td>
+   									</tr>						
+   									<tr>
+     									<td align="left">Доп. место (3-14 лет)</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(8, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(8, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(8, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(8, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(8, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(8, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(8, 6);</script></td>							
+									</tr>		
+								
+									<tr height="50px" style="border-top: #666 solid 2px;">
+						     			<td colspan="8" align="left" style="background-color:#50B9DF;" ><strong><font size="+2">СТАНДАРТ 3-местный однокомнатный</font></strong></td>
+						   			</tr>				
+								
+									<tr>	   
+	 									<td align="left" width="30%">Двухместное размещение</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(9, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(9, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(9, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(9, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(9, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(9, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(9, 6);</script></td>   
+   									</tr>
+   									<tr>
+	     								<td align="left">Трёхместное размещение</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(10, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(10, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(10, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(10, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(10, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(10, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(10, 6);</script></td>
+   									</tr>
+  									<tr>
+     									<td align="left">Осн. место для ребенка (3-14 лет)</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(11, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(11, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(11, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(11, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(11, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(11, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(11, 6);</script></td>
+   									</tr>						
+   									<tr>
+     									<td align="left">Доп. место (3-14 лет)</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(12, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(12, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(12, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(12, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(12, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(12, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(12, 6);</script></td>								
+									</tr>		
+								
+									<tr height="50px" style="border-top: #666 solid 2px;">
+						     			<td colspan="8" align="left" style="background-color:#50B9DF;" ><strong><font size="+2">ПОЛУЛЮКС однокомнатный</font></strong></td>
+						   			</tr>																	
+								
+									<tr>	   
+	 									<td align="left" width="30%">Одноместное размещение</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(13, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(13, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(13, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(13, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(13, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(13, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(13, 6);</script></td>   
+   									</tr>
+   									<tr>
+	     								<td align="left">Двухместное размещение</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(14, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(14, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(14, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(14, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(14, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(14, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(14, 6);</script></td> 
+   									</tr>
+   									<tr>
+     									<td align="left">Доп. место (3-14 лет)</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(15, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(15, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(15, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(15, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(15, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(15, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(15, 6);</script></td>
+   									</tr>				
+															
+									<tr height="50px" style="border-top: #666 solid 2px;">
+						     			<td colspan="8" align="left" style="background-color:#50B9DF;" ><strong><font size="+2">ЛЮКС однокомнатный</font></strong></td>
+						   			</tr>													
+
+									<tr>	   
+	 									<td align="left" width="30%">Одноместное размещение</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(16, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(16, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(16, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(16, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(16, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(16, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(16, 6);</script></td>	   
+   									</tr>
+   									<tr>
+	     								<td align="left">Двухместное размещение</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(17, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(17, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(17, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(17, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(17, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(17, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(17, 6);</script></td>	 
+   									</tr>
+   									<tr>
+     									<td align="left">Доп. место (3-14 лет)</td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(18, 0);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(18, 1);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(18, 2);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(18, 3);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(18, 4);</script></td>
+	 									<td align="center" width="10%"><script>show_priceInperiod(18, 5);</script></td>	
+	 									<td align="center" width="10%"><script>show_priceInperiod(18, 6);</script></td>
+   									</tr>												
+									</table>
+								</font>
+							
+														
+									
+								</div>	
+							</div>							
+							
+							<!--div class="side-button-1-wr">
+    							<label class="side-button-1" for="side-checkbox">
+        							<div class="side-b side-open">Подробнее</div>
+        							<div class="side-b side-close">Закрыть</div>
+    							</label>
+							</div--> 													
+						
+
+						</div>						
+
+						
+						
+					</div>
+				</div>
+
+				<!-- Intro Image -->
+				<div class="col-xl-6 order-xl-2 order-1">
+					<div class="intro_image">
+						<div class="background_image intro_image_background" style="background-image:url(images/programms/017.jpg)"></div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+		
+		
+	
+	
+	
+
+	<!-- Footer -->
+	<script type="text/javascript" src="js/footer.js"></script>	
+	
+	
+</div>
+
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="styles/bootstrap-4.1.2/popper.js"></script>
+<script src="styles/bootstrap-4.1.2/bootstrap.min.js"></script>
+<script src="plugins/greensock/TweenMax.min.js"></script>
+<script src="plugins/greensock/TimelineMax.min.js"></script>
+<script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
+<script src="plugins/greensock/animation.gsap.min.js"></script>
+<script src="plugins/greensock/ScrollToPlugin.min.js"></script>
+<script src="plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+<script src="plugins/easing/easing.js"></script>
+<script src="plugins/progressbar/progressbar.min.js"></script>
+<script src="plugins/colorbox/jquery.colorbox-min.js"></script>
+<script src="plugins/parallax-js-master/parallax.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF204lFZg1y4kPSIhKaHEXMLYxxuMhA"></script>
+<script src="js/about.js"></script>
+</body>
+</html>
